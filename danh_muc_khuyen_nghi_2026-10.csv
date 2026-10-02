@@ -1,20 +1,20 @@
-stt,nhom,tai_san,ty_trong_pct,so_tien_trieu,gia_02_10,don_vi,vung_mua_thap,vung_mua_cao,cat_lo_dong_cua_tuan,chot_loi_1,chot_loi_2,loi_nhuan_ky_vong_12t,xac_suat_lai_6t_uoc,do_tu_tin_10,dieu_kien_ghi_chu
-1,DANH_MUC,Tiet kiem/CCTG 12 thang,36,36,7.8-8%/nam,lai suat,,,,,,7.8-8%,~100%,10,Ngan hang lanh manh; duoi han muc bao hiem 125 trieu; chia 2 so
-2,DANH_MUC,Quy trai phieu VFF,10,10,26969,dong/CCQ (NAV),,,Rut neu NAV giam >0.5%/thang,,,7-8%,~97%,8,Kiem tra phi ban lai truoc khi mua
-3,DANH_MUC,E1VFVN30,12,12,34.19,nghin dong,32.4,33.8,30.4,36.8,39.5,~11%,~62%,5,Chi mua khi chenh iNAV <=0.5%
-4,DANH_MUC,CTG,8,8,29.75,nghin dong,28.4,29.6,27.0,34.0,40.0,11-15%,~60%,5,Dot 2 chi khi KQKD Q3 tang va no xau <=1.3%
-5,DANH_MUC,GMD,6,6,77.6,nghin dong (truoc thuong),72.5,75.0,69.0,85.0,90.0,~10%,~60%,4,Thuong CP 50%: sau GDKHQ chia moi muc cho 1.5 (48.3-50.0 / SL 46.0 / TP 56.7-60.0)
-6,DANH_MUC,VCB,5,5,57.1,nghin dong,54.0,55.5,50.8,61.5,65.5,10-13%,~60%,5,Khong mua duoi >=56.5; neu chia CP 12.8% thi chia cho 1.128
-7,DANH_MUC,MWG,4,4,73.2,nghin dong (sau GDKHQ 07/10),67.0,70.5,59.5,86.0,92.0,10-15%,~57%,5,GDKHQ co tuc 1000d ngay 07/10; dung mua neu LNST cong ty me Q3 tang <30%
-8,DANH_MUC,NT2,4,4,22.3,nghin dong,20.8,21.8,19.4,24.0,27.0,12-13%,~58%,5,Phan 2 chi khi LNTT Q3 >=350 ty; chot bot truoc BCTC Q4
-9,DANH_MUC,BMP,4,4,141.0,nghin dong,134,139,126,152,160,~10%,~60%,4,Phan 2 chi khi LNST Q3 >=330 ty va bien gop >=46%; lo le ~29 cp
-10,DANH_MUC,MBB,4,4,19.1,nghin dong,17.9,18.6,17.0,21.5,23.5,~13%,~55%,4,Chi mua khi du CA HAI: NIM Q3 >=3.9% va gia giu >17.8 sau 2-3 tuan CP moi ve
-11,DANH_MUC,REE,4,4,47.4,nghin dong,44.5,46.5,41.5,54,58,~10%,~58%,5,Chi mua sau KQKD Q3 neu LNTT >=~900 ty; <790 ty thi bo
-12,DANH_MUC,FRT,3,3,142.9,nghin dong,133,138,120,158,172,~12%,~50%,5,Chi mua sau KQKD Q3 neu LNTT >=566 ty; <500 ty thi bo
-13,THEO_DOI,HPG,0 (toi da 6),,20.05,nghin dong,19.2,19.8,18.2,23.3,25.0,~13%,~50%,4,Kich hoat: Q3 khong giam >20% vs Q2 VA dong cua tuan tren MA50 (~21.4)
-14,THEO_DOI,VNM,0 (toi da 6),,57.3,nghin dong,54.5,56.5,52.0,63.5,70,~10-14%,~58%,5,Sau tam ung co tuc (tru D) va Q3 khong di lui
-15,THEO_DOI,FPT,0 (toi da 5),,62.1,nghin dong,56.5,59,53.5,70,80,~12%,41-53%,4,Phan bien bac bo o gia hien tai; xem lai sau Q3 neu LNST me >=+14% va giu tren 55.9
-16,THEO_DOI,VPB,0 (toi da 4),,22.9,nghin dong,20.8,21.8,18.4,25.3,27.0,~12%,~53%,4,Muc tieu CTCK phai nhan 0.7934 (sau co tuc CP 26.04%)
-17,THEO_DOI,Bitcoin,0 (toi da 5),,85500,USD,75000,80000,59000,97000,110000,~3% o gia hien tai,~46-52%,6,Chi qua san duoc cap phep tai VN; cua so day chu ky 10-11/2026
-18,THEO_DOI,Vang nhan 9999,0 (toi da 5-10),,144.1,trieu dong/luong (gia ban ra),135,138,125,148,158,~0-2.5% o gia hien tai,~40-50%,6,Kich hoat khi gia ban ra <=138 va chenh the gioi <=7%
-19,THEO_DOI,Ethereum,0 (toi da 3),,2704,USD,2150,2300,1800,3030,3400,~5-7%,~33-50%,6,Nhu Bitcoin
+stt,nhom,tai_san,ty_trong_pct,so_tien_trieu,gia_02_10,don_vi,vung_mua_thap,vung_mua_cao,cat_lo,chot_loi_1,chot_loi_2,loi_nhuan_ky_vong_12t,xs_lai_6t_mua_giu,xs_vuot_8pct_12t,do_tu_tin_10,dieu_kien_ghi_chu,gia_dong_cua_tuan,tong_tai_san
+1,DANH_MUC,Tiet kiem/CCTG 12 thang,36,36,>=7.8-8%/nam,lai suat,,,,,,7.8-8%,~100%,50-100%,10,Ngan hang lanh manh; bao hiem toi da 125 trieu/nguoi/ngan hang; chia 2 so; KHONG rut truoc han,,
+2,DANH_MUC,Quy trai phieu VFF,10,10,26969,dong/CCQ (NAV),,,Rut neu NAV giam >0.5%/thang,,,7-7.5%,~95%,~40%,8,Khong duoc bao hiem tien gui; kiem tra phi ban lai; tong quy trai phieu <=20%,,
+3,DANH_MUC,E1VFVN30,12,12,34.19,nghin dong,32.4,33.8,30.4 (dong cua tuan),36.8,39.5,5-11%,55-58%,~50%,5,Chi mua khi gia cao hon iNAV <=0.5%; VN30 dong cua tuan <1740 thi huy lenh cho,,
+4,DANH_MUC,CTG,8,8,29.75,nghin dong,28.4,29.6,27.0 (dong cua tuan),34.0,40.0,10-12%,50-55%,~55%,5,Dot 2: LNTT Q3 tang yoy va no xau <=1.3%; CO THE chia CP 16-21% (~12/2026): chia moi muc cho (1+r),,
+5,DANH_MUC,GMD,6,6,77.6,nghin dong (truoc thuong),72.5,75.0,69.0 (dong cua tuan),85.0,90.0,7-10%,55-60%,~50%,4,Thuong CP 50% thang 10: sau GDKHQ chia moi muc cho 1.5 (48.3-50.0 / SL 46.0 / TP 56.7-60.0); LN loi Q3 giam yoy thi ban 50%,,
+6,DANH_MUC,VCB,5,5,57.1,nghin dong,54.0,55.5,50.8 (dong cua tuan),61.5,65.5,6-11%,55-60%,45-48%,5,Khong mua tren 55.5; dot 2 neu LNTT Q3 >=11500 ty va NIM >=2.7%; neu chia CP 12.8% thi chia cho 1.128,,
+7,DANH_MUC,MWG,4,4,73.2 (truoc GDKHQ 07/10),nghin dong (vung mua/SL/TP DA tru co tuc 1.0),67.0,70.5,59.5 (dong cua tuan),86.0,92.0,10-12%,~55%,~55%,5,Mua sau 07/10; dung mua neu LNST me Q3 tang <30% yoy; dong cua tuan <65 ban 50%,,
+8,DANH_MUC,NT2,4,4,22.3,nghin dong,20.8,21.8,19.4 (dong cua tuan),24.0,27.0,10-13% (gom co tuc),~55%,~55%,5,Phan 2 neu LNTT Q3 >=350 ty; chot bot truoc BCTC Q4 (ngoai le ky han 6T),,
+9,DANH_MUC,BMP,4,4,141.0,nghin dong,134,139,126 (dong cua tuan),152,160,10-14% (gom co tuc ~10%),55-58%,~57%,4,Phan 2 neu LNST Q3 >=330 ty va bien gop >=46%; LNST <300 ty hoac bien gop <44% thi ban het; lo le ~29 cp,,
+10,DANH_MUC,MBB,4,4,19.1,nghin dong,17.9,18.6,17.0 (dong cua tuan),21.5,23.5,9-13%,50-55%,~52%,4,Chi mua khi du CA HAI: NIM 12T >=3.9% va gia giu >17.8 sau 2-3 tuan CP moi ve,,
+11,DANH_MUC,REE,4,4,47.4,nghin dong,44.5,46.5,41.5 (dong cua tuan),54,58,9-11%,~55%,~52%,5,Chi mua sau KQKD Q3 neu LNTT >=~900 ty; <790 ty bo; 790-900 giu khong mua them,,
+12,DANH_MUC,FRT,3,3,142.9,nghin dong,133,138,120 (dong cua tuan),158,172,5-12%,45-50%,~50%,5,Chi mua sau KQKD Q3 neu LNTT >=566 ty; <500 ty bo,,
+13,THEO_DOI,HPG,0 (toi da 6),,20.05,nghin dong,19.2,19.8 (phan 2 toi da 21.8),18.2 (dong cua NGAY),23.3,25.0,~11%,~50%,,4 (tu tin vao nhan dinh CHUA MUA),Phan 1 (1/3) trong vung; phan 2 chi khi lai Q3 >=5500 ty + bien gop >=17% + dong cua tuan >21.4,,
+14,THEO_DOI,VNM,0 (toi da 5),,57.3,nghin dong,54.5,56.5,52.0,63.5,70,8-12%,~55%,,5 (tu tin vao nhan dinh CHUA MUA),Sau tam ung co tuc (tru D) va Q3 khong di lui; chi 16% so lan vuot tiet kiem 12T,,
+15,THEO_DOI,FPT,0 (toi da 5),,62.1,nghin dong,56.5,59,53.5,70,80,~12%,41-45%,,4 (tu tin vao nhan dinh CHUA MUA),Phan bien bac bo o gia hien tai; xem lai sau Q3 neu LNST me >=+14% va giu tren 55.9,,
+16,THEO_DOI,VPB,0 (toi da 3),,22.9,nghin dong,20.8,21.8,18.4,25.3,27.0,10-12%,~53%,,4 (tu tin vao nhan dinh CHUA MUA),Muc tieu CTCK sau dieu chinh 26.04% chi ~24-28; chi mua neu tong ngan hang <=25%,,
+17,THEO_DOI,Vang nhan 9999,0 (toi da 5),,ban ra 144.1 / mua vao 141.1,trieu dong/luong,135 (gia ban ra),138 (gia ban ra),122 (gia MUA VAO cua tiem),145 (gia mua vao),155 (gia mua vao),0-2.5% o gia hien tai,40-50%,,6 (tu tin vao nhan dinh CHUA MUA),Kich hoat khi gia ban ra <=138 va chenh the gioi <=7%,,
+18,THEO_DOI,Bitcoin,0 (toi da 3-5),,85500,USD,75000,80000,59000 (dong cua tuan UTC),97000,110000,~3% o gia hien tai,46-52%,,6 (tu tin vao nhan dinh CHUA MUA),NGOAI khung khuyen nghi cuoi; chi qua san duoc cap phep tai VN; chap nhan mat 25-30% khoan nay,,
+19,THEO_DOI,Ethereum,0 (toi da 2-3),,2704,USD,2150,2300,1800 (dong cua tuan UTC),3030,3400,5-7%,33-50%,,6 (tu tin vao nhan dinh CHUA MUA),Nhu Bitcoin,,
