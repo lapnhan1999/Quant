@@ -1,0 +1,17 @@
+# MSN (consumer_tech) — dữ liệu xác minh đến phiên 02/10/2026 (giá: nghìn đồng)
+GIÁ & KỸ THUẬT (đối chiếu 3 nguồn VNDirect/Vietcap/DNSE): last_date=2026-10-02, close=70.7, chg_1d_pct=-0.28, ret_1w=0.86, ret_1m=0.71, ret_3m=-1.53, ret_6m=-6.11, ret_ytd=-8.18, ret_1y=-13.25, ret_3y=-4.46, high_52w=94.0, high_52w_date=2025-10-17, low_52w=61.7, low_52w_date=2026-07-23, pct_from_52w_high=-24.79, pct_from_52w_low=14.59, ma20=68.79, ma50=67.942, ma100=70.175, ma200=73.635, pct_vs_ma50=4.06, pct_vs_ma200=-3.99, rsi14=58.7, atr14=1.757, atr14_pct=2.49, vol_1y_ann_pct=28.4, max_dd_1y_pct=-27.6, beta_vs_vnindex=0.79, low_20d=65.3, high_20d=73.0, low_60d=61.7, high_60d=73.0, low_120d=61.7, high_120d=82.5, xcheck_sources=3.0, xcheck_max_diff_pct=0.0
+ĐỊNH GIÁ & KQKD (VNDirect ratios, Vietcap IQ BCTC quý; *_yoy = % so cùng kỳ; pctile_5y = phân vị trong 5 năm, 0 = rẻ nhất): mcap_bn=108828, pe_vnd=15.43, pe_5y_median=36.7, pe_pctile_5y=22.0, pb_vnd=2.72, pb_5y_median=3.66, pb_pctile_5y=8.0, div_yield_pct=0.0, q_roe=19.37, q_npl=0.0, q_netInterestMargin=0.0, q_cir=0.0, q_ldrLoanDepositRatio=0.0, q_loansLossReservesToNPLs=0.0, q_debtToEquity=1.88, last_q=2026Q2, pbt_q_bn=4163, pbt_q_yoy=125.5, pbt_6m_bn=6483, pbt_6m_yoy=111.3, pbt_ttm_bn=11302.0, pbt_ttm_yoy=55.0, rev_q_yoy=53.5, rev_6m_yoy=40.1, np_6m_yoy=206.6, np_ttm_yoy=150.3, foreign_own=24.2, foreign_max=100.0, state_own=0.0, adv_1m=299.3, vci_rating=BUY, vci_rating_date=21-May-25, vci_target=101.2, up_vci_target=43.1, vci_tsr=42.7
+BACKTEST 5 NĂM (mua ngẫu nhiên giữ 6/12 tháng; p_beat_dep = % lần vượt lãi tiết kiệm 3,6%/6T, 7,3%/12T; *_dd = khi đang giảm 8–40% từ đỉnh 52 tuần): p_win6=34.7, p_beat_dep6=30.5, med6=-6.1, p10_6=-20.4, p_win12=41.2, p_beat_dep12=26.2, med12=-5.9, p_win6_dd=28.7, med6_dd=-7.2
+TIN 30 NGÀY (Google News):
+  - 20 Sep 2026 | Masan (MSN) báo lãi sau thuế đạt 8.518 tỷ đồng trong 8 tháng 2026, gấp khoảng 2,2 lần cùng kỳ - tinnhanhchungkhoan.vn
+  - 13 Sep 2026 | Cổ phiếu Masan (MSN) giảm gần 23%, ông Nguyễn Đăng Quang không còn là tỷ phú - nguoiquansat.vn
+  - 30 Sep 2026 | Một số cổ phiếu cần quan tâm 1/10: Cơ hội tiềm năng với MSN và VIB - VOV.VN
+  - 30 Sep 2026 | 3 biến số nhà đầu tư cổ phiếu MSN cần theo dõi sau doanh thu tăng 52% - Vietnam.vn
+  - 28 Sep 2026 | Tầm Nhìn Masan đăng ký chuyển nhượng tối đa 10% Masan High-Tech Materials, mở đường niêm yết HoSE - cafef.vn
+  - 28 Sep 2026 | Cổ phiếu MSN chạm đỉnh một tháng, Chủ tịch Masan Nguyễn Đăng Quang tái xuất danh sách tỷ phú USD - Báo Pháp Luật Việt Nam
+  - 10 Sep 2026 | Dự báo chứng khoán 10/9: MSN được kỳ vọng tăng 45%, TCB và KBC cùng được khuyến nghị tích cực - hangthat.thuonghieucongluan.com.vn
+  - 28 Sep 2026 | Cổ phiếu MSN tăng mạnh, ông Nguyễn Đăng Quang trở lại danh sách tỷ phú USD - index.vn
+  - 27 Sep 2026 | Một doanh nhân Việt Nam trở lại danh sách tỷ phú thế giới - Znews
+  - 27 Sep 2026 | Biến động danh sách tỷ phú Việt Nam: Ai vừa trở lại? - Báo Dân trí
+  - 25 Sep 2026 | Masan (MSN) ra 'thông điệp' đáng chú ý, 12,5% vốn MSR có thể được chuyển nhượng sau thương vụ với đối tác Mỹ - nguoiquansat.vn
+  - 28 Sep 2026 | Masan High-Tech Materials (MSR) bán vốn cho cổ đông chiến lược, hướng tới chuyển sàn sang HOSE - tinnhanhchungkhoan.vn

@@ -1,0 +1,15 @@
+# CTR (industrial_energy) — dữ liệu xác minh đến phiên 02/10/2026 (giá: nghìn đồng)
+GIÁ & KỸ THUẬT (đối chiếu 3 nguồn VNDirect/Vietcap/DNSE): last_date=2026-10-02, close=71.2, chg_1d_pct=-0.42, ret_1w=-2.06, ret_1m=-7.53, ret_3m=-5.4, ret_6m=-4.4, ret_ytd=-4.84, ret_1y=-3.26, ret_3y=13.13, high_52w=99.124, high_52w_date=2026-01-15, low_52w=65.5, low_52w_date=2026-07-23, pct_from_52w_high=-28.17, pct_from_52w_low=8.7, ma20=72.75, ma50=73.714, ma100=74.776, ma200=76.295, pct_vs_ma50=-3.41, pct_vs_ma200=-6.68, rsi14=38.2, atr14=1.571, atr14_pct=2.21, vol_1y_ann_pct=30.9, max_dd_1y_pct=-29.9, beta_vs_vnindex=0.57, low_20d=70.0, high_20d=75.9, low_60d=65.5, high_60d=78.9, low_120d=65.5, high_120d=83.685, xcheck_sources=3.0, xcheck_max_diff_pct=0.0
+ĐỊNH GIÁ & KQKD (VNDirect ratios, Vietcap IQ BCTC quý; *_yoy = % so cùng kỳ; pctile_5y = phân vị trong 5 năm, 0 = rẻ nhất): mcap_bn=9160, pe_vnd=13.99, pe_5y_median=20.71, pe_pctile_5y=4.0, pb_vnd=4.42, pb_5y_median=5.56, pb_pctile_5y=19.0, div_yield_pct=2.66, q_roe=30.16, q_npl=0.0, q_netInterestMargin=0.0, q_cir=0.0, q_ldrLoanDepositRatio=0.0, q_loansLossReservesToNPLs=0.0, q_debtToEquity=3.32, last_q=2026Q2, pbt_q_bn=213, pbt_q_yoy=17.6, pbt_6m_bn=402, pbt_6m_yoy=19.8, pbt_ttm_bn=812.0, pbt_ttm_yoy=15.7, rev_q_yoy=28.4, rev_6m_yoy=33.2, np_6m_yoy=20.6, np_ttm_yoy=16.1, foreign_own=5.7, foreign_max=49.0, state_own=65.7, adv_1m=15.2, vci_rating=O-PF, vci_rating_date=14-Apr-26, vci_target=96.8, up_vci_target=36.0, vci_tsr=37.5
+BACKTEST 5 NĂM (mua ngẫu nhiên giữ 6/12 tháng; p_beat_dep = % lần vượt lãi tiết kiệm 3,6%/6T, 7,3%/12T; *_dd = khi đang giảm 8–40% từ đỉnh 52 tuần): p_win6=56.0, p_beat_dep6=48.3, med6=2.7, p10_6=-23.4, p_win12=54.1, p_beat_dep12=48.4, med12=5.5, p_win6_dd=33.2, med6_dd=-6.5
+TIN 30 NGÀY (Google News):
+  - 03 Sep 2026 | Cổ phiếu cần quan tâm ngày 4/9 - tinnhanhchungkhoan.vn
+  - 28 Sep 2026 | Cập nhật cổ phiếu CTR – Tháng 8/2026: Tăng trưởng ở mức vừa phải, sát với dự báo - dautucophieu.net
+  - 04 Sep 2026 | Cổ phiếu đáng chú ý: FPT, GMD sáng cửa tăng giá, CTR vẫn được khuyến nghị trung lập - hangthat.thuonghieucongluan.com.vn
+  - 24 Sep 2026 | Đón tin vui từ Mỹ, một cổ phiếu "bốc đầu" kịch trần - cafef.vn
+  - 30 Sep 2026 | 10 cổ phiếu đầu tư trung và dài hạn, tiềm năng tăng giá lên tới 44% - VnEconomy
+  - 24 Sep 2026 | Giao dịch chứng khoán sáng 24/9: Nhóm cổ phiếu Viettel ngược dòng tỏa sáng - tinnhanhchungkhoan.vn
+  - 24 Sep 2026 | Chứng khoán sáng 24/9: Nhóm Viettel ngược dòng, nổi bật giữa thị trường - thuonghieucongluan.com.vn
+  - 28 Sep 2026 | Cổ phiếu FPT trở nên hấp dẫn, ngành công nghệ chịu sức ép từ AI - index.vn
+  - 28 Sep 2026 | Cập nhật cổ phiếu FRT – Quy mô bắt đầu phát huy hiệu quả, duy trì khuyến nghị Mua vào - dautucophieu.net
+  - 14 Sep 2026 | Cập nhật cổ phiếu MWG - DMX: Doanh thu tháng 8/2026 tăng 29% so với cùng kỳ, vượt dự báo - dautucophieu.net

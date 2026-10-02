@@ -1,0 +1,13 @@
+# BMP (defensive_dividend) — dữ liệu xác minh đến phiên 02/10/2026 (giá: nghìn đồng)
+GIÁ & KỸ THUẬT (đối chiếu 3 nguồn VNDirect/Vietcap/DNSE): last_date=2026-10-02, close=141.0, chg_1d_pct=-1.47, ret_1w=-2.76, ret_1m=-2.62, ret_3m=-8.2, ret_6m=18.21, ret_ytd=-14.82, ret_1y=9.82, ret_3y=128.22, high_52w=180.667, high_52w_date=2025-12-18, low_52w=114.643, low_52w_date=2026-03-23, pct_from_52w_high=-21.96, pct_from_52w_low=22.99, ma20=143.13, ma50=145.696, ma100=145.141, ma200=145.699, pct_vs_ma50=-3.22, pct_vs_ma200=-3.23, rsi14=40.8, atr14=2.471, atr14_pct=1.75, vol_1y_ann_pct=36.0, max_dd_1y_pct=-35.8, beta_vs_vnindex=0.49, low_20d=138.0, high_20d=147.6, low_60d=138.0, high_60d=156.0, low_120d=123.156, high_120d=156.0, xcheck_sources=3.0, xcheck_max_diff_pct=0.0
+ĐỊNH GIÁ & KQKD (VNDirect ratios, Vietcap IQ BCTC quý; *_yoy = % so cùng kỳ; pctile_5y = phân vị trong 5 năm, 0 = rẻ nhất): mcap_bn=11714, pe_vnd=9.13, pe_5y_median=10.08, pe_pctile_5y=27.0, pb_vnd=4.11, pb_5y_median=3.35, pb_pctile_5y=88.0, div_yield_pct=10.38, q_roe=42.56, q_npl=0.0, q_netInterestMargin=0.0, q_cir=0.0, q_ldrLoanDepositRatio=0.0, q_loansLossReservesToNPLs=0.0, q_debtToEquity=0.18, last_q=2026Q2, pbt_q_bn=459, pbt_q_yoy=11.3, pbt_6m_bn=839, pbt_6m_yoy=8.8, pbt_ttm_bn=1607.0, pbt_ttm_yoy=12.9, rev_q_yoy=0.9, rev_6m_yoy=3.2, np_6m_yoy=8.8, np_ttm_yoy=12.8, foreign_own=82.4, foreign_max=100.0, state_own=0.0, adv_1m=9.7, vci_rating=BUY, vci_rating_date=17-Jun-26, vci_target=163.0, up_vci_target=15.6, vci_tsr=24.7
+BACKTEST 5 NĂM (mua ngẫu nhiên giữ 6/12 tháng; p_beat_dep = % lần vượt lãi tiết kiệm 3,6%/6T, 7,3%/12T; *_dd = khi đang giảm 8–40% từ đỉnh 52 tuần): p_win6=77.9, p_beat_dep6=70.2, med6=14.7, p10_6=-5.6, p_win12=97.2, p_beat_dep12=87.0, med12=36.3, p_win6_dd=90.1, med6_dd=24.8
+TIN 30 NGÀY (Google News):
+  - 24 Sep 2026 | Cổ phiếu cần quan tâm ngày 25/9 - tinnhanhchungkhoan.vn
+  - 07 Sep 2026 | Cổ phiếu BPM được đánh giá tích cực - Báo Sức khỏe & Đời sống
+  - 24 Sep 2026 | Cổ phiếu ngày 25/9: Giá khí, nguyên liệu và thương mại điện tử tạo phân hóa - thuonghieucongluan.com.vn
+  - 28 Sep 2026 | Tuần 28/09-02/10/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock - fili.vn
+  - 01 Oct 2026 | BMP: Thông báo thay đổi giấy chứng nhận đăng ký DN - Vietstock
+  - 11 Sep 2026 | Sau hai lần hạ giá bán, Nhựa Bình Minh (BMP) đặt cược vào điều gì trong nửa cuối năm? - Tạp chí Kinh tế chứng khoán Việt Nam
+  - 24 Sep 2026 | Ngày 24/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock - fili.vn
+  - 25 Sep 2026 | Nhìn lại diễn biến nhóm cổ phiếu được các công ty chứng khoán khuyến nghị tuần qua - tinnhanhchungkhoan.vn
