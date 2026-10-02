@@ -1,20 +1,20 @@
-name: market-data
+name: fundamentals
 
 on:
   push:
     branches: ["claude/**"]
-    paths: ["scripts/fetch_market_data.py", ".github/workflows/market-data.yml"]
+    paths: ["scripts/fetch_fundamentals.py", ".github/workflows/fundamentals.yml"]
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: market-data-${{ github.ref }}
+  group: data-commit-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
-  snapshot:
+  fundamentals:
     runs-on: ubuntu-latest
     timeout-minutes: 40
     steps:
@@ -23,16 +23,14 @@ jobs:
         with:
           python-version: "3.11"
       - name: Install dependencies
-        run: |
-          pip install --quiet requests pandas numpy yfinance tabulate
-          pip install --quiet vnstock || echo "vnstock install failed"
-      - name: Fetch market data
-        run: python scripts/fetch_market_data.py
-      - name: Commit snapshot
+        run: pip install --quiet requests pandas numpy tabulate
+      - name: Fetch fundamentals
+        run: python scripts/fetch_fundamentals.py
+      - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/
-          git commit -m "data: market snapshot $(date -u +%Y-%m-%dT%H:%MZ)" || echo "nothing to commit"
+          git commit -m "data: fundamentals snapshot $(date -u +%Y-%m-%dT%H:%MZ)" || echo "nothing to commit"
           git pull --rebase origin ${GITHUB_REF_NAME}
           git push origin HEAD:${GITHUB_REF_NAME}
