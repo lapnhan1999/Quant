@@ -61,6 +61,36 @@ for sym, v in f.items():
         if pbs and r.get("pb_vnd"):
             r["pb_5y_median"] = round(float(pd.Series(pbs).median()), 2)
             r["pb_pctile_5y"] = round(float((pd.Series(pbs) < r["pb_vnd"]).mean() * 100))
+    inc = (v.get("iq_income") or {}).get("quarters") or []
+    q = {(x.get("yearReport"), x.get("lengthReport")): x for x in inc if 1 <= (x.get("lengthReport") or 0) <= 4}
+    keys = sorted(q)
+    if keys:
+        y, l = keys[-1]
+        r["last_q"] = f"{y}Q{l}"
+        def ago(k, n):
+            yy, ll = k
+            idx = yy * 4 + ll - 1 - n
+            return (idx // 4, idx % 4 + 1)
+        def g(field, n_q, shift=4):
+            cur = [q.get(ago(keys[-1], i), {}).get(field) for i in range(n_q)]
+            prev = [q.get(ago(keys[-1], i + shift), {}).get(field) for i in range(n_q)]
+            if any(c is None for c in cur + prev):
+                return None, None
+            sc, sp = sum(cur), sum(prev)
+            return sc, (round((sc / sp - 1) * 100, 1) if sp and sp > 0 else None)
+        bank = any((x.get("isb38") or 0) != 0 for x in inc)
+        rev_field = "isb38" if bank else "isa3"
+        for lbl, n in (("q", 1), ("6m", 2), ("ttm", 4)):
+            pbt, pg = g("isa16", n)
+            npp, ng = g("isa22", n)
+            rev, rg = g(rev_field, n)
+            r[f"pbt_{lbl}_bn"] = round(pbt / 1e9) if pbt is not None else None
+            r[f"pbt_{lbl}_yoy"] = pg
+            r[f"np_{lbl}_yoy"] = ng
+            r[f"rev_{lbl}_yoy"] = rg
+        if bank:
+            prov, pv = g("isb41", 2)
+            r["prov_6m_yoy"] = pv
     rc = (v.get("vndirect_recs") or {}).get("data") or []
     rc = [x for x in rc if isinstance(x, dict) and (x.get("reportDate") or "") >= "2025-10-01"]
     recs[sym] = rc
