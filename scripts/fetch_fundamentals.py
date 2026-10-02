@@ -65,9 +65,9 @@ def endpoints(sym):
             headers=IQ_HDR, timeout=25),
         "iq_overview": lambda: S.get(f"https://iq.vietcap.com.vn/api/iq-insight-service/v1/company/{sym}",
                                      headers=IQ_HDR, timeout=25),
-        "iq_fin_ratio": lambda: S.get(
-            f"https://iq.vietcap.com.vn/api/iq-insight-service/v1/company/{sym}/financial-statement/metrics",
-            headers=IQ_HDR, timeout=25),
+        "iq_income": lambda: S.get(
+            f"https://iq.vietcap.com.vn/api/iq-insight-service/v1/company/{sym}/financial-statement"
+            "?section=INCOME_STATEMENT", headers=IQ_HDR, timeout=25),
         "iq_analysis": lambda: S.get(
             f"https://iq.vietcap.com.vn/api/iq-insight-service/v1/company/{sym}/analysis-reports?page=0&size=10",
             headers=IQ_HDR, timeout=25),
@@ -134,6 +134,20 @@ def trim(name, j):
             rows = j["data"]["CompanyFinancialRatio"]["ratio"]
             rows = sorted(rows, key=lambda r: (r.get("yearReport") or 0, r.get("lengthReport") or 0), reverse=True)
             return rows[:8 if name.endswith("Q") else 5]
+        if name == "iq_stats_fin":
+            rows = sorted(j["data"], key=lambda r: (r.get("yearReport") or 0, r.get("quarter") or 0))
+            return {"data": rows[-28:]}
+        if name == "iq_income":
+            d = j.get("data") or {}
+            out = {}
+            for per in ("quarters", "years"):
+                rows = d.get(per) or []
+                rows = sorted(rows, key=lambda r: (r.get("yearReport") or 0, r.get("lengthReport") or 0))
+                out[per] = rows[-12:] if per == "quarters" else rows[-5:]
+            if not out["quarters"] and not out["years"]:
+                return {"raw_keys": list(d.keys()) if isinstance(d, dict) else str(type(d)),
+                        "sample": json.dumps(d, ensure_ascii=False)[:3000]}
+            return out
         if isinstance(j, dict) and isinstance(j.get("data"), list):
             return {**{k: v for k, v in j.items() if k != "data"}, "data": j["data"][:12]}
         if isinstance(j, list):
@@ -154,7 +168,7 @@ def main():
                 print(sym, res["name"], res.get("status"), res.get("error", "")[:100], (res.get("body") or "")[:160].replace("\n", " "))
     with open(f"{OUT}/fundamentals_probe.json", "w") as f:
         json.dump(probe, f, ensure_ascii=False, indent=1)
-    working = sorted({k.split(":")[1] for k, v in probe.items() if good(v)})
+    working = sorted({k.split(":")[1] for k, v in probe.items() if good(v)} - {"kbs_profile", "cafef_ratio"})
     print("working endpoints:", working)
 
     out = {}
