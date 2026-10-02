@@ -1,0 +1,2061 @@
+{
+ "VCB": [
+  {
+   "code": "VCB",
+   "firm": "Jefferies",
+   "type": "BUY",
+   "reportDate": "2026-06-25",
+   "source": "BLOOMBERG",
+   "analyst": "Joanna Cheah",
+   "reportPrice": 60.8,
+   "targetPrice": 78.38,
+   "avgTargetPrice": 78.01772727272727
+  },
+  {
+   "code": "VCB",
+   "firm": "Yuanta",
+   "type": "BUY",
+   "reportDate": "2026-06-17",
+   "source": "BLOOMBERG",
+   "analyst": "Tanh Tran",
+   "reportPrice": 62.2,
+   "targetPrice": 71.015,
+   "avgTargetPrice": 78.01772727272727
+  },
+  {
+   "code": "VCB",
+   "firm": "VCS",
+   "type": "BUY",
+   "reportDate": "2026-06-02",
+   "source": "BLOOMBERG",
+   "analyst": "Quan Vu",
+   "reportPrice": 61.6,
+   "targetPrice": 78.5,
+   "avgTargetPrice": 78.01772727272727
+  },
+  {
+   "code": "VCB",
+   "firm": "NHSV",
+   "type": "BUY",
+   "reportDate": "2026-05-15",
+   "source": "BLOOMBERG",
+   "analyst": "Team Coverage",
+   "reportPrice": 60.7,
+   "targetPrice": 72.0,
+   "avgTargetPrice": 78.01772727272727
+  },
+  {
+   "code": "VCB",
+   "firm": "SBB",
+   "type": "BUY",
+   "reportDate": "2026-05-05",
+   "source": "BLOOMBERG",
+   "analyst": "Ngoc Han Ngo",
+   "reportPrice": 59.9,
+   "targetPrice": 74.8,
+   "avgTargetPrice": 78.01772727272727
+  },
+  {
+   "code": "VCB",
+   "firm": "SSI",
+   "type": "BUY",
+   "reportDate": "2026-05-04",
+   "source": "BLOOMBERG",
+   "analyst": "Ha Nguyen",
+   "reportPrice": 60.7,
+   "targetPrice": 81.7,
+   "avgTargetPrice": 78.01772727272727
+  },
+  {
+   "code": "VCB",
+   "firm": "Citi",
+   "type": "BUY",
+   "reportDate": "2026-04-13",
+   "source": "BLOOMBERG",
+   "analyst": "Ferry Wong",
+   "reportPrice": 59.2,
+   "targetPrice": 88.1,
+   "avgTargetPrice": 78.01772727272727
+  },
+  {
+   "code": "VCB",
+   "firm": "VPB",
+   "type": "BUY",
+   "reportDate": "2026-04-09",
+   "source": "BLOOMBERG",
+   "analyst": "Hung Vu",
+   "reportPrice": 59.4,
+   "targetPrice": 72.8,
+   "avgTargetPrice": 78.01772727272727
+  },
+  {
+   "code": "VCB",
+   "firm": "Shinhan Invest",
+   "type": "BUY",
+   "reportDate": "2026-03-26",
+   "source": "BLOOMBERG",
+   "analyst": "Phuong Nguyen",
+   "reportPrice": 57.9,
+   "targetPrice": 79.8,
+   "avgTargetPrice": 78.01772727272727
+  },
+  {
+   "code": "VCB",
+   "firm": "Maybank IBG",
+   "type": "BUY",
+   "reportDate": "2026-02-23",
+   "source": "BLOOMBERG",
+   "analyst": "Trong Thanh Quan",
+   "reportPrice": 66.4,
+   "targetPrice": 85.3,
+   "avgTargetPrice": 78.01772727272727
+  },
+  {
+   "code": "VCB",
+   "firm": "BSI",
+   "type": "BUY",
+   "reportDate": "2026-02-12",
+   "source": "BLOOMBERG",
+   "analyst": "Doan Tri",
+   "reportPrice": 64.2,
+   "targetPrice": 75.8,
+   "avgTargetPrice": 78.01772727272727
+  }
+ ],
+ "BID": [],
+ "CTG": [],
+ "TCB": [
+  {
+   "code": "TCB",
+   "firm": "Jefferies",
+   "type": "BUY",
+   "reportDate": "2026-07-22",
+   "source": "BLOOMBERG",
+   "analyst": "Joanna Cheah",
+   "reportPrice": 29.0,
+   "targetPrice": 44.374,
+   "avgTargetPrice": 42.88616666666667
+  },
+  {
+   "code": "TCB",
+   "firm": "HSC",
+   "type": "BUY",
+   "reportDate": "2026-07-22",
+   "source": "BLOOMBERG",
+   "analyst": "Lien Ha Pham",
+   "reportPrice": 29.0,
+   "targetPrice": 44.5,
+   "avgTargetPrice": 42.88616666666667
+  },
+  {
+   "code": "TCB",
+   "firm": "UBS",
+   "type": "BUY",
+   "reportDate": "2026-07-21",
+   "source": "BLOOMBERG",
+   "analyst": "Aakash Rawat",
+   "reportPrice": 29.8,
+   "targetPrice": 45.0,
+   "avgTargetPrice": 42.88616666666667
+  },
+  {
+   "code": "TCB",
+   "firm": "Yuanta",
+   "type": "BUY",
+   "reportDate": "2026-06-17",
+   "source": "BLOOMBERG",
+   "analyst": "Tanh Tran",
+   "reportPrice": 31.45,
+   "targetPrice": 39.86,
+   "avgTargetPrice": 42.88616666666667
+  },
+  {
+   "code": "TCB",
+   "firm": "VCS",
+   "type": "BUY",
+   "reportDate": "2026-06-02",
+   "source": "BLOOMBERG",
+   "analyst": "Quan Vu",
+   "reportPrice": 31.9,
+   "targetPrice": 42.6,
+   "avgTargetPrice": 42.88616666666667
+  },
+  {
+   "code": "TCB",
+   "firm": "SBB",
+   "type": "BUY",
+   "reportDate": "2026-05-20",
+   "source": "BLOOMBERG",
+   "analyst": "Ngoc Han Ngo",
+   "reportPrice": 32.45,
+   "targetPrice": 42.1,
+   "avgTargetPrice": 42.88616666666667
+  },
+  {
+   "code": "TCB",
+   "firm": "VND",
+   "type": "BUY",
+   "reportDate": "2026-04-17",
+   "source": "VNDIRECT",
+   "analyst": "Linh Nguyen Thao",
+   "reportPrice": 31.9,
+   "targetPrice": 39.2,
+   "avgTargetPrice": 42.88616666666667
+  },
+  {
+   "code": "TCB",
+   "firm": "MBS",
+   "type": "BUY",
+   "reportDate": "2026-04-01",
+   "source": "BLOOMBERG",
+   "analyst": "Dinh Cong Luyen",
+   "reportPrice": 30.8,
+   "targetPrice": 41.8,
+   "avgTargetPrice": 42.88616666666667
+  },
+  {
+   "code": "TCB",
+   "firm": "VPB",
+   "type": "BUY",
+   "reportDate": "2026-03-19",
+   "source": "BLOOMBERG",
+   "analyst": "Ha Hien",
+   "reportPrice": 30.05,
+   "targetPrice": 40.0,
+   "avgTargetPrice": 42.88616666666667
+  },
+  {
+   "code": "TCB",
+   "firm": "Maybank IBG",
+   "type": "BUY",
+   "reportDate": "2026-02-23",
+   "source": "BLOOMBERG",
+   "analyst": "Trong Thanh Quan",
+   "reportPrice": 35.85,
+   "targetPrice": 48.0,
+   "avgTargetPrice": 42.88616666666667
+  },
+  {
+   "code": "TCB",
+   "firm": "Shinhan Invest",
+   "type": "BUY",
+   "reportDate": "2026-01-28",
+   "source": "BLOOMBERG",
+   "analyst": "Phuong Nguyen",
+   "reportPrice": 34.5,
+   "targetPrice": 43.7,
+   "avgTargetPrice": 42.88616666666667
+  },
+  {
+   "code": "TCB",
+   "firm": "BSI",
+   "type": "BUY",
+   "reportDate": "2026-01-28",
+   "source": "BLOOMBERG",
+   "analyst": "Doan Tri",
+   "reportPrice": 34.5,
+   "targetPrice": 43.5,
+   "avgTargetPrice": 42.88616666666667
+  }
+ ],
+ "MBB": [
+  {
+   "code": "MBB",
+   "firm": "VND",
+   "type": "BUY",
+   "reportDate": "2026-03-27",
+   "source": "VNDIRECT",
+   "analyst": "Linh Nguyen Thao",
+   "reportPrice": 25.8,
+   "targetPrice": 31.6,
+   "avgTargetPrice": 31.6
+  }
+ ],
+ "ACB": [
+  {
+   "code": "ACB",
+   "firm": "VND",
+   "type": "BUY",
+   "reportDate": "2025-10-03",
+   "source": "VNDIRECT",
+   "analyst": "Linh Nguyen Thao",
+   "reportPrice": 25.75,
+   "targetPrice": 31.3,
+   "avgTargetPrice": 31.3
+  }
+ ],
+ "VPB": [
+  {
+   "code": "VPB",
+   "firm": "Maybank IBG",
+   "type": "BUY",
+   "reportDate": "2026-07-23",
+   "source": "BLOOMBERG",
+   "analyst": "Trong Thanh Quan",
+   "reportPrice": 25.0,
+   "targetPrice": 32.0,
+   "avgTargetPrice": 36.300769230769234
+  },
+  {
+   "code": "VPB",
+   "firm": "NHSV",
+   "type": "BUY",
+   "reportDate": "2026-07-23",
+   "source": "BLOOMBERG",
+   "analyst": "Bui Nam",
+   "reportPrice": 25.0,
+   "targetPrice": 34.0,
+   "avgTargetPrice": 36.300769230769234
+  },
+  {
+   "code": "VPB",
+   "firm": "SBB",
+   "type": "BUY",
+   "reportDate": "2026-07-22",
+   "source": "BLOOMBERG",
+   "analyst": "Ngoc Han Ngo",
+   "reportPrice": 25.0,
+   "targetPrice": 35.1,
+   "avgTargetPrice": 36.300769230769234
+  },
+  {
+   "code": "VPB",
+   "firm": "HSC",
+   "type": "BUY",
+   "reportDate": "2026-07-21",
+   "source": "BLOOMBERG",
+   "analyst": "Lien Ha Pham",
+   "reportPrice": 25.35,
+   "targetPrice": 36.8,
+   "avgTargetPrice": 36.300769230769234
+  },
+  {
+   "code": "VPB",
+   "firm": "MBS",
+   "type": "BUY",
+   "reportDate": "2026-07-20",
+   "source": "BLOOMBERG",
+   "analyst": "Pham Huong",
+   "reportPrice": 25.0,
+   "targetPrice": 40.5,
+   "avgTargetPrice": 36.300769230769234
+  },
+  {
+   "code": "VPB",
+   "firm": "MASC",
+   "type": "BUY",
+   "reportDate": "2026-06-24",
+   "source": "BLOOMBERG",
+   "analyst": "Nguyen Duong Cong Nguyen",
+   "reportPrice": 26.55,
+   "targetPrice": 33.8,
+   "avgTargetPrice": 36.300769230769234
+  },
+  {
+   "code": "VPB",
+   "firm": "Yuanta",
+   "type": "BUY",
+   "reportDate": "2026-06-17",
+   "source": "BLOOMBERG",
+   "analyst": "Tanh Tran",
+   "reportPrice": 26.5,
+   "targetPrice": 32.28,
+   "avgTargetPrice": 36.300769230769234
+  },
+  {
+   "code": "VPB",
+   "firm": "VCS",
+   "type": "BUY",
+   "reportDate": "2026-06-02",
+   "source": "BLOOMBERG",
+   "analyst": "Ngoc Huynh",
+   "reportPrice": 26.45,
+   "targetPrice": 38.0,
+   "avgTargetPrice": 36.300769230769234
+  },
+  {
+   "code": "VPB",
+   "firm": "VCBS",
+   "type": "BUY",
+   "reportDate": "2026-04-13",
+   "source": "BLOOMBERG",
+   "analyst": "Hanh Linh Nguyen",
+   "reportPrice": 26.9,
+   "targetPrice": 35.03,
+   "avgTargetPrice": 36.300769230769234
+  },
+  {
+   "code": "VPB",
+   "firm": "BSI",
+   "type": "BUY",
+   "reportDate": "2026-03-02",
+   "source": "BLOOMBERG",
+   "analyst": "Doan Tri",
+   "reportPrice": 28.05,
+   "targetPrice": 36.5,
+   "avgTargetPrice": 36.300769230769234
+  },
+  {
+   "code": "VPB",
+   "firm": "Shinhan Invest",
+   "type": "BUY",
+   "reportDate": "2026-02-25",
+   "source": "BLOOMBERG",
+   "analyst": "Phuong Nguyen",
+   "reportPrice": 28.85,
+   "targetPrice": 38.0,
+   "avgTargetPrice": 36.300769230769234
+  },
+  {
+   "code": "VPB",
+   "firm": "VPB",
+   "type": "BUY",
+   "reportDate": "2025-12-24",
+   "source": "BLOOMBERG",
+   "analyst": "Long Ngo",
+   "reportPrice": 29.3,
+   "targetPrice": 42.8,
+   "avgTargetPrice": 36.300769230769234
+  }
+ ],
+ "HDB": [],
+ "STB": [
+  {
+   "code": "STB",
+   "firm": "VND",
+   "type": "HOLD",
+   "reportDate": "2026-04-15",
+   "source": "VNDIRECT",
+   "analyst": "Tung Nguyen Manh",
+   "reportPrice": 66.1,
+   "targetPrice": 73.0,
+   "avgTargetPrice": 70.3528
+  },
+  {
+   "code": "STB",
+   "firm": "VCBS",
+   "type": "BUY",
+   "reportDate": "2026-04-13",
+   "source": "BLOOMBERG",
+   "analyst": "Hanh Linh Nguyen",
+   "reportPrice": 67.3,
+   "targetPrice": 69.664,
+   "avgTargetPrice": 70.3528
+  },
+  {
+   "code": "STB",
+   "firm": "Maybank IBG",
+   "type": "BUY",
+   "reportDate": "2026-02-23",
+   "source": "BLOOMBERG",
+   "analyst": "Trong Thanh Quan",
+   "reportPrice": 62.9,
+   "targetPrice": 82.0,
+   "avgTargetPrice": 70.3528
+  },
+  {
+   "code": "STB",
+   "firm": "GTJA",
+   "type": "BUY",
+   "reportDate": "2025-12-15",
+   "source": "BLOOMBERG",
+   "analyst": "Thi Hong Nhung Tran",
+   "reportPrice": 46.8,
+   "targetPrice": 54.5,
+   "avgTargetPrice": 70.3528
+  },
+  {
+   "code": "STB",
+   "firm": "SBB",
+   "type": "BUY",
+   "reportDate": "2025-11-20",
+   "source": "BLOOMBERG",
+   "analyst": "Ngoc Han Ngo",
+   "reportPrice": 49.5,
+   "targetPrice": 72.6,
+   "avgTargetPrice": 70.3528
+  }
+ ],
+ "VIB": [
+  {
+   "code": "VIB",
+   "firm": "SBB",
+   "type": "BUY",
+   "reportDate": "2026-05-15",
+   "source": "BLOOMBERG",
+   "analyst": "Ngoc Han Ngo",
+   "reportPrice": 16.1,
+   "targetPrice": 21.05,
+   "avgTargetPrice": 22.95
+  },
+  {
+   "code": "VIB",
+   "firm": "MBS",
+   "type": "BUY",
+   "reportDate": "2026-03-10",
+   "source": "BLOOMBERG",
+   "analyst": "Dinh Cong Luyen",
+   "reportPrice": 16.1,
+   "targetPrice": 24.85,
+   "avgTargetPrice": 22.95
+  }
+ ],
+ "TPB": [
+  {
+   "code": "TPB",
+   "firm": "VCS",
+   "type": "BUY",
+   "reportDate": "2026-05-21",
+   "source": "BLOOMBERG",
+   "analyst": "Vuong Dinh",
+   "reportPrice": 15.6,
+   "targetPrice": 18.6,
+   "avgTargetPrice": 21.264333333333333
+  },
+  {
+   "code": "TPB",
+   "firm": "VND",
+   "type": "BUY",
+   "reportDate": "2026-04-06",
+   "source": "VNDIRECT",
+   "reportPrice": 16.35,
+   "targetPrice": 21.7,
+   "avgTargetPrice": 21.264333333333333
+  },
+  {
+   "code": "TPB",
+   "firm": "NHSV",
+   "type": "BUY",
+   "reportDate": "2026-03-23",
+   "source": "BLOOMBERG",
+   "analyst": "Team Coverage",
+   "reportPrice": 15.1,
+   "targetPrice": 23.493,
+   "avgTargetPrice": 21.264333333333333
+  }
+ ],
+ "LPB": [],
+ "SHB": [
+  {
+   "code": "SHB",
+   "firm": "SBB",
+   "type": "BUY",
+   "reportDate": "2026-03-13",
+   "source": "BLOOMBERG",
+   "analyst": "Ngoc Han Ngo",
+   "reportPrice": 14.95,
+   "targetPrice": 19.02235,
+   "avgTargetPrice": 19.02235
+  }
+ ],
+ "SSB": [],
+ "MSB": [],
+ "OCB": [],
+ "EIB": [],
+ "NAB": [],
+ "SSI": [
+  {
+   "code": "SSI",
+   "firm": "HSBC",
+   "type": "BUY",
+   "reportDate": "2026-07-22",
+   "source": "BLOOMBERG",
+   "analyst": "Joy Wang",
+   "reportPrice": 22.65,
+   "targetPrice": 30.0,
+   "avgTargetPrice": 33.12682857142857
+  },
+  {
+   "code": "SSI",
+   "firm": "HSC",
+   "type": "BUY",
+   "reportDate": "2026-07-21",
+   "source": "BLOOMBERG",
+   "analyst": "Khanh Tung Le",
+   "reportPrice": 23.2,
+   "targetPrice": 33.0,
+   "avgTargetPrice": 33.12682857142857
+  },
+  {
+   "code": "SSI",
+   "firm": "Maybank IBG",
+   "type": "BUY",
+   "reportDate": "2026-07-20",
+   "source": "BLOOMBERG",
+   "analyst": "Tran Nhan",
+   "reportPrice": 22.7,
+   "targetPrice": 32.5,
+   "avgTargetPrice": 33.12682857142857
+  },
+  {
+   "code": "SSI",
+   "firm": "Yuanta",
+   "type": "BUY",
+   "reportDate": "2026-07-17",
+   "source": "BLOOMBERG",
+   "analyst": "Matthew Smith",
+   "reportPrice": 24.25,
+   "targetPrice": 29.2378,
+   "avgTargetPrice": 33.12682857142857
+  },
+  {
+   "code": "SSI",
+   "firm": "VCS",
+   "type": "BUY",
+   "reportDate": "2026-07-16",
+   "source": "BLOOMBERG",
+   "analyst": "Nga Ho",
+   "reportPrice": 25.0,
+   "targetPrice": 31.6,
+   "avgTargetPrice": 33.12682857142857
+  },
+  {
+   "code": "SSI",
+   "firm": "SBB",
+   "type": "BUY",
+   "reportDate": "2026-02-11",
+   "source": "BLOOMBERG",
+   "analyst": "Ngoc Han Ngo",
+   "reportPrice": 31.2,
+   "targetPrice": 36.15,
+   "avgTargetPrice": 33.12682857142857
+  },
+  {
+   "code": "SSI",
+   "firm": "VPB",
+   "type": "BUY",
+   "reportDate": "2025-12-24",
+   "source": "BLOOMBERG",
+   "analyst": "Team Coverage",
+   "reportPrice": 31.35,
+   "targetPrice": 39.4,
+   "avgTargetPrice": 33.12682857142857
+  }
+ ],
+ "VCI": [
+  {
+   "code": "VCI",
+   "firm": "HSC",
+   "type": "BUY",
+   "reportDate": "2026-07-22",
+   "source": "BLOOMBERG",
+   "analyst": "Khanh Tung Le",
+   "reportPrice": 19.9,
+   "targetPrice": 31.1,
+   "avgTargetPrice": 31.396575
+  },
+  {
+   "code": "VCI",
+   "firm": "Maybank IBG",
+   "type": "BUY",
+   "reportDate": "2026-07-20",
+   "source": "BLOOMBERG",
+   "analyst": "Tran Nhan",
+   "reportPrice": 20.0,
+   "targetPrice": 32.3,
+   "avgTargetPrice": 31.396575
+  },
+  {
+   "code": "VCI",
+   "firm": "Yuanta",
+   "type": "BUY",
+   "reportDate": "2026-07-17",
+   "source": "BLOOMBERG",
+   "analyst": "Matthew Smith",
+   "reportPrice": 21.25,
+   "targetPrice": 26.8863,
+   "avgTargetPrice": 31.396575
+  },
+  {
+   "code": "VCI",
+   "firm": "SBB",
+   "type": "BUY",
+   "reportDate": "2026-05-05",
+   "source": "BLOOMBERG",
+   "analyst": "Ngoc Han Ngo",
+   "reportPrice": 25.6,
+   "targetPrice": 35.3,
+   "avgTargetPrice": 31.396575
+  }
+ ],
+ "HCM": [],
+ "VND": [],
+ "VIX": [],
+ "SHS": [],
+ "MBS": [],
+ "FTS": [],
+ "BSI": [],
+ "CTS": [],
+ "FPT": [],
+ "CMG": [],
+ "MWG": [],
+ "DMX": [],
+ "FRT": [],
+ "DGW": [
+  {
+   "code": "DGW",
+   "firm": "VND",
+   "type": "BUY",
+   "reportDate": "2025-12-01",
+   "source": "VNDIRECT",
+   "analyst": "Minh Tran Anh",
+   "reportPrice": 43.7,
+   "targetPrice": 51.5,
+   "avgTargetPrice": 51.5
+  }
+ ],
+ "PNJ": [
+  {
+   "code": "PNJ",
+   "firm": "Jefferies",
+   "type": "BUY",
+   "reportDate": "2026-07-06",
+   "source": "BLOOMBERG",
+   "analyst": "Joanna Cheah",
+   "reportPrice": 54.6,
+   "targetPrice": 73.94,
+   "avgTargetPrice": 85.43444333333333
+  },
+  {
+   "code": "PNJ",
+   "firm": "Shinhan Invest",
+   "type": "BUY",
+   "reportDate": "2026-05-28",
+   "source": "BLOOMBERG",
+   "analyst": "Nhi Nguyen",
+   "reportPrice": 65.9,
+   "targetPrice": 83.1,
+   "avgTargetPrice": 85.43444333333333
+  },
+  {
+   "code": "PNJ",
+   "firm": "Maybank IBG",
+   "type": "BUY",
+   "reportDate": "2026-05-26",
+   "source": "BLOOMBERG",
+   "analyst": "Thi Sony Tra Mi Nguyen",
+   "reportPrice": 65.2,
+   "targetPrice": 115.0,
+   "avgTargetPrice": 85.43444333333333
+  },
+  {
+   "code": "PNJ",
+   "firm": "Yuanta",
+   "type": "BUY",
+   "reportDate": "2026-05-15",
+   "source": "BLOOMBERG",
+   "analyst": "Di Luu",
+   "reportPrice": 67.3,
+   "targetPrice": 71.1,
+   "avgTargetPrice": 85.43444333333333
+  },
+  {
+   "code": "PNJ",
+   "firm": "BSI",
+   "type": "BUY",
+   "reportDate": "2026-03-02",
+   "source": "BLOOMBERG",
+   "analyst": "Pham Thi Minh Chau",
+   "reportPrice": 124.5,
+   "targetPrice": 102.8,
+   "avgTargetPrice": 85.43444333333333
+  },
+  {
+   "code": "PNJ",
+   "firm": "GTJA",
+   "type": "BUY",
+   "reportDate": "2025-12-05",
+   "source": "BLOOMBERG",
+   "analyst": "Team Coverage",
+   "reportPrice": 91.6,
+   "targetPrice": 66.66666,
+   "avgTargetPrice": 85.43444333333333
+  }
+ ],
+ "MSN": [],
+ "MCH": [
+  {
+   "code": "MCH",
+   "firm": "VND",
+   "type": "HOLD",
+   "reportDate": "2026-03-26",
+   "source": "VNDIRECT",
+   "analyst": "Ngoc Pham Thi Bich",
+   "reportPrice": 146.0,
+   "targetPrice": 165.0,
+   "avgTargetPrice": 165.0
+  }
+ ],
+ "VNM": [
+  {
+   "code": "VNM",
+   "firm": "HSBC",
+   "type": "BUY",
+   "reportDate": "2026-07-20",
+   "source": "BLOOMBERG",
+   "analyst": "Nga Nguyen",
+   "reportPrice": 58.5,
+   "targetPrice": 77.1,
+   "avgTargetPrice": 75.5709090909091
+  },
+  {
+   "code": "VNM",
+   "firm": "MBS",
+   "type": "BUY",
+   "reportDate": "2026-07-20",
+   "source": "BLOOMBERG",
+   "analyst": "Nguyen Ly",
+   "reportPrice": 58.5,
+   "targetPrice": 80.8,
+   "avgTargetPrice": 75.5709090909091
+  },
+  {
+   "code": "VNM",
+   "firm": "Shinhan Invest",
+   "type": "BUY",
+   "reportDate": "2026-06-26",
+   "source": "BLOOMBERG",
+   "analyst": "Nhi Nguyen",
+   "reportPrice": 56.3,
+   "targetPrice": 73.7,
+   "avgTargetPrice": 75.5709090909091
+  },
+  {
+   "code": "VNM",
+   "firm": "MASC",
+   "type": "BUY",
+   "reportDate": "2026-06-24",
+   "source": "BLOOMBERG",
+   "analyst": "Chau Bui",
+   "reportPrice": 58.3,
+   "targetPrice": 76.8,
+   "avgTargetPrice": 75.5709090909091
+  },
+  {
+   "code": "VNM",
+   "firm": "NHSV",
+   "type": "BUY",
+   "reportDate": "2026-05-28",
+   "source": "BLOOMBERG",
+   "analyst": "Bui Nam",
+   "reportPrice": 59.0,
+   "targetPrice": 75.0,
+   "avgTargetPrice": 75.5709090909091
+  },
+  {
+   "code": "VNM",
+   "firm": "Yuanta",
+   "type": "BUY",
+   "reportDate": "2026-05-15",
+   "source": "BLOOMBERG",
+   "analyst": "Di Luu",
+   "reportPrice": 59.8,
+   "targetPrice": 73.5,
+   "avgTargetPrice": 75.5709090909091
+  },
+  {
+   "code": "VNM",
+   "firm": "Maybank IBG",
+   "type": "BUY",
+   "reportDate": "2026-05-13",
+   "source": "BLOOMBERG",
+   "analyst": "Nhan Tran Thi Thnah",
+   "reportPrice": 59.3,
+   "targetPrice": 86.6,
+   "avgTargetPrice": 75.5709090909091
+  },
+  {
+   "code": "VNM",
+   "firm": "ACBS",
+   "type": "BUY",
+   "reportDate": "2026-05-11",
+   "source": "BLOOMBERG",
+   "analyst": "Chi Luong",
+   "reportPrice": 60.6,
+   "targetPrice": 72.0,
+   "avgTargetPrice": 75.5709090909091
+  },
+  {
+   "code": "VNM",
+   "firm": "UBS",
+   "type": "BUY",
+   "reportDate": "2026-05-08",
+   "source": "BLOOMBERG",
+   "analyst": "Permada Darmono",
+   "reportPrice": 60.9,
+   "targetPrice": 70.0,
+   "avgTargetPrice": 75.5709090909091
+  },
+  {
+   "code": "VNM",
+   "firm": "SBB",
+   "type": "BUY",
+   "reportDate": "2026-05-08",
+   "source": "BLOOMBERG",
+   "analyst": "Tran Tien",
+   "reportPrice": 60.9,
+   "targetPrice": 72.1,
+   "avgTargetPrice": 75.5709090909091
+  },
+  {
+   "code": "VNM",
+   "firm": "Jefferies",
+   "type": "BUY",
+   "reportDate": "2026-03-27",
+   "source": "BLOOMBERG",
+   "analyst": "Joanna Cheah",
+   "reportPrice": 61.5,
+   "targetPrice": 73.68,
+   "avgTargetPrice": 75.5709090909091
+  }
+ ],
+ "SAB": [
+  {
+   "code": "SAB",
+   "firm": "HSC",
+   "type": "BUY",
+   "reportDate": "2026-06-30",
+   "source": "BLOOMBERG",
+   "analyst": "Huong My Tran",
+   "reportPrice": 48.5,
+   "targetPrice": 61.5,
+   "avgTargetPrice": 59.475
+  },
+  {
+   "code": "SAB",
+   "firm": "UBS",
+   "type": "BUY",
+   "reportDate": "2026-06-02",
+   "source": "BLOOMBERG",
+   "analyst": "Permada Darmono",
+   "reportPrice": 47.0,
+   "targetPrice": 58.0,
+   "avgTargetPrice": 59.475
+  },
+  {
+   "code": "SAB",
+   "firm": "Shinhan Invest",
+   "type": "BUY",
+   "reportDate": "2026-02-26",
+   "source": "BLOOMBERG",
+   "analyst": "Nhi Nguyen",
+   "reportPrice": 49.1,
+   "targetPrice": 59.4,
+   "avgTargetPrice": 59.475
+  },
+  {
+   "code": "SAB",
+   "firm": "VCS",
+   "type": "BUY",
+   "reportDate": "2026-01-06",
+   "source": "BLOOMBERG",
+   "analyst": "Nguyen Nguyen",
+   "reportPrice": 47.55,
+   "targetPrice": 59.0,
+   "avgTargetPrice": 59.475
+  }
+ ],
+ "QNS": [
+  {
+   "code": "QNS",
+   "firm": "SBB",
+   "type": "BUY",
+   "reportDate": "2026-05-05",
+   "source": "BLOOMBERG",
+   "analyst": "Tran Tien",
+   "reportPrice": 46.2,
+   "targetPrice": 66.1,
+   "avgTargetPrice": 60.0
+  },
+  {
+   "code": "QNS",
+   "firm": "MASC",
+   "type": "BUY",
+   "reportDate": "2025-12-08",
+   "source": "BLOOMBERG",
+   "analyst": "Team Coverage",
+   "reportPrice": 45.2,
+   "targetPrice": 57.9,
+   "avgTargetPrice": 60.0
+  },
+  {
+   "code": "QNS",
+   "firm": "Shinhan Invest",
+   "type": "BUY",
+   "reportDate": "2025-11-03",
+   "source": "BLOOMBERG",
+   "analyst": "Nhi Nguyen",
+   "reportPrice": 44.9,
+   "targetPrice": 56.0,
+   "avgTargetPrice": 60.0
+  }
+ ],
+ "KDC": [],
+ "HPG": [
+  {
+   "code": "HPG",
+   "firm": "VND",
+   "type": "BUY",
+   "reportDate": "2026-05-25",
+   "source": "VNDIRECT",
+   "analyst": "Duong Nguyen Thi Thuy",
+   "reportPrice": 26.4,
+   "targetPrice": 36.6,
+   "avgTargetPrice": 36.6
+  }
+ ],
+ "HSG": [],
+ "NKG": [],
+ "GMD": [],
+ "HAH": [],
+ "VSC": [
+  {
+   "code": "VSC",
+   "firm": "MBS",
+   "type": "BUY",
+   "reportDate": "2026-07-20",
+   "source": "BLOOMBERG",
+   "analyst": "Tran Hien",
+   "reportPrice": 13.75,
+   "targetPrice": 24.5,
+   "avgTargetPrice": 25.5
+  },
+  {
+   "code": "VSC",
+   "firm": "VDS",
+   "type": "BUY",
+   "reportDate": "2026-07-06",
+   "source": "BLOOMBERG",
+   "analyst": "Team Coverage",
+   "reportPrice": 17.55,
+   "targetPrice": 26.5,
+   "avgTargetPrice": 25.5
+  }
+ ],
+ "DGC": [],
+ "DCM": [
+  {
+   "code": "DCM",
+   "firm": "VND",
+   "type": "HOLD",
+   "reportDate": "2025-10-03",
+   "source": "VNDIRECT",
+   "analyst": "Hue Duong Thi Thu",
+   "reportPrice": 35.7,
+   "targetPrice": 40.0,
+   "avgTargetPrice": 40.0
+  }
+ ],
+ "DPM": [],
+ "CSV": [],
+ "REE": [
+  {
+   "code": "REE",
+   "firm": "MBS",
+   "type": "BUY",
+   "reportDate": "2026-07-20",
+   "source": "BLOOMBERG",
+   "analyst": "Tran Hien",
+   "reportPrice": 45.45,
+   "targetPrice": 63.4,
+   "avgTargetPrice": 64.24
+  },
+  {
+   "code": "REE",
+   "firm": "NHSV",
+   "type": "BUY",
+   "reportDate": "2026-06-12",
+   "source": "BLOOMBERG",
+   "analyst": "Bui Nam",
+   "reportPrice": 50.4,
+   "targetPrice": 62.0,
+   "avgTargetPrice": 64.24
+  },
+  {
+   "code": "REE",
+   "firm": "ACBS",
+   "type": "BUY",
+   "reportDate": "2026-06-09",
+   "source": "BLOOMBERG",
+   "analyst": "Toan Pham",
+   "reportPrice": 50.2,
+   "targetPrice": 61.4,
+   "avgTargetPrice": 64.24
+  },
+  {
+   "code": "REE",
+   "firm": "VDS",
+   "type": "BUY",
+   "reportDate": "2026-06-09",
+   "source": "BLOOMBERG",
+   "analyst": "Thang Hoang",
+   "reportPrice": 50.2,
+   "targetPrice": 67.5,
+   "avgTargetPrice": 64.24
+  },
+  {
+   "code": "REE",
+   "firm": "VCS",
+   "type": "BUY",
+   "reportDate": "2026-06-02",
+   "source": "BLOOMBERG",
+   "analyst": "Tuan Do",
+   "reportPrice": 50.5,
+   "targetPrice": 66.9,
+   "avgTargetPrice": 64.24
+  }
+ ],
+ "PC1": [],
+ "POW": [
+  {
+   "code": "POW",
+   "firm": "MBS",
+   "type": "BUY",
+   "reportDate": "2026-07-20",
+   "source": "BLOOMBERG",
+   "analyst": "Ha Duc Tung Nguyen",
+   "reportPrice": 13.55,
+   "targetPrice": 16.9,
+   "avgTargetPrice": 16.648138333333332
+  },
+  {
+   "code": "POW",
+   "firm": "VCS",
+   "type": "BUY",
+   "reportDate": "2026-06-02",
+   "source": "BLOOMBERG",
+   "analyst": "Loc Pham",
+   "reportPrice": 13.55,
+   "targetPrice": 18.0,
+   "avgTargetPrice": 16.648138333333332
+  },
+  {
+   "code": "POW",
+   "firm": "HSC",
+   "type": "BUY",
+   "reportDate": "2026-05-28",
+   "source": "BLOOMBERG",
+   "analyst": "Natalie Nguyen",
+   "reportPrice": 13.85,
+   "targetPrice": 16.9,
+   "avgTargetPrice": 16.648138333333332
+  },
+  {
+   "code": "POW",
+   "firm": "ACBS",
+   "type": "BUY",
+   "reportDate": "2026-05-12",
+   "source": "BLOOMBERG",
+   "analyst": "Toan Pham",
+   "reportPrice": 14.05,
+   "targetPrice": 17.1,
+   "avgTargetPrice": 16.648138333333332
+  },
+  {
+   "code": "POW",
+   "firm": "SBB",
+   "type": "BUY",
+   "reportDate": "2026-05-05",
+   "source": "BLOOMBERG",
+   "analyst": "Nguyen Minh Nam",
+   "reportPrice": 13.65,
+   "targetPrice": 15.45,
+   "avgTargetPrice": 16.648138333333332
+  },
+  {
+   "code": "POW",
+   "firm": "BSI",
+   "type": "BUY",
+   "reportDate": "2025-11-17",
+   "source": "BLOOMBERG",
+   "analyst": "Nguyen Truong",
+   "reportPrice": 15.3,
+   "targetPrice": 15.53883,
+   "avgTargetPrice": 16.648138333333332
+  }
+ ],
+ "NT2": [],
+ "GEG": [],
+ "GAS": [],
+ "PVS": [
+  {
+   "code": "PVS",
+   "firm": "MBS",
+   "type": "BUY",
+   "reportDate": "2026-07-20",
+   "source": "BLOOMBERG",
+   "analyst": "Mai Duy Anh",
+   "reportPrice": 36.7,
+   "targetPrice": 57.3,
+   "avgTargetPrice": 50.18624272727273
+  },
+  {
+   "code": "PVS",
+   "firm": "Shinhan Invest",
+   "type": "BUY",
+   "reportDate": "2026-07-16",
+   "source": "BLOOMBERG",
+   "analyst": "Thao Nguyen",
+   "reportPrice": 38.8,
+   "targetPrice": 46.7,
+   "avgTargetPrice": 50.18624272727273
+  },
+  {
+   "code": "PVS",
+   "firm": "HSC",
+   "type": "BUY",
+   "reportDate": "2026-07-03",
+   "source": "BLOOMBERG",
+   "analyst": "Hoang Nam Nguyen",
+   "reportPrice": 38.1,
+   "targetPrice": 55.0,
+   "avgTargetPrice": 50.18624272727273
+  },
+  {
+   "code": "PVS",
+   "firm": "VDS",
+   "type": "BUY",
+   "reportDate": "2026-06-19",
+   "source": "BLOOMBERG",
+   "analyst": "Huong Le",
+   "reportPrice": 39.0,
+   "targetPrice": 48.7,
+   "avgTargetPrice": 50.18624272727273
+  },
+  {
+   "code": "PVS",
+   "firm": "ACBS",
+   "type": "BUY",
+   "reportDate": "2026-06-16",
+   "source": "BLOOMBERG",
+   "analyst": "Team Coverage",
+   "reportPrice": 37.8,
+   "targetPrice": 49.4,
+   "avgTargetPrice": 50.18624272727273
+  },
+  {
+   "code": "PVS",
+   "firm": "VCS",
+   "type": "BUY",
+   "reportDate": "2026-06-02",
+   "source": "BLOOMBERG",
+   "analyst": "Phuoc Duong",
+   "reportPrice": 37.8,
+   "targetPrice": 60.0,
+   "avgTargetPrice": 50.18624272727273
+  },
+  {
+   "code": "PVS",
+   "firm": "VCBS",
+   "type": "BUY",
+   "reportDate": "2026-04-13",
+   "source": "BLOOMBERG",
+   "analyst": "Pham Thy",
+   "reportPrice": 39.3,
+   "targetPrice": 42.544,
+   "avgTargetPrice": 50.18624272727273
+  },
+  {
+   "code": "PVS",
+   "firm": "MASC",
+   "type": "BUY",
+   "reportDate": "2026-04-01",
+   "source": "BLOOMBERG",
+   "analyst": "Duy Nguyen",
+   "reportPrice": 40.2,
+   "targetPrice": 53.4,
+   "avgTargetPrice": 50.18624272727273
+  },
+  {
+   "code": "PVS",
+   "firm": "VPB",
+   "type": "BUY",
+   "reportDate": "2026-03-20",
+   "source": "BLOOMBERG",
+   "analyst": "Chu The Huynh",
+   "reportPrice": 40.0,
+   "targetPrice": 48.2,
+   "avgTargetPrice": 50.18624272727273
+  },
+  {
+   "code": "PVS",
+   "firm": "BSI",
+   "type": "BUY",
+   "reportDate": "2026-02-05",
+   "source": "BLOOMBERG",
+   "analyst": "Tu Nguyen Thi Cam",
+   "reportPrice": 45.6,
+   "targetPrice": 52.3,
+   "avgTargetPrice": 50.18624272727273
+  },
+  {
+   "code": "PVS",
+   "firm": "FTS",
+   "type": "BUY",
+   "reportDate": "2025-11-24",
+   "source": "BLOOMBERG",
+   "analyst": "Huu Thien An Nguyen",
+   "reportPrice": 33.1,
+   "targetPrice": 38.50467,
+   "avgTargetPrice": 50.18624272727273
+  }
+ ],
+ "PVD": [
+  {
+   "code": "PVD",
+   "firm": "HSC",
+   "type": "BUY",
+   "reportDate": "2026-07-01",
+   "source": "BLOOMBERG",
+   "analyst": "Hoang Nam Nguyen",
+   "reportPrice": 33.45,
+   "targetPrice": 27.86099,
+   "avgTargetPrice": 22.905105
+  },
+  {
+   "code": "PVD",
+   "firm": "VCS",
+   "type": "BUY",
+   "reportDate": "2026-06-02",
+   "source": "BLOOMBERG",
+   "analyst": "Phuoc Duong",
+   "reportPrice": 29.25,
+   "targetPrice": 24.1462,
+   "avgTargetPrice": 22.905105
+  },
+  {
+   "code": "PVD",
+   "firm": "NHSV",
+   "type": "BUY",
+   "reportDate": "2026-05-28",
+   "source": "BLOOMBERG",
+   "analyst": "Bui Nam",
+   "reportPrice": 30.0,
+   "targetPrice": 24.31875,
+   "avgTargetPrice": 22.905105
+  },
+  {
+   "code": "PVD",
+   "firm": "Maybank IBG",
+   "type": "BUY",
+   "reportDate": "2026-05-25",
+   "source": "BLOOMBERG",
+   "analyst": "Chuyen Le",
+   "reportPrice": 30.0,
+   "targetPrice": 25.22469,
+   "avgTargetPrice": 22.905105
+  },
+  {
+   "code": "PVD",
+   "firm": "ACBS",
+   "type": "BUY",
+   "reportDate": "2026-04-28",
+   "source": "BLOOMBERG",
+   "analyst": "Team Coverage",
+   "reportPrice": 30.5,
+   "targetPrice": 22.70821,
+   "avgTargetPrice": 22.905105
+  },
+  {
+   "code": "PVD",
+   "firm": "Yuanta",
+   "type": "BUY",
+   "reportDate": "2026-03-30",
+   "source": "BLOOMBERG",
+   "analyst": "Ngan Le",
+   "reportPrice": 36.2,
+   "targetPrice": 19.29299,
+   "avgTargetPrice": 22.905105
+  },
+  {
+   "code": "PVD",
+   "firm": "BSI",
+   "type": "BUY",
+   "reportDate": "2025-12-26",
+   "source": "BLOOMBERG",
+   "analyst": "Luu Thuy Linh",
+   "reportPrice": 27.35,
+   "targetPrice": 20.73098,
+   "avgTargetPrice": 22.905105
+  },
+  {
+   "code": "PVD",
+   "firm": "VPB",
+   "type": "BUY",
+   "reportDate": "2025-12-24",
+   "source": "BLOOMBERG",
+   "analyst": "Team Coverage",
+   "reportPrice": 27.65,
+   "targetPrice": 19.7124,
+   "avgTargetPrice": 22.905105
+  },
+  {
+   "code": "PVD",
+   "firm": "FTS",
+   "type": "BUY",
+   "reportDate": "2025-10-17",
+   "source": "BLOOMBERG",
+   "analyst": "Huu Thien An Nguyen",
+   "reportPrice": 20.0,
+   "targetPrice": 17.25584,
+   "avgTargetPrice": 22.905105
+  },
+  {
+   "code": "PVD",
+   "firm": "VND",
+   "type": "BUY",
+   "reportDate": "2025-10-02",
+   "source": "VNDIRECT",
+   "analyst": "Hang Nguyen Thi Thanh",
+   "reportPrice": 23.05,
+   "targetPrice": 27.8,
+   "avgTargetPrice": 22.905105
+  }
+ ],
+ "PLX": [
+  {
+   "code": "PLX",
+   "firm": "FTS",
+   "type": "BUY",
+   "reportDate": "2026-04-29",
+   "source": "BLOOMBERG",
+   "analyst": "Ngo Nguyen",
+   "reportPrice": 37.15,
+   "targetPrice": 48.5,
+   "avgTargetPrice": 45.625
+  },
+  {
+   "code": "PLX",
+   "firm": "VPB",
+   "type": "BUY",
+   "reportDate": "2026-04-22",
+   "source": "BLOOMBERG",
+   "analyst": "Chu The Huynh",
+   "reportPrice": 39.0,
+   "targetPrice": 45.6,
+   "avgTargetPrice": 45.625
+  },
+  {
+   "code": "PLX",
+   "firm": "MASC",
+   "type": "BUY",
+   "reportDate": "2025-12-08",
+   "source": "BLOOMBERG",
+   "analyst": "Duy Nguyen",
+   "reportPrice": 36.05,
+   "targetPrice": 47.3,
+   "avgTargetPrice": 45.625
+  },
+  {
+   "code": "PLX",
+   "firm": "VCS",
+   "type": "BUY",
+   "reportDate": "2025-10-13",
+   "source": "BLOOMBERG",
+   "analyst": "Phuoc Duong",
+   "reportPrice": 34.05,
+   "targetPrice": 41.1,
+   "avgTargetPrice": 45.625
+  }
+ ],
+ "BSR": [],
+ "PVT": [
+  {
+   "code": "PVT",
+   "firm": "VDS",
+   "type": "BUY",
+   "reportDate": "2026-07-08",
+   "source": "BLOOMBERG",
+   "analyst": "Lam Nguyen",
+   "reportPrice": 19.45,
+   "targetPrice": 28.5,
+   "avgTargetPrice": 26.593953333333335
+  },
+  {
+   "code": "PVT",
+   "firm": "HSC",
+   "type": "BUY",
+   "reportDate": "2026-07-06",
+   "source": "BLOOMBERG",
+   "analyst": "Thi Thu Nga Tran",
+   "reportPrice": 19.05,
+   "targetPrice": 27.091,
+   "avgTargetPrice": 26.593953333333335
+  },
+  {
+   "code": "PVT",
+   "firm": "VCS",
+   "type": "BUY",
+   "reportDate": "2026-06-02",
+   "source": "BLOOMBERG",
+   "analyst": "Phuoc Duong",
+   "reportPrice": 21.55,
+   "targetPrice": 28.0,
+   "avgTargetPrice": 26.593953333333335
+  },
+  {
+   "code": "PVT",
+   "firm": "ACBS",
+   "type": "BUY",
+   "reportDate": "2026-05-08",
+   "source": "BLOOMBERG",
+   "analyst": "Hung Phan",
+   "reportPrice": 22.1,
+   "targetPrice": 25.63636,
+   "avgTargetPrice": 26.593953333333335
+  },
+  {
+   "code": "PVT",
+   "firm": "VND",
+   "type": "BUY",
+   "reportDate": "2026-04-20",
+   "source": "VNDIRECT",
+   "analyst": "Hang Nguyen Thi Thanh",
+   "reportPrice": 21.75,
+   "targetPrice": 26.7,
+   "avgTargetPrice": 26.593953333333335
+  },
+  {
+   "code": "PVT",
+   "firm": "SBB",
+   "type": "BUY",
+   "reportDate": "2026-02-05",
+   "source": "BLOOMBERG",
+   "analyst": "Nguyen Minh Nam",
+   "reportPrice": 21.75,
+   "targetPrice": 23.63636,
+   "avgTargetPrice": 26.593953333333335
+  }
+ ],
+ "VHM": [
+  {
+   "code": "VHM",
+   "firm": "VPB",
+   "type": "BUY",
+   "reportDate": "2026-05-27",
+   "source": "BLOOMBERG",
+   "analyst": "Huyen Phan",
+   "reportPrice": 147.4,
+   "targetPrice": 167.56,
+   "avgTargetPrice": 154.665
+  },
+  {
+   "code": "VHM",
+   "firm": "Maybank IBG",
+   "type": "BUY",
+   "reportDate": "2026-05-12",
+   "source": "BLOOMBERG",
+   "analyst": "Le Tuan Loi Nguyen",
+   "reportPrice": 160.2,
+   "targetPrice": 192.0,
+   "avgTargetPrice": 154.665
+  },
+  {
+   "code": "VHM",
+   "firm": "Shinhan Invest",
+   "type": "BUY",
+   "reportDate": "2026-04-07",
+   "source": "BLOOMBERG",
+   "analyst": "Kien Tran",
+   "reportPrice": 115.0,
+   "targetPrice": 139.5,
+   "avgTargetPrice": 154.665
+  },
+  {
+   "code": "VHM",
+   "firm": "BSI",
+   "type": "BUY",
+   "reportDate": "2025-11-04",
+   "source": "BLOOMBERG",
+   "analyst": "Lam Viet",
+   "reportPrice": 100.2,
+   "targetPrice": 119.6,
+   "avgTargetPrice": 154.665
+  }
+ ],
+ "VIC": [],
+ "VRE": [
+  {
+   "code": "VRE",
+   "firm": "MBS",
+   "type": "BUY",
+   "reportDate": "2026-07-20",
+   "source": "BLOOMBERG",
+   "analyst": "Mai Duy Anh",
+   "reportPrice": 23.25,
+   "targetPrice": 39.8,
+   "avgTargetPrice": 38.75625
+  },
+  {
+   "code": "VRE",
+   "firm": "HSC",
+   "type": "BUY",
+   "reportDate": "2026-07-02",
+   "source": "BLOOMBERG",
+   "analyst": "Bui Thi Thuy Trang",
+   "reportPrice": 28.15,
+   "targetPrice": 40.6,
+   "avgTargetPrice": 38.75625
+  },
+  {
+   "code": "VRE",
+   "firm": "UBS",
+   "type": "BUY",
+   "reportDate": "2026-06-25",
+   "source": "BLOOMBERG",
+   "analyst": "Michael Lim",
+   "reportPrice": 29.6,
+   "targetPrice": 41.1,
+   "avgTargetPrice": 38.75625
+  },
+  {
+   "code": "VRE",
+   "firm": "VPB",
+   "type": "BUY",
+   "reportDate": "2026-06-04",
+   "source": "BLOOMBERG",
+   "analyst": "Huyen Phan",
+   "reportPrice": 31.1,
+   "targetPrice": 36.0,
+   "avgTargetPrice": 38.75625
+  },
+  {
+   "code": "VRE",
+   "firm": "Maybank IBG",
+   "type": "BUY",
+   "reportDate": "2026-05-11",
+   "source": "BLOOMBERG",
+   "analyst": "Le Tuan Loi Nguyen",
+   "reportPrice": 33.6,
+   "targetPrice": 42.5,
+   "avgTargetPrice": 38.75625
+  },
+  {
+   "code": "VRE",
+   "firm": "ACBS",
+   "type": "BUY",
+   "reportDate": "2026-04-28",
+   "source": "BLOOMBERG",
+   "analyst": "Truc Pham",
+   "reportPrice": 30.8,
+   "targetPrice": 36.0,
+   "avgTargetPrice": 38.75625
+  },
+  {
+   "code": "VRE",
+   "firm": "BSI",
+   "type": "BUY",
+   "reportDate": "2026-02-10",
+   "source": "BLOOMBERG",
+   "analyst": "Viet Lam",
+   "reportPrice": 28.95,
+   "targetPrice": 40.1,
+   "avgTargetPrice": 38.75625
+  },
+  {
+   "code": "VRE",
+   "firm": "SBB",
+   "type": "BUY",
+   "reportDate": "2025-12-12",
+   "source": "BLOOMBERG",
+   "analyst": "Minh Ta",
+   "reportPrice": 27.45,
+   "targetPrice": 33.95,
+   "avgTargetPrice": 38.75625
+  }
+ ],
+ "KDH": [
+  {
+   "code": "KDH",
+   "firm": "VND",
+   "type": "BUY",
+   "reportDate": "2026-04-08",
+   "source": "VNDIRECT",
+   "analyst": "Anh Nguyen Phuong",
+   "reportPrice": 25.6,
+   "targetPrice": 35.7,
+   "avgTargetPrice": 35.7
+  }
+ ],
+ "NLG": [
+  {
+   "code": "NLG",
+   "firm": "VND",
+   "type": "BUY",
+   "reportDate": "2026-04-06",
+   "source": "VNDIRECT",
+   "analyst": "Huong Do Thi",
+   "reportPrice": 28.1,
+   "targetPrice": 38.0,
+   "avgTargetPrice": 38.0
+  },
+  {
+   "code": "NLG",
+   "firm": "VND",
+   "type": "BUY",
+   "reportDate": "2025-12-01",
+   "source": "VNDIRECT",
+   "analyst": "Anh Nguyen Phuong",
+   "reportPrice": 35.7,
+   "targetPrice": 42.2,
+   "avgTargetPrice": 38.0
+  }
+ ],
+ "DXG": [],
+ "NVL": [],
+ "PDR": [],
+ "KBC": [],
+ "IDC": [
+  {
+   "code": "IDC",
+   "firm": "VND",
+   "type": "BUY",
+   "reportDate": "2026-04-21",
+   "source": "VNDIRECT",
+   "analyst": "Hoang Dang Huy",
+   "reportPrice": 46.3,
+   "targetPrice": 58.0,
+   "avgTargetPrice": 58.0
+  }
+ ],
+ "SZC": [
+  {
+   "code": "SZC",
+   "firm": "Shinhan Invest",
+   "type": "BUY",
+   "reportDate": "2026-03-12",
+   "source": "BLOOMBERG",
+   "analyst": "Le Tien",
+   "reportPrice": 29.8,
+   "targetPrice": 42.9,
+   "avgTargetPrice": 42.9
+  }
+ ],
+ "BCM": [],
+ "VTP": [
+  {
+   "code": "VTP",
+   "firm": "MBS",
+   "type": "BUY",
+   "reportDate": "2026-07-20",
+   "source": "BLOOMBERG",
+   "analyst": "Vo Duc Anh",
+   "reportPrice": 49.3,
+   "targetPrice": 69.7,
+   "avgTargetPrice": 68.80535
+  },
+  {
+   "code": "VTP",
+   "firm": "FTS",
+   "type": "BUY",
+   "reportDate": "2026-05-28",
+   "source": "BLOOMBERG",
+   "analyst": "Nguyen Huu Thang",
+   "reportPrice": 65.2,
+   "targetPrice": 67.9107,
+   "avgTargetPrice": 68.80535
+  }
+ ],
+ "CTR": [],
+ "VGI": [],
+ "VJC": [],
+ "HVN": [],
+ "ACV": [],
+ "BMP": [],
+ "CTD": [],
+ "HHV": [],
+ "VCG": [
+  {
+   "code": "VCG",
+   "firm": "MBS",
+   "type": "BUY",
+   "reportDate": "2026-07-20",
+   "source": "BLOOMBERG",
+   "analyst": "Tran Hien",
+   "reportPrice": 15.65,
+   "targetPrice": 23.1,
+   "avgTargetPrice": 22.66111
+  },
+  {
+   "code": "VCG",
+   "firm": "GTJA",
+   "type": "BUY",
+   "reportDate": "2026-02-27",
+   "source": "BLOOMBERG",
+   "analyst": "Dieu Linh Ngo",
+   "reportPrice": 19.15,
+   "targetPrice": 22.22222,
+   "avgTargetPrice": 22.66111
+  }
+ ],
+ "C4G": [],
+ "GEX": [],
+ "VGC": [
+  {
+   "code": "VGC",
+   "firm": "MBS",
+   "type": "BUY",
+   "reportDate": "2026-07-20",
+   "source": "BLOOMBERG",
+   "analyst": "Ha Duc Tung Nguyen",
+   "reportPrice": 39.0,
+   "targetPrice": 57.7,
+   "avgTargetPrice": 62.25
+  },
+  {
+   "code": "VGC",
+   "firm": "VCS",
+   "type": "BUY",
+   "reportDate": "2026-06-02",
+   "source": "BLOOMBERG",
+   "analyst": "Tuan Do",
+   "reportPrice": 42.1,
+   "targetPrice": 66.8,
+   "avgTargetPrice": 62.25
+  }
+ ],
+ "SIP": [
+  {
+   "code": "SIP",
+   "firm": "VCS",
+   "type": "BUY",
+   "reportDate": "2026-07-20",
+   "source": "BLOOMBERG",
+   "analyst": "Anh Pham",
+   "reportPrice": 46.95,
+   "targetPrice": 58.9,
+   "avgTargetPrice": 74.45271428571428
+  },
+  {
+   "code": "SIP",
+   "firm": "VDS",
+   "type": "BUY",
+   "reportDate": "2026-07-09",
+   "source": "BLOOMBERG",
+   "analyst": "Lam Do",
+   "reportPrice": 49.5,
+   "targetPrice": 78.3,
+   "avgTargetPrice": 74.45271428571428
+  },
+  {
+   "code": "SIP",
+   "firm": "HSC",
+   "type": "BUY",
+   "reportDate": "2026-07-02",
+   "source": "BLOOMBERG",
+   "analyst": "Bao Anh Tuan Doan",
+   "reportPrice": 50.0,
+   "targetPrice": 88.0,
+   "avgTargetPrice": 74.45271428571428
+  },
+  {
+   "code": "SIP",
+   "firm": "NHSV",
+   "type": "BUY",
+   "reportDate": "2026-06-19",
+   "source": "BLOOMBERG",
+   "analyst": "Bui Nam",
+   "reportPrice": 51.3,
+   "targetPrice": 74.0,
+   "avgTargetPrice": 74.45271428571428
+  },
+  {
+   "code": "SIP",
+   "firm": "VCBS",
+   "type": "BUY",
+   "reportDate": "2026-06-10",
+   "source": "BLOOMBERG",
+   "analyst": "Tran Linh",
+   "reportPrice": 51.0,
+   "targetPrice": 65.969,
+   "avgTargetPrice": 74.45271428571428
+  },
+  {
+   "code": "SIP",
+   "firm": "ACBS",
+   "type": "BUY",
+   "reportDate": "2026-05-12",
+   "source": "BLOOMBERG",
+   "analyst": "Truc Pham",
+   "reportPrice": 58.8,
+   "targetPrice": 72.5,
+   "avgTargetPrice": 74.45271428571428
+  },
+  {
+   "code": "SIP",
+   "firm": "VPB",
+   "type": "BUY",
+   "reportDate": "2026-04-14",
+   "source": "BLOOMBERG",
+   "analyst": "Team Coverage",
+   "reportPrice": 60.6,
+   "targetPrice": 83.5,
+   "avgTargetPrice": 74.45271428571428
+  }
+ ],
+ "VHC": [
+  {
+   "code": "VHC",
+   "firm": "Shinhan Invest",
+   "type": "BUY",
+   "reportDate": "2026-06-10",
+   "source": "BLOOMBERG",
+   "analyst": "Trang Pham",
+   "reportPrice": 57.0,
+   "targetPrice": 69.4,
+   "avgTargetPrice": 73.21666666666667
+  },
+  {
+   "code": "VHC",
+   "firm": "NHSV",
+   "type": "BUY",
+   "reportDate": "2026-06-05",
+   "source": "BLOOMBERG",
+   "analyst": "Bui Nam",
+   "reportPrice": 57.5,
+   "targetPrice": 75.0,
+   "avgTargetPrice": 73.21666666666667
+  },
+  {
+   "code": "VHC",
+   "firm": "Maybank IBG",
+   "type": "BUY",
+   "reportDate": "2026-05-25",
+   "source": "BLOOMBERG",
+   "analyst": "Tran Nhan",
+   "reportPrice": 60.0,
+   "targetPrice": 77.0,
+   "avgTargetPrice": 73.21666666666667
+  },
+  {
+   "code": "VHC",
+   "firm": "VDS",
+   "type": "BUY",
+   "reportDate": "2026-05-22",
+   "source": "BLOOMBERG",
+   "analyst": "Hien Le",
+   "reportPrice": 59.0,
+   "targetPrice": 73.3,
+   "avgTargetPrice": 73.21666666666667
+  },
+  {
+   "code": "VHC",
+   "firm": "SBB",
+   "type": "BUY",
+   "reportDate": "2026-05-14",
+   "source": "BLOOMBERG",
+   "analyst": "Tran Tien",
+   "reportPrice": 61.2,
+   "targetPrice": 73.0,
+   "avgTargetPrice": 73.21666666666667
+  },
+  {
+   "code": "VHC",
+   "firm": "VCS",
+   "type": "BUY",
+   "reportDate": "2026-01-26",
+   "source": "BLOOMBERG",
+   "analyst": "Nguyen Nguyen",
+   "reportPrice": 60.0,
+   "targetPrice": 71.6,
+   "avgTargetPrice": 73.21666666666667
+  }
+ ],
+ "ANV": [],
+ "PTB": [],
+ "DHG": [],
+ "IMP": [],
+ "GVR": [],
+ "PHR": [
+  {
+   "code": "PHR",
+   "firm": "VND",
+   "type": "BUY",
+   "reportDate": "2025-11-27",
+   "source": "VNDIRECT",
+   "analyst": "Hoang Dang Huy",
+   "reportPrice": 55.2,
+   "targetPrice": 68.4,
+   "avgTargetPrice": 68.4
+  }
+ ],
+ "DPR": [],
+ "BAF": [
+  {
+   "code": "BAF",
+   "firm": "VND",
+   "type": "HOLD",
+   "reportDate": "2026-05-15",
+   "source": "VNDIRECT",
+   "analyst": "Anh Dao Hong",
+   "reportPrice": 35.45,
+   "targetPrice": 40.1,
+   "avgTargetPrice": 40.1
+  },
+  {
+   "code": "BAF",
+   "firm": "VND",
+   "type": "BUY",
+   "reportDate": "2025-11-21",
+   "source": "VNDIRECT",
+   "analyst": "Anh Dao Hong",
+   "reportPrice": 32.0,
+   "targetPrice": 37.2,
+   "avgTargetPrice": 40.1
+  }
+ ],
+ "DBC": [],
+ "HAG": [],
+ "VPI": [],
+ "TCM": [],
+ "MSR": [],
+ "NTP": [],
+ "TLG": [
+  {
+   "code": "TLG",
+   "firm": "SBB",
+   "type": "BUY",
+   "reportDate": "2026-05-07",
+   "source": "BLOOMBERG",
+   "analyst": "Tran Tien",
+   "reportPrice": 51.4,
+   "targetPrice": 61.6,
+   "avgTargetPrice": 59.345455
+  },
+  {
+   "code": "TLG",
+   "firm": "VCS",
+   "type": "BUY",
+   "reportDate": "2025-10-02",
+   "source": "BLOOMBERG",
+   "analyst": "Han Nguyen",
+   "reportPrice": 54.0,
+   "targetPrice": 57.09091,
+   "avgTargetPrice": 59.345455
+  }
+ ],
+ "SCS": [
+  {
+   "code": "SCS",
+   "firm": "VDS",
+   "type": "BUY",
+   "reportDate": "2026-05-07",
+   "source": "BLOOMBERG",
+   "analyst": "Quan Cao",
+   "reportPrice": 51.9,
+   "targetPrice": 85.0,
+   "avgTargetPrice": 76.9
+  },
+  {
+   "code": "SCS",
+   "firm": "FTS",
+   "type": "BUY",
+   "reportDate": "2025-12-31",
+   "source": "BLOOMBERG",
+   "analyst": "Ly Hieu",
+   "reportPrice": 51.4,
+   "targetPrice": 68.8,
+   "avgTargetPrice": 76.9
+  }
+ ]
+}
