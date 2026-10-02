@@ -6,7 +6,8 @@ import pandas as pd
 
 SNAP = "data/snapshot"
 f = json.load(open(f"{SNAP}/fundamentals2.json"))
-px = pd.read_csv(f"{SNAP}/prices_metrics.csv").set_index("symbol")
+px = pd.read_csv(f"{SNAP}/prices_metrics.csv")
+px = px[~px["group"].isin(["global", "crypto"])].set_index("symbol")
 
 rows, recs = [], {}
 for sym, v in f.items():
