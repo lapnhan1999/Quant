@@ -170,11 +170,6 @@
    "source": "Mekong ASEAN"
   },
   {
-   "title": "Vì sao chứng khoán “quay xe” trước thềm nâng hạng, nhà đầu tư thất vọng? - Báo Dân trí",
-   "date": "Fri, 18 Sep 2026 07:00:00 GMT",
-   "source": "Báo Dân trí"
-  },
-  {
    "title": "VietinBank lần thứ 5 bán cổ phiếu Cảng Sài Gòn - cafef.vn",
    "date": "Mon, 28 Sep 2026 02:36:00 GMT",
    "source": "cafef.vn"
@@ -183,6 +178,11 @@
    "title": "Cổ phiếu cần quan tâm ngày 23/9 - tinnhanhchungkhoan.vn",
    "date": "Tue, 22 Sep 2026 10:37:00 GMT",
    "source": "tinnhanhchungkhoan.vn"
+  },
+  {
+   "title": "Khối ngoại tuần 7-11/9: Loạt cổ phiếu ngân hàng bị bán mạnh - nguoiquansat.vn",
+   "date": "Sat, 12 Sep 2026 07:00:00 GMT",
+   "source": "nguoiquansat.vn"
   }
  ],
  "TCB": [
@@ -284,14 +284,14 @@
    "source": "bnews.vn"
   },
   {
-   "title": "Ba cổ phiếu ngân hàng được chú ý, giá mục tiêu cao hơn thị giá - thuonghieucongluan.com.vn",
-   "date": "Thu, 01 Oct 2026 02:31:00 GMT",
-   "source": "thuonghieucongluan.com.vn"
-  },
-  {
    "title": "Hơn 1,2 tỷ cổ phiếu MBB sắp về tài khoản - 24HMoney",
    "date": "Sat, 26 Sep 2026 08:45:13 GMT",
    "source": "24HMoney"
+  },
+  {
+   "title": "Ba cổ phiếu ngân hàng được chú ý, giá mục tiêu cao hơn thị giá - thuonghieucongluan.com.vn",
+   "date": "Thu, 01 Oct 2026 02:31:00 GMT",
+   "source": "thuonghieucongluan.com.vn"
   },
   {
    "title": "Ngân hàng Quân đội (MBB) chuyển nhượng cổ phần Bảo hiểm AAA và chào bán hơn 12,3 triệu cổ phiếu - Báo Pháp Luật Việt Nam",
@@ -331,9 +331,9 @@
    "source": "Vietstock"
   },
   {
-   "title": "ACB được định chế tài chính đánh giá cao nhất về IR - vnbusiness.vn",
+   "title": "ACB được định chế tài chính đánh giá cao nhất về IR - VnBusiness",
    "date": "Thu, 24 Sep 2026 12:45:44 GMT",
-   "source": "vnbusiness.vn"
+   "source": "VnBusiness"
   },
   {
    "title": "Tuần đầu sau nâng hạng, khối ngoại bán ròng 4.000 tỷ đồng cổ phiếu Việt Nam - cafef.vn",
@@ -398,11 +398,6 @@
    "source": "Doanh nghiệp và Tiếp thị"
   },
   {
-   "title": "Cổ phiếu VPB khởi sắc trong phiên đầu tiên sau nâng hạng - Báo Pháp Luật Việt Nam",
-   "date": "Tue, 22 Sep 2026 07:36:00 GMT",
-   "source": "Báo Pháp Luật Việt Nam"
-  },
-  {
    "title": "VPBank chốt ngày phát hành gần 2,1 tỷ cổ phiếu trả cổ tức - thitruongtaichinhtiente.vn",
    "date": "Fri, 11 Sep 2026 07:00:00 GMT",
    "source": "thitruongtaichinhtiente.vn"
@@ -431,6 +426,11 @@
    "title": "Tự doanh rót hơn 1,900 tỷ vào VPB nhờ thương vụ bán vốn và triển vọng kinh doanh - Vietstock",
    "date": "Tue, 29 Sep 2026 07:32:00 GMT",
    "source": "Vietstock"
+  },
+  {
+   "title": "Cổ phiếu VPB tăng mạnh trong ngày Việt Nam chính thức vào nhóm thị trường chứng khoán mới nổi - cafef.vn",
+   "date": "Tue, 22 Sep 2026 07:00:00 GMT",
+   "source": "cafef.vn"
   }
  ],
  "HDB": [
@@ -485,14 +485,14 @@
    "source": "cafef.vn"
   },
   {
-   "title": "HDBank chốt chia cổ tức và cổ phiếu thưởng 30% - 24HMoney",
-   "date": "Thu, 01 Oct 2026 01:33:24 GMT",
-   "source": "24HMoney"
-  },
-  {
    "title": "Khối ngoại bán ròng gần 3.400 tỷ đồng trên thị trường chứng khoán, “tháo chạy” khỏi cổ phiếu PNJ - Báo Điện tử An ninh Thủ đô",
    "date": "Fri, 02 Oct 2026 09:33:34 GMT",
    "source": "Báo Điện tử An ninh Thủ đô"
+  },
+  {
+   "title": "HDBank chốt chia cổ tức và cổ phiếu thưởng 30% - 24HMoney",
+   "date": "Thu, 01 Oct 2026 01:33:24 GMT",
+   "source": "24HMoney"
   }
  ],
  "STB": [
@@ -641,14 +641,14 @@
    "source": "cafef.vn"
   },
   {
+   "title": "Được chấp thuận tăng vốn lên mốc 31.900 tỷ đồng, TPBank (TPB) chốt phương án chia cổ tức 15% - Báo Pháp Luật Việt Nam",
+   "date": "Sat, 12 Sep 2026 10:38:37 GMT",
+   "source": "Báo Pháp Luật Việt Nam"
+  },
+  {
    "title": "TPBank sắp chi 1.387 tỷ đồng trả cổ tức tiền mặt - nguoiquansat.vn",
    "date": "Wed, 23 Sep 2026 07:00:00 GMT",
    "source": "nguoiquansat.vn"
-  },
-  {
-   "title": "TPBank (TPB) chốt quyền chia cổ tức tỷ lệ 20% và huy động 15.000 tỷ đồng từ trái phiếu - Báo Pháp Luật Việt Nam",
-   "date": "Fri, 25 Sep 2026 11:19:00 GMT",
-   "source": "Báo Pháp Luật Việt Nam"
   },
   {
    "title": "Chứng khoán rung lắc mạnh, cổ phiếu “vua” giao dịch đột biến - Báo Dân trí",
@@ -656,14 +656,14 @@
    "source": "Báo Dân trí"
   },
   {
+   "title": "TPBank (TPB) chốt quyền chia cổ tức tỷ lệ 20% và huy động 15.000 tỷ đồng từ trái phiếu - Vietnam.vn",
+   "date": "Fri, 25 Sep 2026 12:04:58 GMT",
+   "source": "Vietnam.vn"
+  },
+  {
    "title": "Một ngân hàng vừa được NHNN chấp thuận tăng vốn điều lệ thêm hơn 4.161 tỷ đồng - cafef.vn",
    "date": "Fri, 11 Sep 2026 07:00:00 GMT",
    "source": "cafef.vn"
-  },
-  {
-   "title": "TPBank hợp tác với TPS để phát hành 15.000 tỷ đồng trái phiếu tăng vốn cấp 2 - Chứng khoán DNSE",
-   "date": "Fri, 25 Sep 2026 09:30:00 GMT",
-   "source": "Chứng khoán DNSE"
   },
   {
    "title": "TPBank được chấp thuận tăng vốn điều lệ thêm hơn 4.100 tỷ đồng - An ninh Tiền tệ",
@@ -691,11 +691,6 @@
    "title": "Cổ phiếu LPB giảm hơn 28% sau đỉnh: Khoản đầu tư của ông Phạm Nhật Vượng “bốc hơi” khoảng 2.300 tỷ đồng - Cộng đồng Kinh doanh Việt Nam",
    "date": "Fri, 02 Oct 2026 10:04:34 GMT",
    "source": "Cộng đồng Kinh doanh Việt Nam"
-  },
-  {
-   "title": "Tỷ phú Phạm Nhật Vượng vừa thành cổ đông lớn, LPBank lên kế hoạch huy động gần 12.000 tỷ đồng - nguoiquansat.vn",
-   "date": "Wed, 09 Sep 2026 07:00:00 GMT",
-   "source": "nguoiquansat.vn"
   },
   {
    "title": "Tự doanh xả gần 500 tỷ đồng LPB, vẫn gom mạnh một mã ngân hàng - VietnamBiz",
@@ -741,6 +736,11 @@
    "title": "Vì sao chứng khoán Việt mất mốc 1.800 điểm phiên đầu được nâng hạng? - Báo Dân trí",
    "date": "Mon, 21 Sep 2026 07:00:00 GMT",
    "source": "Báo Dân trí"
+  },
+  {
+   "title": "Ông Phạm Nhật Vượng vừa trở thành cổ đông mới, LPBank dự kiến huy động gần 12.000 tỷ đồng - Đầu tư Việt Nam",
+   "date": "Thu, 10 Sep 2026 07:00:00 GMT",
+   "source": "Đầu tư Việt Nam"
   }
  ],
  "SHB": [
@@ -976,11 +976,6 @@
    "source": "VIETTIMES"
   },
   {
-   "title": "OCB huy động 2.000 tỷ đồng từ kênh trái phiếu - An ninh Tiền tệ",
-   "date": "Fri, 25 Sep 2026 23:31:00 GMT",
-   "source": "An ninh Tiền tệ"
-  },
-  {
    "title": "Trọn vị đoàn viên cùng OCB Mastercard World 2in1 - tinnhanhchungkhoan.vn",
    "date": "Tue, 15 Sep 2026 07:00:00 GMT",
    "source": "tinnhanhchungkhoan.vn"
@@ -989,6 +984,11 @@
    "title": "Lãi suất ngân hàng hôm nay 10/9/2026: Cao nhất 10%/năm, phải gửi cả nghìn tỷ - Báo VietNamNet",
    "date": "Thu, 10 Sep 2026 07:00:00 GMT",
    "source": "Báo VietNamNet"
+  },
+  {
+   "title": "Hoàn tiền từ những chi tiêu quen thuộc với OCB Mastercard Passport Debit - Báo Dân Việt",
+   "date": "Thu, 10 Sep 2026 07:00:00 GMT",
+   "source": "Báo Dân Việt"
   }
  ],
  "EIB": [
@@ -1060,9 +1060,9 @@
    "source": "tinnhanhchungkhoan.vn"
   },
   {
-   "title": "Nam A Bank (NAB) bứt phá 9 tháng năm 2026: Lợi nhuận trước thuế đạt hơn 4.700 tỷ đồng, tăng 25%; tổng tài sản tiệm cận 465.000 tỷ đồng - Báo Pháp Luật Việt Nam",
+   "title": "Nam A Bank (NAB) bứt phá 9 tháng năm 2026: Lợi nhuận trước thuế đạt hơn 4.700 tỷ đồng, tăng 25%; tổng tài sản tiệm cận 465.000 tỷ đồng - baophapluat.vn",
    "date": "Fri, 02 Oct 2026 09:17:15 GMT",
-   "source": "Báo Pháp Luật Việt Nam"
+   "source": "baophapluat.vn"
   },
   {
    "title": "Cổ phiếu ngân hàng đồng loạt tăng giá, HDB được khối ngoại gom nhiều nhất thị trường - cafef.vn",
@@ -1078,6 +1078,11 @@
    "title": "Nam A Bank lãi hơn 4.700 tỷ đồng sau 9 tháng - Nhịp sống kinh doanh",
    "date": "Fri, 02 Oct 2026 10:21:00 GMT",
    "source": "Nhịp sống kinh doanh"
+  },
+  {
+   "title": "Vì sao chứng khoán “quay xe” trước thềm nâng hạng, nhà đầu tư thất vọng? - Báo Dân trí",
+   "date": "Fri, 18 Sep 2026 07:00:00 GMT",
+   "source": "Báo Dân trí"
   },
   {
    "title": "Cổ phiếu ngân hàng kéo thị trường “thăng hoa”, VN-Index tăng gần 13 điểm - markettimes.vn",
@@ -1194,11 +1199,6 @@
    "source": "VIETTIMES"
   },
   {
-   "title": "Quỹ của bà Nguyễn Thanh Phượng muốn bán sạch cổ phiếu VCI: Chuyện gì đang diễn ra? - 24HMoney",
-   "date": "Fri, 11 Sep 2026 07:00:00 GMT",
-   "source": "24HMoney"
-  },
-  {
    "title": "Quỹ đầu tư của bà Nguyễn Thanh Phượng đăng ký bán hết vốn tại Vietcap - cafeland.vn",
    "date": "Fri, 11 Sep 2026 07:00:00 GMT",
    "source": "cafeland.vn"
@@ -1227,6 +1227,11 @@
    "title": "Cổ phiếu nào được nhiều quỹ đầu tư nắm giữ nhất trong 27 mã Việt Nam thuộc FTSE All-Cap? - Báo Tuổi Trẻ",
    "date": "Thu, 17 Sep 2026 07:00:00 GMT",
    "source": "Báo Tuổi Trẻ"
+  },
+  {
+   "title": "Chứng khoán hôm nay 15/9: 5 doanh nghiệp giao dịch cổ phiếu số lượng lớn - bnews.vn",
+   "date": "Tue, 15 Sep 2026 07:00:00 GMT",
+   "source": "bnews.vn"
   }
  ],
  "HCM": [
@@ -1673,6 +1678,11 @@
    "title": "VNINDEX thủng đáy - Điều chỉnh thanh khoản thấp có đáng lo? | Chứng khoán hôm nay 24/09 - YouTube",
    "date": "Thu, 24 Sep 2026 09:49:43 GMT",
    "source": "YouTube"
+  },
+  {
+   "title": "Chứng khoán ngày 24/9: VN-Index giảm sâu, nhóm bất động sản và năng lượng chịu áp lực bán mạnh - Vietnam.vn",
+   "date": "Thu, 24 Sep 2026 09:23:06 GMT",
+   "source": "Vietnam.vn"
   }
  ],
  "FPT": [
@@ -1806,14 +1816,14 @@
    "source": "VnEconomy"
   },
   {
+   "title": "Thế giới Di động (MWG) chi thêm gần 1.500 tỷ đồng trả cổ tức, một lãnh đạo cấp cao đăng ký bán bớt cổ phần - Vietnam.vn",
+   "date": "Mon, 21 Sep 2026 07:00:00 GMT",
+   "source": "Vietnam.vn"
+  },
+  {
    "title": "Dự kiến giữa tháng 10, cổ đông MWG sẽ nhận nốt cổ tức 2025 - thuonghieucongluan.com.vn",
    "date": "Mon, 21 Sep 2026 07:00:00 GMT",
    "source": "thuonghieucongluan.com.vn"
-  },
-  {
-   "title": "Loạt cổ phiếu MWG, VHC, PHP, DCM, GMD được chú ý trước phiên 28/9 - MoneyF",
-   "date": "Mon, 28 Sep 2026 01:47:00 GMT",
-   "source": "MoneyF"
   },
   {
    "title": "1 triệu cổ phiếu MWG vừa được ông Đoàn Văn Hiểu Em bán ra - 24HMoney",
@@ -2359,6 +2369,11 @@
    "title": "KIDO (KDC) ra mắt hệ sinh thái AIRO, đặt mục tiêu IPO năm 2030 - tinnhanhchungkhoan.vn",
    "date": "Wed, 30 Sep 2026 10:42:32 GMT",
    "source": "tinnhanhchungkhoan.vn"
+  },
+  {
+   "title": "KDC: CBTT về việc Nuti KD không còn là công ty liên kết của KIDO - Vietstock",
+   "date": "Fri, 18 Sep 2026 07:00:00 GMT",
+   "source": "Vietstock"
   }
  ],
  "HPG": [
@@ -2398,6 +2413,11 @@
    "source": "Vietstock"
   },
   {
+   "title": "Con trai Chủ tịch Hòa Phát dự chi hơn 1.000 tỷ đồng mua 50 triệu cổ phiếu HPG - Nhịp sống kinh doanh",
+   "date": "Fri, 02 Oct 2026 09:11:00 GMT",
+   "source": "Nhịp sống kinh doanh"
+  },
+  {
    "title": "Sự kiện chứng khoán đáng chú ý ngày 3/10 - tinnhanhchungkhoan.vn",
    "date": "Fri, 02 Oct 2026 11:17:47 GMT",
    "source": "tinnhanhchungkhoan.vn"
@@ -2406,11 +2426,6 @@
    "title": "HPG về đáy 6 tháng, con trai Chủ tịch Trần Đình Long đăng ký mua 50 triệu cổ phiếu - Nhadautu.",
    "date": "Fri, 02 Oct 2026 09:51:20 GMT",
    "source": "Nhadautu."
-  },
-  {
-   "title": "Con trai Chủ tịch Hòa Phát dự chi hơn 1.000 tỷ đồng mua 50 triệu cổ phiếu HPG - Nhịp sống kinh doanh",
-   "date": "Fri, 02 Oct 2026 09:11:00 GMT",
-   "source": "Nhịp sống kinh doanh"
   },
   {
    "title": "Cổ phiếu HPG “thủng” mốc 20.000 đồng - 24HMoney",
@@ -2797,14 +2812,14 @@
    "source": "Vietstock"
   },
   {
+   "title": "Cổ phiếu đáng chú ý ngày 16/9: PVS, PVD, DCM - nguoiquansat.vn",
+   "date": "Tue, 15 Sep 2026 07:00:00 GMT",
+   "source": "nguoiquansat.vn"
+  },
+  {
    "title": "Cổ phiếu DCM được khuyến nghị mua - Báo Sức khỏe & Đời sống",
    "date": "Mon, 14 Sep 2026 07:00:00 GMT",
    "source": "Báo Sức khỏe & Đời sống"
-  },
-  {
-   "title": "Cổ phiếu đáng chú ý ngày 9/9: PVT, FRT, DCM - nguoiquansat.vn",
-   "date": "Wed, 09 Sep 2026 07:00:00 GMT",
-   "source": "nguoiquansat.vn"
   },
   {
    "title": "Cổ phiếu MCH, VGC, DCM qua góc nhìn công ty chứng khoán - bnews.vn",
@@ -2842,8 +2857,8 @@
    "source": "Nhadautu."
   },
   {
-   "title": "Cổ phiếu đáng chú ý ngày 16/9: PVS, PVD, DCM - nguoiquansat.vn",
-   "date": "Tue, 15 Sep 2026 07:00:00 GMT",
+   "title": "Cổ phiếu đáng chú ý ngày 9/9: PVT, FRT, DCM - nguoiquansat.vn",
+   "date": "Wed, 09 Sep 2026 07:00:00 GMT",
    "source": "nguoiquansat.vn"
   },
   {
@@ -3193,6 +3208,11 @@
    "source": "cafef.vn"
   },
   {
+   "title": "GAS dự chi hơn 6.000 tỷ trả cổ tức 2025 - VnEconomy",
+   "date": "Thu, 10 Sep 2026 07:00:00 GMT",
+   "source": "VnEconomy"
+  },
+  {
    "title": "PV GAS chốt ngày đăng ký nhận cổ tức năm 2025, tỷ lệ 25% - PetroTimes",
    "date": "Thu, 10 Sep 2026 07:00:00 GMT",
    "source": "PetroTimes"
@@ -3233,19 +3253,14 @@
    "source": "Vietstock"
   },
   {
-   "title": "Lịch chốt quyền cổ tức tuần 21-25/9: VPBank, FPT tăng vốn, PV GAS chi hơn 6.000 tỷ đồng - hangthat.thuonghieucongluan.com.vn",
-   "date": "Sun, 20 Sep 2026 07:00:00 GMT",
-   "source": "hangthat.thuonghieucongluan.com.vn"
-  },
-  {
-   "title": "ĐHĐCĐ bất thường PV GAS: Thông qua miễn nhiệm Chủ tịch và Tổng Giám đốc - 24HMoney",
-   "date": "Mon, 14 Sep 2026 07:00:00 GMT",
-   "source": "24HMoney"
-  },
-  {
    "title": "PV Gas sắp chi hơn 6.000 tỷ đồng trả cổ tức năm 2025 - cafef.vn",
    "date": "Thu, 10 Sep 2026 07:00:00 GMT",
    "source": "cafef.vn"
+  },
+  {
+   "title": "Cổ phiếu đáng chú ý ngày 29/9: VSC, PVS, GAS - nguoiquansat.vn",
+   "date": "Mon, 28 Sep 2026 16:22:01 GMT",
+   "source": "nguoiquansat.vn"
   }
  ],
  "PVS": [
@@ -3291,7 +3306,7 @@
   },
   {
    "title": "PVS:Tổng Công ty Cổ phần Dịch vụ Kỹ thuật Dầu khí Việt Nam (HNX) - cafef.vn",
-   "date": "Fri, 25 Sep 2026 07:00:00 GMT",
+   "date": "Tue, 29 Sep 2026 07:00:00 GMT",
    "source": "cafef.vn"
   },
   {
@@ -3389,14 +3404,14 @@
    "source": "VnBusiness"
   },
   {
+   "title": "Petrolimex (PLX) bán hết gần 23,3 triệu cổ phiếu quỹ, thu về khoảng 844 tỷ đồng - Báo Pháp Luật Việt Nam",
+   "date": "Fri, 18 Sep 2026 07:00:00 GMT",
+   "source": "Báo Pháp Luật Việt Nam"
+  },
+  {
    "title": "Petrolimex thu hơn 844 tỷ đồng từ bán sạch cổ phiếu quỹ - thuonghieucongluan.com.vn",
    "date": "Thu, 17 Sep 2026 07:17:00 GMT",
    "source": "thuonghieucongluan.com.vn"
-  },
-  {
-   "title": "Petrolimex (PLX) bán hết gần 23,3 triệu cổ phiếu quỹ, thu về khoảng 844 tỷ đồng - Vietnam.vn",
-   "date": "Fri, 18 Sep 2026 02:04:43 GMT",
-   "source": "Vietnam.vn"
   },
   {
    "title": "Tập đoàn xăng dầu quy mô 88.000 tỷ đồng bán toàn bộ cổ phiếu quỹ, đáp ứng điều kiện công ty đại chúng - nguoiquansat.vn",
@@ -3424,8 +3439,8 @@
    "source": "24h.com.vn"
   },
   {
-   "title": "Giao dịch chứng khoán sáng 1/10: Cổ phiếu năng lượng hồi phục, thị trường vẫn giảm điểm - tinnhanhchungkhoan.vn",
-   "date": "Thu, 01 Oct 2026 04:08:48 GMT",
+   "title": "Săn cổ tức nhóm dầu khí: Doanh nghiệp nào đem lại tỷ suất hấp dẫn nhất? - tinnhanhchungkhoan.vn",
+   "date": "Sun, 13 Sep 2026 07:00:00 GMT",
    "source": "tinnhanhchungkhoan.vn"
   },
   {
@@ -3575,11 +3590,6 @@
    "source": "Baodautu.vn"
   },
   {
-   "title": "Cổ phiếu nhà tỷ phú Phạm Nhật Vượng hút mạnh vốn ngoại, chờ dòng tiền mới - Báo Dân trí",
-   "date": "Sun, 06 Sep 2026 07:00:00 GMT",
-   "source": "Báo Dân trí"
-  },
-  {
    "title": "VN-Index “chìm” sâu dưới 1800 điểm, nguy cơ thủng đáy ngắn hạn - VnEconomy",
    "date": "Thu, 24 Sep 2026 05:04:58 GMT",
    "source": "VnEconomy"
@@ -3590,6 +3600,11 @@
    "source": "24HMoney"
   },
   {
+   "title": "Cổ phiếu nhà tỷ phú Phạm Nhật Vượng hút mạnh vốn ngoại, chờ dòng tiền mới - Báo Dân trí",
+   "date": "Sun, 06 Sep 2026 07:00:00 GMT",
+   "source": "Báo Dân trí"
+  },
+  {
    "title": "Đúng 5 ngày nữa, cổ đông Vinhomes sẽ chứng kiến một thay đổi quan trọng - cafef.vn",
    "date": "Fri, 04 Sep 2026 07:00:00 GMT",
    "source": "cafef.vn"
@@ -3598,6 +3613,11 @@
    "title": "Chứng khoán ngày 23/9: Cổ phiếu bất động sản chịu áp lực, VN-Index lùi về sát mốc 1.800 điểm - Báo Nhân Dân điện tử",
    "date": "Wed, 23 Sep 2026 07:00:00 GMT",
    "source": "Báo Nhân Dân điện tử"
+  },
+  {
+   "title": "Dự báo KQKD quý III: BSR, VHM tăng bằng lần, DXG giảm 40% - Investing.com Việt Nam",
+   "date": "Mon, 28 Sep 2026 05:16:00 GMT",
+   "source": "Investing.com Việt Nam"
   },
   {
    "title": "Vinhomes (VHM) muốn huy động thêm 8.000 tỷ đồng trái phiếu - nguoiquansat.vn",
@@ -3613,11 +3633,6 @@
    "title": "Đúng 9 giờ ngày 9/9, Vinhomes có một sự thay đổi lớn - cafef.vn",
    "date": "Wed, 09 Sep 2026 07:00:00 GMT",
    "source": "cafef.vn"
-  },
-  {
-   "title": "Dự báo cơ cấu quỹ ETF hơn 10.000 tỷ đồng: Hàng triệu cổ phiếu VIC bị bán ra, VHM, FPT, STB... được gom mạnh - nguoiquansat.vn",
-   "date": "Sun, 06 Sep 2026 07:00:00 GMT",
-   "source": "nguoiquansat.vn"
   }
  ],
  "VIC": [
@@ -3652,11 +3667,6 @@
    "source": "Cổng thông tin điện tử tỉnh Hà Tĩnh"
   },
   {
-   "title": "Cổ phiếu VIC lập đỉnh, tỷ phú Phạm Nhật Vượng sắp vào TOP 50 giàu nhất thế giới - 24h.com.vn",
-   "date": "Sat, 05 Sep 2026 07:00:00 GMT",
-   "source": "24h.com.vn"
-  },
-  {
    "title": "Cổ phiếu VIC và lời khuyên cho nhà đầu tư - 24HMoney",
    "date": "Thu, 10 Sep 2026 07:00:00 GMT",
    "source": "24HMoney"
@@ -3680,6 +3690,11 @@
    "title": "“Thua” VN-Index vì không nắm cổ phiếu Vingroup, nhà sáng lập PYN Elite Fund thẳng thắn thừa nhận một điều - cafef.vn",
    "date": "Sun, 27 Sep 2026 17:01:00 GMT",
    "source": "cafef.vn"
+  },
+  {
+   "title": "Chứng khoán hôm nay: VN-Index tăng hơn 25 điểm, riêng VIC đóng góp gần 20 điểm - laodong.vn",
+   "date": "Fri, 04 Sep 2026 07:00:00 GMT",
+   "source": "laodong.vn"
   }
  ],
  "VRE": [
@@ -4264,9 +4279,9 @@
    "source": "tinnhanhchungkhoan.vn"
   },
   {
-   "title": "Chứng khoán vẫn lao đao, một mã họ Viettel ngược dòng tăng trần - Vietnam.vn",
-   "date": "Thu, 24 Sep 2026 09:23:07 GMT",
-   "source": "Vietnam.vn"
+   "title": "Chứng khoán vẫn lao đao, một mã họ Viettel ngược dòng tăng trần - Báo Tuổi Trẻ",
+   "date": "Thu, 24 Sep 2026 08:49:00 GMT",
+   "source": "Báo Tuổi Trẻ"
   },
   {
    "title": "Cổ phiếu ngày 25/9: Giá khí, nguyên liệu và thương mại điện tử tạo phân hóa - thuonghieucongluan.com.vn",
@@ -4275,7 +4290,7 @@
   },
   {
    "title": "Kỳ vọng gì từ HPG và VTP? - 24HMoney",
-   "date": "Thu, 17 Sep 2026 07:00:00 GMT",
+   "date": "Wed, 16 Sep 2026 23:09:56 GMT",
    "source": "24HMoney"
   },
   {
@@ -4287,6 +4302,11 @@
    "title": "Họ cổ phiếu Viettel đồng loạt bứt phá, riêng Viettel Post trần cứng với kỷ lục 2,5 triệu đơn vị: Chuyện gì đang xảy ra? - cafef.vn",
    "date": "Thu, 24 Sep 2026 09:02:00 GMT",
    "source": "cafef.vn"
+  },
+  {
+   "title": "Chứng khoán sáng 24/9: Nhóm Viettel ngược dòng, nổi bật giữa thị trường - thuonghieucongluan.com.vn",
+   "date": "Thu, 24 Sep 2026 04:48:00 GMT",
+   "source": "thuonghieucongluan.com.vn"
   },
   {
    "title": "🚀 VTP CHẠM MỤC TIÊU: BẮT CHUẨN ĐÁY!. Hệ thống tiếp tục ghi nhận thắng lợi với thương vụ VTP:. • 🎯 ... - 24HMoney",
@@ -4388,11 +4408,6 @@
    "source": "Vietnam.vn"
   },
   {
-   "title": "Đón tin vui từ Mỹ, một cổ phiếu \"bốc đầu\" kịch trần - cafef.vn",
-   "date": "Thu, 24 Sep 2026 09:36:00 GMT",
-   "source": "cafef.vn"
-  },
-  {
    "title": "Lịch chốt quyền cổ tức tuần 14-18/9: Cao nhất 12.000 đồng/cổ phiếu - hangthat.thuonghieucongluan.com.vn",
    "date": "Sun, 13 Sep 2026 07:00:00 GMT",
    "source": "hangthat.thuonghieucongluan.com.vn"
@@ -4435,11 +4450,6 @@
    "source": "24HMoney"
   },
   {
-   "title": "Was hat Dr. Nguyen Thi Phuong Thao geholfen, ihren Platz als zweitreichste Person Vietnams zurückzuerobern? - Vietnam.vn",
-   "date": "Tue, 22 Sep 2026 08:38:15 GMT",
-   "source": "Vietnam.vn"
-  },
-  {
    "title": "27 cổ phiếu Việt Nam vào FTSE Global All Cap, nhóm nào hút dòng vốn ngoại? - Báo Công Lý",
    "date": "Mon, 21 Sep 2026 07:00:00 GMT",
    "source": "Báo Công Lý"
@@ -4468,6 +4478,11 @@
    "title": "Một nữ tiến sĩ vừa trở thành người giàu thứ 2 Việt Nam - cafef.vn",
    "date": "Tue, 22 Sep 2026 07:00:00 GMT",
    "source": "cafef.vn"
+  },
+  {
+   "title": "Ngày 15/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock Theo Vietstock - Investing.com Việt Nam",
+   "date": "Tue, 15 Sep 2026 07:00:00 GMT",
+   "source": "Investing.com Việt Nam"
   }
  ],
  "HVN": [
@@ -4512,11 +4527,6 @@
    "source": "nguoiquansat.vn"
   },
   {
-   "title": "Chứng khoán tháng 10: Lãi suất vẫn là biến số, kết quả kinh doanh sẽ phân hóa cổ phiếu - VnEconomy",
-   "date": "Fri, 02 Oct 2026 04:26:11 GMT",
-   "source": "VnEconomy"
-  },
-  {
    "title": "Agriseco Research chọn 6 cổ phiếu cho tháng 10, ưu tiên doanh nghiệp có lợi nhuận tăng trưởng - Tạp chí Kinh tế chứng khoán Việt Nam",
    "date": "Thu, 01 Oct 2026 05:49:00 GMT",
    "source": "Tạp chí Kinh tế chứng khoán Việt Nam"
@@ -4524,6 +4534,11 @@
   {
    "title": "HOSE công bố 72 mã cổ phiếu bị cắt margin tháng 9 - cafef.vn",
    "date": "Sat, 12 Sep 2026 07:00:00 GMT",
+   "source": "cafef.vn"
+  },
+  {
+   "title": "CTCK điểm tên 6 cổ phiếu có định giá rẻ, lợi nhuận quý 3 dự kiến tăng mạnh - cafef.vn",
+   "date": "Thu, 01 Oct 2026 17:03:00 GMT",
    "source": "cafef.vn"
   }
  ],
@@ -4584,9 +4599,9 @@
    "source": "VietnamBiz"
   },
   {
-   "title": "PYN Elite đặt cược vào một cuộc 'định giá lại' cổ phiếu Việt Nam - VietnamFinance",
-   "date": "Sat, 05 Sep 2026 07:00:00 GMT",
-   "source": "VietnamFinance"
+   "title": "Khối ngoại tiếp tục bán ròng gần 400 tỷ đồng trong phiên hồi phục ngày 8/9 - tinnhanhchungkhoan.vn",
+   "date": "Tue, 08 Sep 2026 07:00:00 GMT",
+   "source": "tinnhanhchungkhoan.vn"
   }
  ],
  "BMP": [
@@ -4815,6 +4830,11 @@
    "source": "Báo Pháp Luật Việt Nam"
   },
   {
+   "title": "Loạt cổ phiếu nhà GELEX đồng loạt nằm sàn, nhà đầu tư ngỡ ngàng - 24HMoney",
+   "date": "Mon, 14 Sep 2026 07:00:00 GMT",
+   "source": "24HMoney"
+  },
+  {
    "title": "Cổ phiếu hệ sinh thái Gelex đồng loạt giảm sàn - Báo Dân trí",
    "date": "Mon, 14 Sep 2026 07:00:00 GMT",
    "source": "Báo Dân trí"
@@ -4833,11 +4853,6 @@
    "title": "Loạt cổ phiếu hệ sinh thái GELEX bất ngờ lao dốc, nguyên nhân từ đâu? - cafef.vn",
    "date": "Mon, 14 Sep 2026 07:00:00 GMT",
    "source": "cafef.vn"
-  },
-  {
-   "title": "Ngày 22/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock - fili.vn",
-   "date": "Tue, 22 Sep 2026 01:58:00 GMT",
-   "source": "fili.vn"
   }
  ],
  "VGC": [
@@ -4974,11 +4989,6 @@
    "title": "Loạt cổ phiếu MWG, VHC, PHP, DCM, GMD được chú ý trước phiên 28/9 - MoneyF",
    "date": "Mon, 28 Sep 2026 01:47:00 GMT",
    "source": "MoneyF"
-  },
-  {
-   "title": "Dự báo chứng khoán 28/9: VN-Index đối mặt áp lực điều chỉnh, nhóm cổ phiếu nào đáng chú ý? - hangthat.thuonghieucongluan.com.vn",
-   "date": "Mon, 28 Sep 2026 06:40:00 GMT",
-   "source": "hangthat.thuonghieucongluan.com.vn"
   },
   {
    "title": "Cổ phiếu đáng chú ý ngày 28/9: PVT, MWG, VHC, - nguoiquansat.vn",
@@ -5412,6 +5422,11 @@
    "source": "Vietstock"
   },
   {
+   "title": "Văn Phú muốn trả cổ tức lần 2 tỷ lệ 10%, bầu bổ sung thành viên HĐQT - cafef.vn",
+   "date": "Fri, 02 Oct 2026 12:26:00 GMT",
+   "source": "cafef.vn"
+  },
+  {
    "title": "Văn Phú Invest bầu thêm thành viên HĐQT, đồng thời muốn CHIA THÊM 10% CỔ TỨC - Cộng đồng Kinh doanh Việt Nam",
    "date": "Fri, 02 Oct 2026 03:32:50 GMT",
    "source": "Cộng đồng Kinh doanh Việt Nam"
@@ -5422,19 +5437,9 @@
    "source": "Nhịp sống kinh doanh"
   },
   {
-   "title": "Văn Phú muốn trả cổ tức lần 2 tỷ lệ 10%, bầu bổ sung thành viên HĐQT - An ninh Tiền tệ",
-   "date": "Fri, 02 Oct 2026 09:25:00 GMT",
-   "source": "An ninh Tiền tệ"
-  },
-  {
    "title": "Chứng khoán ngày 23/9: Cổ phiếu bất động sản chịu áp lực, VN-Index lùi về sát mốc 1.800 điểm - Báo Nhân Dân điện tử",
    "date": "Wed, 23 Sep 2026 10:20:27 GMT",
    "source": "Báo Nhân Dân điện tử"
-  },
-  {
-   "title": "Một thành viên HĐQT độc lập của Văn Phú xin từ nhiệm - cafef.vn",
-   "date": "Thu, 10 Sep 2026 07:00:00 GMT",
-   "source": "cafef.vn"
   },
   {
    "title": "Thêm 3 cổ phiếu bị HoSE cắt margin - VietnamFinance",
@@ -5455,6 +5460,11 @@
    "title": "VPI: Quyết định về việc thay đổi đăng ký niêm yết - Vietstock",
    "date": "Thu, 01 Oct 2026 10:38:47 GMT",
    "source": "Vietstock"
+  },
+  {
+   "title": "VPI và PV GAS hợp tác nghiên cứu phát triển công nghệ - Báo Nông nghiệp và Môi trường",
+   "date": "Fri, 11 Sep 2026 07:00:00 GMT",
+   "source": "Báo Nông nghiệp và Môi trường"
   }
  ],
  "TCM": [
@@ -5726,8 +5736,8 @@
    "source": "VnEconomy"
   },
   {
-   "title": "Khối ngoại bán ròng hơn 2.700 tỉ đồng sau khi nâng hạng - laodong.vn",
-   "date": "Fri, 25 Sep 2026 10:09:40 GMT",
+   "title": "Áp lực từ khối ngoại và sức chống chịu của VN-Index - laodong.vn",
+   "date": "Wed, 23 Sep 2026 07:00:00 GMT",
    "source": "laodong.vn"
   },
   {
@@ -5751,6 +5761,11 @@
    "source": "thuonghieucongluan.com.vn"
   },
   {
+   "title": "Khối ngoại bán ròng hơn 2.700 tỉ đồng sau khi nâng hạng - laodong.vn",
+   "date": "Fri, 25 Sep 2026 10:09:40 GMT",
+   "source": "laodong.vn"
+  },
+  {
    "title": "Khối ngoại tiếp tục bán ròng, dòng tiền mua vào vẫn nâng đỡ nhiều cổ phiếu - Thời báo Tài chính Việt Nam",
    "date": "Wed, 30 Sep 2026 10:13:12 GMT",
    "source": "Thời báo Tài chính Việt Nam"
@@ -5769,11 +5784,6 @@
    "title": "Khối ngoại nối dài chuỗi bán ròng, dòng cổ phiếu vẫn hút tiền - Thời báo Tài chính Việt Nam",
    "date": "Tue, 29 Sep 2026 12:19:09 GMT",
    "source": "Thời báo Tài chính Việt Nam"
-  },
-  {
-   "title": "Khối ngoại bán ròng hơn 4.700 tỷ đồng trực tiếp qua khớp lệnh trong tháng 9 - VnEconomy",
-   "date": "Thu, 01 Oct 2026 02:55:53 GMT",
-   "source": "VnEconomy"
   }
  ],
  "_LAISUAT": [
@@ -5786,6 +5796,11 @@
    "title": "Lãi suất ngân hàng hôm nay 27.9: Bảy ngân hàng có lãi suất trên 8% - laodong.vn",
    "date": "Sun, 27 Sep 2026 01:07:06 GMT",
    "source": "laodong.vn"
+  },
+  {
+   "title": "Lãi suất khi nào có thể hạ nhiệt? - vnexpress.net",
+   "date": "Thu, 24 Sep 2026 22:00:00 GMT",
+   "source": "vnexpress.net"
   },
   {
    "title": "Mặt bằng lãi suất hiện nay, gửi ở đâu được 8% trở lên - Báo Dân trí",
@@ -5801,11 +5816,6 @@
    "title": "Lãi suất có đang tăng nóng? - Báo Tuổi Trẻ",
    "date": "Tue, 29 Sep 2026 08:44:00 GMT",
    "source": "Báo Tuổi Trẻ"
-  },
-  {
-   "title": "Lãi suất khi nào có thể hạ nhiệt? - vnexpress.net",
-   "date": "Thu, 24 Sep 2026 22:00:00 GMT",
-   "source": "vnexpress.net"
   },
   {
    "title": "Lãi suất ngân hàng vào tháng 10: Nhiều lựa chọn trên 7%/năm, ưu đãi lên tới 9,6%/năm - Tạp chí Kinh tế - Tài chính Online",
@@ -5942,8 +5952,8 @@
    "source": "thanhnien.vn"
   },
   {
-   "title": "Nhu cầu Bitcoin ngày càng yếu - vnexpress.net",
-   "date": "Sun, 20 Sep 2026 07:00:00 GMT",
+   "title": "Bitcoin tăng hơn 40%, vượt xa vàng và chứng khoán - vnexpress.net",
+   "date": "Thu, 01 Oct 2026 17:00:00 GMT",
    "source": "vnexpress.net"
   },
   {
@@ -5969,8 +5979,13 @@
    "source": "Báo Công Lý"
   },
   {
-   "title": "Việt Nam nâng hạng thị trường chứng khoán: Cơ hội và thách thức nào cho doanh nghiệp Việt? - cafef.vn",
-   "date": "Mon, 28 Sep 2026 04:56:00 GMT",
+   "title": "Các tiêu chí chọn cổ phiếu khi thị trường chính thức nâng hạng FTSE - tinnhanhchungkhoan.vn",
+   "date": "Sat, 19 Sep 2026 07:00:00 GMT",
+   "source": "tinnhanhchungkhoan.vn"
+  },
+  {
+   "title": "Nâng hạng thị trường chứng khoán: Mở \"cánh cửa\" đến dòng vốn tỷ USD - cafef.vn",
+   "date": "Sun, 20 Sep 2026 07:00:00 GMT",
    "source": "cafef.vn"
   },
   {
@@ -5979,14 +5994,14 @@
    "source": "vnexpress.net"
   },
   {
-   "title": "Chứng khoán tuần mới: Sau nâng hạng, VN-Index sẽ ra sao? - Báo Tuổi Trẻ",
-   "date": "Mon, 21 Sep 2026 07:00:00 GMT",
-   "source": "Báo Tuổi Trẻ"
-  },
-  {
    "title": "Nhóm cổ phiếu tiềm năng khi chứng khoán được nâng hạng - laodong.vn",
    "date": "Sun, 20 Sep 2026 07:00:00 GMT",
    "source": "laodong.vn"
+  },
+  {
+   "title": "Chứng khoán tuần mới: Sau nâng hạng, VN-Index sẽ ra sao? - Báo Tuổi Trẻ",
+   "date": "Mon, 21 Sep 2026 07:00:00 GMT",
+   "source": "Báo Tuổi Trẻ"
   },
   {
    "title": "Đón sóng nâng hạng FTSE Russell: Khởi động \"cuộc chơi lớn\" cho ngành quỹ Việt Nam - etime.danviet.vn",
@@ -6017,11 +6032,6 @@
    "title": "Sau nâng hạng, Việt Nam được FTSE Russell xem xét vào một rổ chỉ số mới - VietnamFinance",
    "date": "Thu, 01 Oct 2026 09:30:00 GMT",
    "source": "VietnamFinance"
-  },
-  {
-   "title": "Việt Nam hướng tới đáp ứng tiêu chí nâng hạng của MSCI, lên nhóm mới nổi bậc cao của FTSE - Tạp chí Kinh tế - Tài chính Online",
-   "date": "Thu, 01 Oct 2026 09:44:54 GMT",
-   "source": "Tạp chí Kinh tế - Tài chính Online"
   }
  ],
  "_TYGIA": [
@@ -6041,24 +6051,14 @@
    "source": "Báo Dân trí"
   },
   {
-   "title": "Tỷ giá ngoại tệ, tỷ giá USD/VND hôm nay 1/10: Đồng USD đi ngang so với các đồng tiền chủ chốt - Báo Thế giới và Việt Nam",
-   "date": "Thu, 01 Oct 2026 01:02:10 GMT",
+   "title": "Tỷ giá ngoại tệ, tỷ giá USD/VND hôm nay 23/9: Đồng USD liên tục dao động giữa tăng và giảm - Báo Thế giới và Việt Nam",
+   "date": "Wed, 23 Sep 2026 01:02:49 GMT",
    "source": "Báo Thế giới và Việt Nam"
   },
   {
    "title": "Giá USD trong nước sẽ biến động thế nào sau khi Fed tăng lãi suất - vnexpress.net",
    "date": "Mon, 21 Sep 2026 07:00:00 GMT",
    "source": "vnexpress.net"
-  },
-  {
-   "title": "Tỷ giá cuối năm: Những lực kéo và sức ép đan xen - tinnhanhchungkhoan.vn",
-   "date": "Tue, 08 Sep 2026 07:00:00 GMT",
-   "source": "tinnhanhchungkhoan.vn"
-  },
-  {
-   "title": "Vì sao giá USD giảm mạnh? - thanhnien.vn",
-   "date": "Mon, 14 Sep 2026 07:00:00 GMT",
-   "source": "thanhnien.vn"
   },
   {
    "title": "Chủ động duy trì dư địa tỷ giá - Tạp chí Diễn đàn Doanh nghiệp",
@@ -6076,14 +6076,24 @@
    "source": "Thời báo Tài chính Việt Nam"
   },
   {
-   "title": "Tỷ giá ngoại tệ, tỷ giá USD/VND hôm nay 23/9: Đồng USD liên tục dao động giữa tăng và giảm - Báo Thế giới và Việt Nam",
-   "date": "Wed, 23 Sep 2026 01:02:49 GMT",
+   "title": "Tỷ giá ngoại tệ, tỷ giá USD/VND hôm nay 1/10: Đồng USD đi ngang so với các đồng tiền chủ chốt - Báo Thế giới và Việt Nam",
+   "date": "Thu, 01 Oct 2026 01:02:10 GMT",
    "source": "Báo Thế giới và Việt Nam"
   },
   {
    "title": "Vì sao giá USD tự do xuống thấp nhất từ đầu năm? - Báo Dân trí",
    "date": "Thu, 10 Sep 2026 07:00:00 GMT",
    "source": "Báo Dân trí"
+  },
+  {
+   "title": "Ngân hàng Nhà nước nâng tỷ giá trung tâm lên kỷ lục - vnexpress.net",
+   "date": "Tue, 15 Sep 2026 07:00:00 GMT",
+   "source": "vnexpress.net"
+  },
+  {
+   "title": "Tỷ giá USD hôm nay (19/9): USD đồng loạt đi lên sau tuần lãi suất sôi động, Fed và BoJ đều tăng 0,25 điểm phần trăm - Thời báo Tài chính Việt Nam",
+   "date": "Sat, 19 Sep 2026 01:25:00 GMT",
+   "source": "Thời báo Tài chính Việt Nam"
   }
  ],
  "_CRYPTO_VN": [
@@ -6138,14 +6148,14 @@
    "source": "thanhnien.vn"
   },
   {
-   "title": "Đảng viên giao dịch trái phép tiền mã hóa có thể bị khai trừ Đảng - VOV.VN",
-   "date": "Wed, 09 Sep 2026 07:00:00 GMT",
-   "source": "VOV.VN"
-  },
-  {
    "title": "Việt Nam tham khảo kinh nghiệm Áo trong giám sát thị trường tài sản mã hóa - tinnhanhchungkhoan.vn",
    "date": "Wed, 16 Sep 2026 07:00:00 GMT",
    "source": "tinnhanhchungkhoan.vn"
+  },
+  {
+   "title": "‘Cuộc đua’ sàn tài sản mã hóa sau một năm thí điểm: Người tăng tốc, bên rút lui - cafef.vn",
+   "date": "Sat, 05 Sep 2026 07:00:00 GMT",
+   "source": "cafef.vn"
   }
  ]
 }
