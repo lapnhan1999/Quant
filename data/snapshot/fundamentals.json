@@ -1,0 +1,737 @@
+{
+ "VCB": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/VCB/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VCB/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VCB/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "BID": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/BID/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/BID/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/BID/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "CTG": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/CTG/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/CTG/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/CTG/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "TCB": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/TCB/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/TCB/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/TCB/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "MBB": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/MBB/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/MBB/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/MBB/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "ACB": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/ACB/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/ACB/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/ACB/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "VPB": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/VPB/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VPB/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VPB/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "HDB": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/HDB/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/HDB/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/HDB/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "STB": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/STB/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/STB/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/STB/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "VIB": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/VIB/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VIB/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VIB/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "TPB": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/TPB/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/TPB/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/TPB/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "LPB": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/LPB/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/LPB/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/LPB/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "SHB": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/SHB/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/SHB/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/SHB/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "SSB": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/SSB/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/SSB/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/SSB/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "MSB": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/MSB/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/MSB/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/MSB/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "OCB": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/OCB/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/OCB/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/OCB/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "EIB": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/EIB/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/EIB/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/EIB/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "NAB": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/NAB/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/NAB/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/NAB/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "SSI": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/SSI/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/SSI/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/SSI/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "VCI": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/VCI/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VCI/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VCI/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "HCM": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/HCM/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/HCM/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/HCM/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "VND": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/VND/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VND/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VND/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "VIX": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/VIX/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VIX/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VIX/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "SHS": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/SHS/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/SHS/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/SHS/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "MBS": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/MBS/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/MBS/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/MBS/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "FTS": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/FTS/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/FTS/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/FTS/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "BSI": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/BSI/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/BSI/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/BSI/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "CTS": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/CTS/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/CTS/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/CTS/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "FPT": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/FPT/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/FPT/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/FPT/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "CMG": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/CMG/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/CMG/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/CMG/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "MWG": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/MWG/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/MWG/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/MWG/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "DMX": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/DMX/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/DMX/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/DMX/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "FRT": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/FRT/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/FRT/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/FRT/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "DGW": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/DGW/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/DGW/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/DGW/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "PNJ": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/PNJ/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/PNJ/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/PNJ/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "MSN": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/MSN/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/MSN/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/MSN/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "MCH": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/MCH/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/MCH/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/MCH/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "VNM": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/VNM/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VNM/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VNM/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "SAB": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/SAB/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/SAB/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/SAB/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "QNS": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/QNS/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/QNS/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/QNS/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "KDC": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/KDC/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/KDC/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/KDC/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "HPG": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/HPG/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/HPG/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/HPG/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "HSG": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/HSG/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/HSG/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/HSG/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "NKG": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/NKG/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/NKG/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/NKG/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "GMD": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/GMD/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/GMD/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/GMD/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "HAH": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/HAH/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/HAH/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/HAH/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "VSC": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/VSC/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VSC/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VSC/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "DGC": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/DGC/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/DGC/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/DGC/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "DCM": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/DCM/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/DCM/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/DCM/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "DPM": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/DPM/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/DPM/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/DPM/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "CSV": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/CSV/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/CSV/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/CSV/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "REE": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/REE/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/REE/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/REE/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "PC1": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/PC1/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/PC1/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/PC1/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "POW": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/POW/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/POW/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/POW/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "NT2": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/NT2/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/NT2/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/NT2/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "GEG": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/GEG/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/GEG/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/GEG/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "GAS": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/GAS/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/GAS/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/GAS/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "PVS": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/PVS/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/PVS/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/PVS/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "PVD": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/PVD/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/PVD/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/PVD/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "PLX": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/PLX/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/PLX/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/PLX/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "BSR": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/BSR/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/BSR/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/BSR/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "PVT": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/PVT/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/PVT/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/PVT/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "VHM": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/VHM/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VHM/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VHM/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "VIC": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/VIC/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VIC/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VIC/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "VRE": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/VRE/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VRE/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VRE/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "KDH": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/KDH/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/KDH/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/KDH/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "NLG": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/NLG/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/NLG/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/NLG/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "DXG": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/DXG/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/DXG/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/DXG/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "NVL": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/NVL/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/NVL/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/NVL/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "PDR": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/PDR/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/PDR/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/PDR/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "KBC": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/KBC/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/KBC/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/KBC/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "IDC": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/IDC/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/IDC/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/IDC/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "SZC": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/SZC/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/SZC/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/SZC/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "BCM": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/BCM/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/BCM/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/BCM/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "VTP": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/VTP/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VTP/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VTP/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "CTR": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/CTR/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/CTR/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/CTR/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "VGI": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/VGI/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VGI/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VGI/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "VJC": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/VJC/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VJC/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VJC/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "HVN": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/HVN/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/HVN/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/HVN/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "ACV": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/ACV/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/ACV/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/ACV/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "BMP": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/BMP/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/BMP/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/BMP/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "CTD": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/CTD/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/CTD/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/CTD/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "HHV": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/HHV/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/HHV/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/HHV/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "VCG": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/VCG/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VCG/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VCG/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "C4G": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/C4G/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/C4G/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/C4G/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "GEX": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/GEX/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/GEX/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/GEX/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "VGC": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/VGC/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VGC/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VGC/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "SIP": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/SIP/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/SIP/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/SIP/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "VHC": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/VHC/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VHC/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VHC/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "ANV": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/ANV/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/ANV/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/ANV/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "PTB": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/PTB/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/PTB/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/PTB/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "DHG": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/DHG/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/DHG/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/DHG/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "IMP": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/IMP/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/IMP/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/IMP/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "GVR": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/GVR/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/GVR/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/GVR/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "PHR": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/PHR/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/PHR/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/PHR/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "DPR": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/DPR/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/DPR/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/DPR/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "BAF": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/BAF/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/BAF/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/BAF/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "DBC": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/DBC/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/DBC/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/DBC/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "HAG": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/HAG/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/HAG/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/HAG/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "VPI": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/VPI/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VPI/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/VPI/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "TCM": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/TCM/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/TCM/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/TCM/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "MSR": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/MSR/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/MSR/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/MSR/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "NTP": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/NTP/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/NTP/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/NTP/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "TLG": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/TLG/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/TLG/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/TLG/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ },
+ "SCS": {
+  "vndirect_ratios_err": "HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v4/ratios/latest?filter=ratioCode:MARKETCAP,PRICE_TO_",
+  "tcbs_overview_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/SCS/overview",
+  "tcbs_ratio_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/SCS/financialratio?yearly=0&isAll=false",
+  "tcbs_income_err": "404 Client Error: Not Found for url: https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/SCS/incomestatement?yearly=0&isAll=false",
+  "vnstock_ratio_err": "ModuleNotFoundError: No module named 'vnstock'"
+ }
+}

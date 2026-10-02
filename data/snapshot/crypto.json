@@ -1,0 +1,816 @@
+{
+ "coingecko_markets": [
+  {
+   "id": "bitcoin",
+   "symbol": "btc",
+   "name": "Bitcoin",
+   "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+   "current_price": 85502,
+   "market_cap": 1717590967177,
+   "market_cap_rank": 1,
+   "fully_diluted_valuation": 1717592591382,
+   "total_volume": 42287919798,
+   "high_24h": 87086,
+   "low_24h": 84068,
+   "price_change_24h": 1572.99,
+   "price_change_percentage_24h": 1.87421,
+   "market_cap_change_24h": 31390908814,
+   "market_cap_change_percentage_24h": 1.86164,
+   "circulating_supply": 20092434.0,
+   "total_supply": 20092503.0,
+   "max_supply": 21000000.0,
+   "ath": 126080,
+   "ath_change_percentage": -32.18466,
+   "ath_date": "2025-10-06T10:57:42.000Z",
+   "atl": 67.81,
+   "atl_change_percentage": 125991.67428,
+   "atl_date": "2013-07-05T16:00:00.000Z",
+   "roi": null,
+   "last_updated": "2026-10-02T15:09:20.000Z",
+   "price_change_percentage_1y_in_currency": -28.3445,
+   "price_change_percentage_200d_in_currency": 15.6307,
+   "price_change_percentage_30d_in_currency": 11.1902,
+   "price_change_percentage_7d_in_currency": 2.1049
+  },
+  {
+   "id": "ethereum",
+   "symbol": "eth",
+   "name": "Ethereum",
+   "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
+   "current_price": 2704.32,
+   "market_cap": 330112734173,
+   "market_cap_rank": 2,
+   "fully_diluted_valuation": 330112734173,
+   "total_volume": 17213876688,
+   "high_24h": 2768.44,
+   "low_24h": 2677.23,
+   "price_change_24h": 21.39,
+   "price_change_percentage_24h": 0.79737,
+   "market_cap_change_24h": 2538911910,
+   "market_cap_change_percentage_24h": 0.77507,
+   "circulating_supply": 122098689.50213154,
+   "total_supply": 122098689.5021315,
+   "max_supply": null,
+   "ath": 4946.05,
+   "ath_change_percentage": -45.32366,
+   "ath_date": "2025-08-24T11:21:03.000Z",
+   "atl": 0.432979,
+   "atl_change_percentage": 624484.33499,
+   "atl_date": "2015-10-19T16:00:00.000Z",
+   "roi": {
+    "times": 40.56836074849733,
+    "currency": "btc",
+    "percentage": 4056.8360748497325
+   },
+   "last_updated": "2026-10-02T15:09:20.000Z",
+   "price_change_percentage_1y_in_currency": -38.6612,
+   "price_change_percentage_200d_in_currency": 18.3782,
+   "price_change_percentage_30d_in_currency": 12.9004,
+   "price_change_percentage_7d_in_currency": 0.5417
+  },
+  {
+   "id": "binancecoin",
+   "symbol": "bnb",
+   "name": "BNB",
+   "image": "https://coin-images.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1696501970",
+   "current_price": 774.46,
+   "market_cap": 103078292468,
+   "market_cap_rank": 4,
+   "fully_diluted_valuation": 103078285447,
+   "total_volume": 912434583,
+   "high_24h": 783.58,
+   "low_24h": 765.99,
+   "price_change_24h": 9.65,
+   "price_change_percentage_24h": 1.26236,
+   "market_cap_change_24h": 1237097764,
+   "market_cap_change_percentage_24h": 1.21473,
+   "circulating_supply": 133159291.91,
+   "total_supply": 133159275.87,
+   "max_supply": 200000000.0,
+   "ath": 1369.99,
+   "ath_change_percentage": -43.46963,
+   "ath_date": "2025-10-13T00:41:24.000Z",
+   "atl": 0.0398177,
+   "atl_change_percentage": 1944918.01211,
+   "atl_date": "2017-10-18T16:00:00.000Z",
+   "roi": null,
+   "last_updated": "2026-10-02T15:09:20.000Z",
+   "price_change_percentage_1y_in_currency": -26.5654,
+   "price_change_percentage_200d_in_currency": 13.961,
+   "price_change_percentage_30d_in_currency": 12.8971,
+   "price_change_percentage_7d_in_currency": 0.1811
+  },
+  {
+   "id": "ripple",
+   "symbol": "xrp",
+   "name": "XRP",
+   "image": "https://coin-images.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png?1696501442",
+   "current_price": 1.51,
+   "market_cap": 95109500452,
+   "market_cap_rank": 5,
+   "fully_diluted_valuation": 150723301941,
+   "total_volume": 3227989622,
+   "high_24h": 1.55,
+   "low_24h": 1.48,
+   "price_change_24h": 0.02749163,
+   "price_change_percentage_24h": 1.85689,
+   "market_cap_change_24h": 1698850886,
+   "market_cap_change_percentage_24h": 1.81869,
+   "circulating_supply": 63092975951.0,
+   "total_supply": 99985612577.0,
+   "max_supply": 100000000000.0,
+   "ath": 3.65,
+   "ath_change_percentage": -58.64347,
+   "ath_date": "2025-07-17T19:40:53.000Z",
+   "atl": 0.00268621,
+   "atl_change_percentage": 56039.21694,
+   "atl_date": "2014-05-21T16:00:00.000Z",
+   "roi": null,
+   "last_updated": "2026-10-02T15:09:20.000Z",
+   "price_change_percentage_1y_in_currency": -49.3348,
+   "price_change_percentage_200d_in_currency": 1.7419,
+   "price_change_percentage_30d_in_currency": 12.9398,
+   "price_change_percentage_7d_in_currency": -4.4234
+  },
+  {
+   "id": "solana",
+   "symbol": "sol",
+   "name": "Solana",
+   "image": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
+   "current_price": 120.05,
+   "market_cap": 70554361623,
+   "market_cap_rank": 7,
+   "fully_diluted_valuation": 76192914728,
+   "total_volume": 4512783203,
+   "high_24h": 123.55,
+   "low_24h": 116.97,
+   "price_change_24h": 3.06,
+   "price_change_percentage_24h": 2.615,
+   "market_cap_change_24h": 1753264186,
+   "market_cap_change_percentage_24h": 2.54831,
+   "circulating_supply": 588075145.1455896,
+   "total_supply": 635072790.6347431,
+   "max_supply": null,
+   "ath": 293.31,
+   "ath_change_percentage": -59.06988,
+   "ath_date": "2025-01-19T03:15:27.000Z",
+   "atl": 0.500801,
+   "atl_change_percentage": 23872.17709,
+   "atl_date": "2020-05-11T11:35:23.000Z",
+   "roi": null,
+   "last_updated": "2026-10-02T15:09:20.000Z",
+   "price_change_percentage_1y_in_currency": -46.7463,
+   "price_change_percentage_200d_in_currency": 28.5491,
+   "price_change_percentage_30d_in_currency": 21.7452,
+   "price_change_percentage_7d_in_currency": 0.9402
+  },
+  {
+   "id": "chainlink",
+   "symbol": "link",
+   "name": "Chainlink",
+   "image": "https://coin-images.coingecko.com/coins/images/877/large/Chainlink_Logo_500.png?1760023405",
+   "current_price": 14.21,
+   "market_cap": 10621547455,
+   "market_cap_rank": 13,
+   "fully_diluted_valuation": 14198032181,
+   "total_volume": 545505005,
+   "high_24h": 14.64,
+   "low_24h": 14.17,
+   "price_change_24h": -0.0677616485330681,
+   "price_change_percentage_24h": -0.47469,
+   "market_cap_change_24h": -57606302.35607338,
+   "market_cap_change_percentage_24h": -0.53943,
+   "circulating_supply": 748099970.424884,
+   "total_supply": 1000000000.0,
+   "max_supply": 1000000000.0,
+   "ath": 52.7,
+   "ath_change_percentage": -73.03938,
+   "ath_date": "2021-05-09T16:13:57.000Z",
+   "atl": 0.148183,
+   "atl_change_percentage": 9487.68004,
+   "atl_date": "2017-11-28T16:00:00.000Z",
+   "roi": null,
+   "last_updated": "2026-10-02T15:09:20.000Z",
+   "price_change_percentage_1y_in_currency": -36.3952,
+   "price_change_percentage_200d_in_currency": 40.2488,
+   "price_change_percentage_30d_in_currency": 27.8267,
+   "price_change_percentage_7d_in_currency": 1.9413
+  }
+ ],
+ "coingecko_global": {
+  "active_cryptocurrencies": 21782,
+  "upcoming_icos": 0,
+  "ongoing_icos": 49,
+  "ended_icos": 3376,
+  "markets": 1508,
+  "total_market_cap": {
+   "usd": 2921349786289.122,
+   "btc": 34175245.163137205,
+   "eth": 1081396693.9902198
+  },
+  "total_volume": {
+   "usd": 115632709050.96161,
+   "btc": 1352722.7034713007,
+   "eth": 42803785.38431801
+  },
+  "market_cap_percentage": {
+   "btc": 58.77220656178783,
+   "eth": 11.299119926739449
+  },
+  "market_cap_change_percentage_24h_usd": -1.1825591698334632,
+  "volume_change_percentage_24h_usd": 27.122739124431323,
+  "updated_at": 1790953429
+ },
+ "fear_greed": [
+  {
+   "value": "72",
+   "value_classification": "Greed",
+   "timestamp": "1790899200",
+   "time_until_update": "31707"
+  },
+  {
+   "value": "74",
+   "value_classification": "Greed",
+   "timestamp": "1790812800"
+  },
+  {
+   "value": "71",
+   "value_classification": "Greed",
+   "timestamp": "1790726400"
+  },
+  {
+   "value": "73",
+   "value_classification": "Greed",
+   "timestamp": "1790640000"
+  },
+  {
+   "value": "74",
+   "value_classification": "Greed",
+   "timestamp": "1790553600"
+  },
+  {
+   "value": "70",
+   "value_classification": "Greed",
+   "timestamp": "1790467200"
+  },
+  {
+   "value": "74",
+   "value_classification": "Greed",
+   "timestamp": "1790380800"
+  },
+  {
+   "value": "71",
+   "value_classification": "Greed",
+   "timestamp": "1790294400"
+  },
+  {
+   "value": "71",
+   "value_classification": "Greed",
+   "timestamp": "1790208000"
+  },
+  {
+   "value": "71",
+   "value_classification": "Greed",
+   "timestamp": "1790121600"
+  },
+  {
+   "value": "78",
+   "value_classification": "Extreme Greed",
+   "timestamp": "1790035200"
+  },
+  {
+   "value": "70",
+   "value_classification": "Greed",
+   "timestamp": "1789948800"
+  },
+  {
+   "value": "71",
+   "value_classification": "Greed",
+   "timestamp": "1789862400"
+  },
+  {
+   "value": "71",
+   "value_classification": "Greed",
+   "timestamp": "1789776000"
+  },
+  {
+   "value": "56",
+   "value_classification": "Greed",
+   "timestamp": "1789689600"
+  },
+  {
+   "value": "50",
+   "value_classification": "Neutral",
+   "timestamp": "1789603200"
+  },
+  {
+   "value": "51",
+   "value_classification": "Neutral",
+   "timestamp": "1789516800"
+  },
+  {
+   "value": "69",
+   "value_classification": "Greed",
+   "timestamp": "1789430400"
+  },
+  {
+   "value": "57",
+   "value_classification": "Greed",
+   "timestamp": "1789344000"
+  },
+  {
+   "value": "61",
+   "value_classification": "Greed",
+   "timestamp": "1789257600"
+  },
+  {
+   "value": "63",
+   "value_classification": "Greed",
+   "timestamp": "1789171200"
+  },
+  {
+   "value": "56",
+   "value_classification": "Greed",
+   "timestamp": "1789084800"
+  },
+  {
+   "value": "69",
+   "value_classification": "Greed",
+   "timestamp": "1788998400"
+  },
+  {
+   "value": "66",
+   "value_classification": "Greed",
+   "timestamp": "1788912000"
+  },
+  {
+   "value": "69",
+   "value_classification": "Greed",
+   "timestamp": "1788825600"
+  },
+  {
+   "value": "71",
+   "value_classification": "Greed",
+   "timestamp": "1788739200"
+  },
+  {
+   "value": "73",
+   "value_classification": "Greed",
+   "timestamp": "1788652800"
+  },
+  {
+   "value": "73",
+   "value_classification": "Greed",
+   "timestamp": "1788566400"
+  },
+  {
+   "value": "74",
+   "value_classification": "Greed",
+   "timestamp": "1788480000"
+  },
+  {
+   "value": "65",
+   "value_classification": "Greed",
+   "timestamp": "1788393600"
+  },
+  {
+   "value": "63",
+   "value_classification": "Greed",
+   "timestamp": "1788307200"
+  },
+  {
+   "value": "69",
+   "value_classification": "Greed",
+   "timestamp": "1788220800"
+  },
+  {
+   "value": "62",
+   "value_classification": "Greed",
+   "timestamp": "1788134400"
+  },
+  {
+   "value": "69",
+   "value_classification": "Greed",
+   "timestamp": "1788048000"
+  },
+  {
+   "value": "68",
+   "value_classification": "Greed",
+   "timestamp": "1787961600"
+  },
+  {
+   "value": "73",
+   "value_classification": "Greed",
+   "timestamp": "1787875200"
+  },
+  {
+   "value": "71",
+   "value_classification": "Greed",
+   "timestamp": "1787788800"
+  },
+  {
+   "value": "65",
+   "value_classification": "Greed",
+   "timestamp": "1787702400"
+  },
+  {
+   "value": "74",
+   "value_classification": "Greed",
+   "timestamp": "1787616000"
+  },
+  {
+   "value": "73",
+   "value_classification": "Greed",
+   "timestamp": "1787529600"
+  },
+  {
+   "value": "66",
+   "value_classification": "Greed",
+   "timestamp": "1787443200"
+  },
+  {
+   "value": "71",
+   "value_classification": "Greed",
+   "timestamp": "1787356800"
+  },
+  {
+   "value": "72",
+   "value_classification": "Greed",
+   "timestamp": "1787270400"
+  },
+  {
+   "value": "62",
+   "value_classification": "Greed",
+   "timestamp": "1787184000"
+  },
+  {
+   "value": "46",
+   "value_classification": "Fear",
+   "timestamp": "1787097600"
+  },
+  {
+   "value": "41",
+   "value_classification": "Fear",
+   "timestamp": "1787011200"
+  },
+  {
+   "value": "31",
+   "value_classification": "Fear",
+   "timestamp": "1786924800"
+  },
+  {
+   "value": "34",
+   "value_classification": "Fear",
+   "timestamp": "1786838400"
+  },
+  {
+   "value": "34",
+   "value_classification": "Fear",
+   "timestamp": "1786752000"
+  },
+  {
+   "value": "29",
+   "value_classification": "Fear",
+   "timestamp": "1786665600"
+  },
+  {
+   "value": "29",
+   "value_classification": "Fear",
+   "timestamp": "1786579200"
+  },
+  {
+   "value": "27",
+   "value_classification": "Fear",
+   "timestamp": "1786492800"
+  },
+  {
+   "value": "29",
+   "value_classification": "Fear",
+   "timestamp": "1786406400"
+  },
+  {
+   "value": "30",
+   "value_classification": "Fear",
+   "timestamp": "1786320000"
+  },
+  {
+   "value": "31",
+   "value_classification": "Fear",
+   "timestamp": "1786233600"
+  },
+  {
+   "value": "30",
+   "value_classification": "Fear",
+   "timestamp": "1786147200"
+  },
+  {
+   "value": "29",
+   "value_classification": "Fear",
+   "timestamp": "1786060800"
+  },
+  {
+   "value": "25",
+   "value_classification": "Extreme Fear",
+   "timestamp": "1785974400"
+  },
+  {
+   "value": "27",
+   "value_classification": "Fear",
+   "timestamp": "1785888000"
+  },
+  {
+   "value": "25",
+   "value_classification": "Extreme Fear",
+   "timestamp": "1785801600"
+  }
+ ],
+ "kraken_metrics": {
+  "BTC": {
+   "last_date": "2026-10-02",
+   "close": 85548.1,
+   "chg_1d_pct": 0.82,
+   "ret_1w": 1.73,
+   "ret_1m": 10.66,
+   "ret_3m": 36.77,
+   "ret_6m": 27.81,
+   "ret_1y": -29.09,
+   "ret_3y": null,
+   "ret_ytd": -2.23,
+   "high_52w": 126198.1,
+   "low_52w": 57740.0,
+   "high_52w_date": "2025-10-06",
+   "low_52w_date": "2026-07-01",
+   "all_time_high_in_data": 126198.1,
+   "ma20": 82096.12,
+   "ma50": 78141.19,
+   "ma100": 70762.138,
+   "ma200": 71377.1325,
+   "rsi14": 66.6,
+   "atr14": 2293.4428571428557,
+   "atr14_pct": 2.68,
+   "vol_1y_ann_pct": 45.0,
+   "max_dd_1y_pct": -53.1,
+   "low_20d": 74891.5,
+   "high_20d": 87446.7,
+   "low_60d": 62490.0,
+   "high_60d": 87446.7,
+   "low_120d": 57740.0,
+   "high_120d": 87446.7,
+   "avg_value_20d": 231429851.6066289,
+   "n_bars": 721,
+   "pct_vs_ma20": 4.2,
+   "pct_vs_ma50": 9.48,
+   "pct_vs_ma100": 20.9,
+   "pct_vs_ma200": 19.85,
+   "pct_from_52w_high": -32.21,
+   "pct_from_52w_low": 48.16
+  },
+  "ETH": {
+   "last_date": "2026-10-02",
+   "close": 2704.97,
+   "chg_1d_pct": -0.02,
+   "ret_1w": 0.51,
+   "ret_1m": 13.13,
+   "ret_3m": 53.95,
+   "ret_6m": 31.72,
+   "ret_1y": -39.72,
+   "ret_3y": null,
+   "ret_ytd": -8.84,
+   "high_52w": 4759.01,
+   "low_52w": 1505.75,
+   "high_52w_date": "2025-10-06",
+   "low_52w_date": "2026-06-06",
+   "all_time_high_in_data": 4956.01,
+   "ma20": 2628.596,
+   "ma50": 2468.621,
+   "ma100": 2143.2123,
+   "ma200": 2114.2141,
+   "rsi14": 63.9,
+   "atr14": 82.63285714285712,
+   "atr14_pct": 3.05,
+   "vol_1y_ann_pct": 63.6,
+   "max_dd_1y_pct": -66.6,
+   "low_20d": 2356.45,
+   "high_20d": 2806.69,
+   "low_60d": 1847.16,
+   "high_60d": 2806.69,
+   "low_120d": 1505.75,
+   "high_120d": 2806.69,
+   "avg_value_20d": 100602336.43791462,
+   "n_bars": 721,
+   "pct_vs_ma20": 2.91,
+   "pct_vs_ma50": 9.57,
+   "pct_vs_ma100": 26.21,
+   "pct_vs_ma200": 27.94,
+   "pct_from_52w_high": -43.16,
+   "pct_from_52w_low": 79.64
+  },
+  "SOL": {
+   "last_date": "2026-10-02",
+   "close": 120.05,
+   "chg_1d_pct": 1.4,
+   "ret_1w": -1.71,
+   "ret_1m": 19.57,
+   "ret_3m": 45.89,
+   "ret_6m": 49.33,
+   "ret_1y": -48.89,
+   "ret_3y": null,
+   "ret_ytd": -3.52,
+   "high_52w": 237.83,
+   "low_52w": 60.12,
+   "high_52w_date": "2025-10-06",
+   "low_52w_date": "2026-06-06",
+   "all_time_high_in_data": 296.0,
+   "ma20": 113.1445,
+   "ma50": 102.9156,
+   "ma100": 89.3297,
+   "ma200": 85.6776,
+   "rsi14": 63.9,
+   "atr14": 5.211428571428572,
+   "atr14_pct": 4.34,
+   "vol_1y_ann_pct": 67.7,
+   "max_dd_1y_pct": -73.3,
+   "low_20d": 95.73,
+   "high_20d": 124.91,
+   "low_60d": 72.29,
+   "high_60d": 124.91,
+   "low_120d": 60.12,
+   "high_120d": 124.91,
+   "avg_value_20d": 56023724.8826532,
+   "n_bars": 721,
+   "pct_vs_ma20": 6.1,
+   "pct_vs_ma50": 16.65,
+   "pct_vs_ma100": 34.39,
+   "pct_vs_ma200": 40.12,
+   "pct_from_52w_high": -49.52,
+   "pct_from_52w_low": 99.68
+  },
+  "XRP": {
+   "last_date": "2026-10-02",
+   "close": 1.51,
+   "chg_1d_pct": 1.08,
+   "ret_1w": -3.71,
+   "ret_1m": 11.79,
+   "ret_3m": 33.12,
+   "ret_6m": 14.55,
+   "ret_1y": -50.33,
+   "ret_3y": null,
+   "ret_ytd": -17.9,
+   "high_52w": 3.0956,
+   "low_52w": 0.9847,
+   "high_52w_date": "2025-10-03",
+   "low_52w_date": "2026-08-14",
+   "all_time_high_in_data": 3.6645,
+   "ma20": 1.4546,
+   "ma50": 1.3772,
+   "ma100": 1.2277,
+   "ma200": 1.2795,
+   "rsi14": 57.9,
+   "atr14": 0.08793357142857146,
+   "atr14_pct": 5.82,
+   "vol_1y_ann_pct": 67.0,
+   "max_dd_1y_pct": -67.4,
+   "low_20d": 1.2461,
+   "high_20d": 1.6578,
+   "low_60d": 0.9847,
+   "high_60d": 1.7,
+   "low_120d": 0.9847,
+   "high_120d": 1.7,
+   "avg_value_20d": 89651548.03804615,
+   "n_bars": 721,
+   "pct_vs_ma20": 3.81,
+   "pct_vs_ma50": 9.65,
+   "pct_vs_ma100": 22.99,
+   "pct_vs_ma200": 18.01,
+   "pct_from_52w_high": -51.22,
+   "pct_from_52w_low": 53.35
+  },
+  "LINK": {
+   "last_date": "2026-10-02",
+   "close": 14.2216,
+   "chg_1d_pct": -1.16,
+   "ret_1w": 2.08,
+   "ret_1m": 27.94,
+   "ret_3m": 78.45,
+   "ret_6m": 64.27,
+   "ret_1y": -37.6,
+   "ret_3y": null,
+   "ret_ytd": 16.75,
+   "high_52w": 23.7251,
+   "low_52w": 7.0,
+   "high_52w_date": "2025-10-07",
+   "low_52w_date": "2026-06-06",
+   "all_time_high_in_data": 30.9102,
+   "ma20": 13.0055,
+   "ma50": 11.9582,
+   "ma100": 10.0383,
+   "ma200": 9.5139,
+   "rsi14": 61.1,
+   "atr14": 0.9060978571428572,
+   "atr14_pct": 6.37,
+   "vol_1y_ann_pct": 72.3,
+   "max_dd_1y_pct": -69.2,
+   "low_20d": 10.61,
+   "high_20d": 15.7666,
+   "low_60d": 8.0607,
+   "high_60d": 15.7666,
+   "low_120d": 7.0,
+   "high_120d": 15.7666,
+   "avg_value_20d": 9939232.12514653,
+   "n_bars": 721,
+   "pct_vs_ma20": 9.35,
+   "pct_vs_ma50": 18.93,
+   "pct_vs_ma100": 41.67,
+   "pct_vs_ma200": 49.48,
+   "pct_from_52w_high": -40.06,
+   "pct_from_52w_low": 103.16
+  },
+  "BNB": {
+   "last_date": "2026-10-02",
+   "close": 774.4614,
+   "chg_1d_pct": 0.39,
+   "ret_1w": -0.25,
+   "ret_1m": 13.45,
+   "ret_3m": 38.76,
+   "ret_6m": 32.6,
+   "ret_1y": null,
+   "ret_3y": null,
+   "ret_ytd": -10.05,
+   "high_52w": 1307.7583,
+   "low_52w": 545.8641,
+   "high_52w_date": "2025-10-09",
+   "low_52w_date": "2026-07-01",
+   "all_time_high_in_data": 1307.7583,
+   "ma20": 760.1556,
+   "ma50": 717.7107,
+   "ma100": 647.3415,
+   "ma200": 636.8251,
+   "rsi14": 59.4,
+   "atr14": 8.905038485907726,
+   "atr14_pct": 1.15,
+   "vol_1y_ann_pct": 51.6,
+   "max_dd_1y_pct": -58.3,
+   "low_20d": 711.7408,
+   "high_20d": 799.1367,
+   "low_60d": 591.7111,
+   "high_60d": 799.1367,
+   "low_120d": 545.8641,
+   "high_120d": 799.1367,
+   "avg_value_20d": 0.0,
+   "n_bars": 366,
+   "pct_vs_ma20": 1.88,
+   "pct_vs_ma50": 7.91,
+   "pct_vs_ma100": 19.64,
+   "pct_vs_ma200": 21.61,
+   "pct_from_52w_high": -40.78,
+   "pct_from_52w_low": 41.88
+  }
+ },
+ "weekly": {
+  "BTC": {
+   "weeks": 679,
+   "ma200w": 66579.9,
+   "ma100w": 90177.38,
+   "ma50w": 77619.76,
+   "last_weekly_close": 85548.1,
+   "max_weekly_close": 123354.3
+  },
+  "ETH": {
+   "weeks": 583,
+   "ma200w": 2539.18,
+   "ma100w": 2773.25,
+   "ma50w": 2421.64,
+   "last_weekly_close": 2704.97,
+   "max_weekly_close": 4750.83
+  },
+  "SOL": {
+   "weeks": 277,
+   "ma200w": 111.42,
+   "ma100w": 142.42,
+   "ma50w": 101.89,
+   "last_weekly_close": 120.07,
+   "max_weekly_close": 257.5
+  },
+  "XRP": {
+   "weeks": 490,
+   "ma200w": 1.26,
+   "ma100w": 2.0,
+   "ma50w": 1.53,
+   "last_weekly_close": 1.50999,
+   "max_weekly_close": 3.2755
+  },
+  "LINK": {
+   "weeks": 368,
+   "ma200w": 12.76,
+   "ma100w": 14.53,
+   "ma50w": 10.7,
+   "last_weekly_close": 14.22155,
+   "max_weekly_close": 49.57902
+  }
+ },
+ "coinbase_spot": {
+  "BTC": "85542.38",
+  "ETH": "2705.21",
+  "SOL": "120.06"
+ }
+}
