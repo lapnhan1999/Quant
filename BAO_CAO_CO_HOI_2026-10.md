@@ -82,6 +82,8 @@
 
 **Chưa mua vé nào ngay.** Vé nào cũng có điều kiện kích hoạt. Chưa đủ điều kiện thì tiền vẫn nằm ở quỹ trái phiếu hoặc tiết kiệm ngắn hạn. Quá hạn chót thì chuyển hẳn về tiết kiệm.
 
+Độ tin cậy đánh giá (thang 0–10, giải thích ở mục 5): SSI 4; DBC 3,5; NLG 3; HHV 5; VIX 3,5; BTC 4; ETH 4. Không vé nào đạt mức "tin chắc", nên vé nào cũng nhỏ và có điều kiện.
+
 Cách đọc hai cột xác suất cuối:
 - **P(vé thực nhận ≥ x2):** xác suất số tiền thực nhận về từ vé đó đạt từ gấp đôi trở lên.
 - **P(lỗ >30%):** xác suất vé lỗ hơn 30% số tiền bỏ vào.
@@ -146,33 +148,34 @@ Các số là **khoảng giữa ý kiến của phản biện "bear" và kiểm 
 - **Lợi nhuận kỳ vọng 24 tháng:** sau phí, so với tiền gửi khoảng +16–19%.
 - **P(x2):** xác suất **giá chạm** gấp đôi trong 24 tháng. Đây không phải lợi nhuận thực nhận: nếu có cắt lỗ và chốt lời từng phần, con số thực nhận còn thấp hơn.
 - **P(lỗ >30%):** xác suất lỗ quá 30% trong 24 tháng.
+- **Độ tin cậy (0–10):** trung bình điểm của hai agent phản biện, đo mức chắc chắn về **chính đánh giá** (xếp loại, số liệu, kết luận), **không phải** xác suất có lãi. Ví dụ bạc được 6/10 nghĩa là khá chắc rằng **không nên mua lúc này**. Với các vé trong phương án B, điểm 3–5 nghĩa là luận điểm có cơ sở nhưng còn nhiều bất định, nên mới cần điều kiện kích hoạt và cắt lỗ.
 
-| # | Cơ hội | Xếp loại cuối | Lợi nhuận kỳ vọng 24 tháng | P(x2) | P(x5) | P(lỗ >30%) | Kết luận và lý do chính |
-|---|---|---|---|---|---|---|---|
-| 1 | **Khóa lãi tiền gửi 9–9,6%** | **An toàn** | **+16–19%** | 0 | 0 | khoảng 0 | **Nền của mọi phương án** |
-| 2 | SSI, MBS (chứng khoán; FTSE, MSCI, CCP 2027) | Theo dõi / Sự kiện | +10–15% | 4–7% | khoảng 1% | 18–20% | **Vé có điều kiện**. Nhạy nhất với chu kỳ thị trường; MSCI đưa vào watchlist chỉ khoảng 25–35% |
-| 3 | DBC (đáy chu kỳ heo) | Theo dõi | +8–13% | 7–12% | khoảng 1% | 10–13% | **Vé có điều kiện**. Tương quan thấp với nhóm tài chính |
-| 4 | NLG (bất động sản đảo chiều) | Theo dõi | +7–10% | 7–8% | khoảng 1% | khoảng 25% | **Vé nhỏ có điều kiện**. KDH loại vì ngưỡng bán đã kích hoạt (doanh thu lõi 2 quý dưới 300 tỷ) |
-| 5 | HHV (hạ tầng, đường sắt tốc độ cao) | Theo dõi | +5–11% | 7–10% | khoảng 1% | 25–28% | **Vé nhỏ có điều kiện**. P/B thấp là do ROE thấp, nợ ròng gấp 3,4 lần vốn hóa. VCG và C4G loại |
-| 6 | VIX (chứng khoán, sàn VIXEX) | Theo dõi | +8–13% | 15–22% (giá chạm) | 1–2% | 25–33% | **Vé xổ số** 3 triệu. Cú giảm hiện tại là của riêng VIX, không phải cả ngành |
-| 7 | BTC | Theo dõi | +15–18% (nếu có kênh hợp pháp) | 10–15% (giá chạm) | khoảng 1% | 20–25% | **Vé có điều kiện pháp lý**. Chưa có sàn trong nước được cấp phép |
-| 8 | ETH | Theo dõi | +10–14% | khoảng 12% | 1–2% | 28–33% | **Vé nhỏ có điều kiện pháp lý** |
-| 9 | MSN (chiết khấu tổng các phần, bán vốn MSR) | Theo dõi | +8–13% | 3–5% | khoảng 1% | 10–11% | Chất xúc tác lớn nhất (Elmet mua 4,99% MSR) **đã qua**. Chỉ mua ở 62–66, hoặc sau quý 3 nếu lãi cổ đông mẹ ≥ 2.400 tỷ và giá đóng cửa trên 74. Cắt lỗ 59,5; mục tiêu 82–83 / 95–100 |
-| 10 | VPB (SMBC nâng sở hữu, FTSE, sàn CAEX) | Theo dõi / Sự kiện | +12–16% | 4–5% | khoảng 1% | 8–12% | Quý 3 so với nền cao nên chỉ tăng khoảng 20%. Mục tiêu công ty chứng khoán sau khi quy đổi theo đợt chia cổ phiếu chỉ khoảng 27,8–28,4. Chỉ mua 20,8–21,5 sau quý 3 (LNTT ≥ 10.959 tỷ); cắt lỗ 18,9; mục tiêu 26 / 28–29 |
-| 11 | HPG (người nhà Chủ tịch mua 50 triệu cổ phiếu, ray cao tốc) | Theo dõi / Sự kiện | +7–12% (khi áp cắt lỗ) | 3–6% | khoảng 1% | 8–9% | Backtest: mức cắt lỗ −15% bị chạm ở 49% số lần trong 12 tháng. Mua 19,6–20,3 / 18,3–18,9; phần 3 chỉ khi LNST quý 3 ≥ 5.000–5.400 tỷ và giá đóng cửa trên khoảng 21,4. Cắt lỗ khi 2 phiên đóng cửa dưới 17,0; mục tiêu 24–24,5 / 27,5–28,5 / 32,5 |
-| 12 | VTO, QTP (Nhà nước sở hữu, cổ tức 10–11%) | Sự kiện / Theo dõi | +15–16% | khoảng 2% | khoảng 1% | 3–5% | **Cổ phiếu phòng thủ nhất**, nhưng kỳ vọng chỉ ngang tiền gửi. VTO: mua 10,9–11,3 / 10,2–10,6; cắt lỗ dưới 9,0–9,6 hoặc theo luận điểm; mục tiêu 12,8 / 14,7 |
-| 13 | PHR (tiền đền bù đất khu công nghiệp) | Theo dõi / Sự kiện | +10–13% | 2–3% | khoảng 1% | 7–8% | Tiền ròng thực khoảng 2.500 tỷ, không phải 4.800 tỷ; mục tiêu cũ phải chia 1,8. Mua 29,5–31 hoặc sau quý 3 (LNTT ≥ 400 tỷ, mua tối đa 34–35). Cắt lỗ dưới 26; mục tiêu 39,5–40,5 / 45–46 |
-| 14 | NTP (SCIC thoái vốn 37,1%) | Theo dõi | +9–12% | 3–5% | khoảng 1% | khoảng 7% | Chưa có lịch đấu giá; lãi kỷ lục quý 2 có thể là lãi tồn kho. Mua 47,5–48,5 sau quý 3; cắt lỗ dưới 40,8; mục tiêu 58,5 / 65,5 |
-| 15 | PVS (chuyển sàn HOSE) | **Bị bác bỏ** → Theo dõi | +8–14% | 3–6% | khoảng 1% | khoảng 12% | Mức +66% LNTT quý 2 đến từ 460 tỷ thu nhập khác một lần; lợi nhuận kinh doanh chính giảm 35%. Chỉ mua khi lợi nhuận lõi quý 3 tăng |
-| 16 | ACV (sân bay Long Thành 01/12) | Theo dõi | +3–7% | khoảng 3% | khoảng 1% | 10–13% | Lợi nhuận lõi đi ngang; tỷ lệ chia cổ phiếu chỉ khoảng 35%, không phải 58% như tin trước. Mua 33–36,5 sau quý 3; cắt lỗ dưới 30,5 |
-| 17 | MCH (đón FTSE 2027) | Theo dõi | +13–15% | 4–5% | khoảng 1% | 6–8% | Lợi thế "đón trước" gần bằng 0. Nếu mua: 1 lô ở 128–131, cắt lỗ dưới 120 |
-| 18 | PVT, PVP (vận tải dầu thời chiến) | Theo dõi | +4–6% | khoảng 4% | khoảng 1% | 13–15% | PVT đang **nợ ròng** khoảng 1.160 tỷ, không phải có tiền ròng. Chỉ mua 19,0–20,5 sau quý 3 (LNTT ≥ 750 tỷ) |
-| 19 | SOL | Theo dõi → Loại | +6–8% | 15–17% (giá chạm) | khoảng 2% | khoảng 10% | Tương quan 0,86 với BTC, không thêm đa dạng hóa |
-| 20 | NVL (chào bán quyền mua) | Theo dõi → Loại | +2–3% | 5–6% | khoảng 1% | 30–32% | Pha loãng 800 triệu cổ phiếu, rủi ro nằm sàn |
-| 21 | PNJ (bắt đáy khủng hoảng) | Nghiêng về **Loại** | −6% đến +8% | 5–11% | khoảng 1% | 28–38% | Pha loãng tới 107%, dự kiến lỗ 6.271 tỷ. Chỉ xem lại khi có giá chào bán riêng lẻ ≥ 15–18 cho nhà đầu tư tổ chức uy tín |
-| 22 | LINK, HYPE (altcoin) | **Loại** | +5–8% | khoảng 18% (giá chạm) | khoảng 1% | khoảng 42% | Không có kênh hợp pháp trong nước. HYPE chỉ giao dịch được trên sàn phi tập trung hoặc sàn nước ngoài, có thể bị phạt theo Nghị định 284/2026 |
-| 23 | Bạc vật chất | **Loại** | 0–2% | khoảng 6% | khoảng 1% | 33–35% | Giá trong nước cao hơn giá thế giới 12–15%, chênh mua–bán 3%; giá vẫn ở phân vị 93% của 10 năm, không rẻ |
-| 24 | Kỹ năng / kinh doanh nhỏ | Không phải tài sản danh mục | Tùy người | khoảng 20% | 2–3% | khoảng 60% | Có thể là khoản "x2" thật **nếu** gắn với kế hoạch nghề nghiệp cụ thể. Nên chi từ thu nhập hằng tháng, tối đa khoảng 8 triệu. Tránh nhượng quyền F&B và các khóa "kiếm tiền online" |
+| # | Cơ hội | Xếp loại cuối | Độ tin cậy (0–10) | Lợi nhuận kỳ vọng 24 tháng | P(x2) | P(x5) | P(lỗ >30%) | Kết luận và lý do chính |
+|---|---|---|---|---|---|---|---|---|
+| 1 | **Khóa lãi tiền gửi 9–9,6%** | **An toàn** | 8 | **+16–19%** | 0 | 0 | khoảng 0 | **Nền của mọi phương án** |
+| 2 | SSI, MBS (chứng khoán; FTSE, MSCI, CCP 2027) | Theo dõi / Sự kiện | 4 | +10–15% | 4–7% | khoảng 1% | 18–20% | **Vé có điều kiện**. Nhạy nhất với chu kỳ thị trường; MSCI đưa vào watchlist chỉ khoảng 25–35% |
+| 3 | DBC (đáy chu kỳ heo) | Theo dõi | 3,5 | +8–13% | 7–12% | khoảng 1% | 10–13% | **Vé có điều kiện**. Tương quan thấp với nhóm tài chính |
+| 4 | NLG (bất động sản đảo chiều) | Theo dõi | 3 | +7–10% | 7–8% | khoảng 1% | khoảng 25% | **Vé nhỏ có điều kiện**. KDH loại vì ngưỡng bán đã kích hoạt (doanh thu lõi 2 quý dưới 300 tỷ) |
+| 5 | HHV (hạ tầng, đường sắt tốc độ cao) | Theo dõi | 5 | +5–11% | 7–10% | khoảng 1% | 25–28% | **Vé nhỏ có điều kiện**. P/B thấp là do ROE thấp, nợ ròng gấp 3,4 lần vốn hóa. VCG và C4G loại |
+| 6 | VIX (chứng khoán, sàn VIXEX) | Theo dõi | 3,5 | +8–13% | 15–22% (giá chạm) | 1–2% | 25–33% | **Vé xổ số** 3 triệu. Cú giảm hiện tại là của riêng VIX, không phải cả ngành |
+| 7 | BTC | Theo dõi | 4 | +15–18% (nếu có kênh hợp pháp) | 10–15% (giá chạm) | khoảng 1% | 20–25% | **Vé có điều kiện pháp lý**. Chưa có sàn trong nước được cấp phép |
+| 8 | ETH | Theo dõi | 4 | +10–14% | khoảng 12% | 1–2% | 28–33% | **Vé nhỏ có điều kiện pháp lý** |
+| 9 | MSN (chiết khấu tổng các phần, bán vốn MSR) | Theo dõi | 4 | +8–13% | 3–5% | khoảng 1% | 10–11% | Chất xúc tác lớn nhất (Elmet mua 4,99% MSR) **đã qua**. Chỉ mua ở 62–66, hoặc sau quý 3 nếu lãi cổ đông mẹ ≥ 2.400 tỷ và giá đóng cửa trên 74. Cắt lỗ 59,5; mục tiêu 82–83 / 95–100 |
+| 10 | VPB (SMBC nâng sở hữu, FTSE, sàn CAEX) | Theo dõi / Sự kiện | 4 | +12–16% | 4–5% | khoảng 1% | 8–12% | Quý 3 so với nền cao nên chỉ tăng khoảng 20%. Mục tiêu công ty chứng khoán sau khi quy đổi theo đợt chia cổ phiếu chỉ khoảng 27,8–28,4. Chỉ mua 20,8–21,5 sau quý 3 (LNTT ≥ 10.959 tỷ); cắt lỗ 18,9; mục tiêu 26 / 28–29 |
+| 11 | HPG (người nhà Chủ tịch mua 50 triệu cổ phiếu, ray cao tốc) | Theo dõi / Sự kiện | 4,5 | +7–12% (khi áp cắt lỗ) | 3–6% | khoảng 1% | 8–9% | Backtest: mức cắt lỗ −15% bị chạm ở 49% số lần trong 12 tháng. Mua 19,6–20,3 / 18,3–18,9; phần 3 chỉ khi LNST quý 3 ≥ 5.000–5.400 tỷ và giá đóng cửa trên khoảng 21,4. Cắt lỗ khi 2 phiên đóng cửa dưới 17,0; mục tiêu 24–24,5 / 27,5–28,5 / 32,5 |
+| 12 | VTO, QTP (Nhà nước sở hữu, cổ tức 10–11%) | Sự kiện / Theo dõi | 5 | +15–16% | khoảng 2% | khoảng 1% | 3–5% | **Cổ phiếu phòng thủ nhất**, nhưng kỳ vọng chỉ ngang tiền gửi. VTO: mua 10,9–11,3 / 10,2–10,6; cắt lỗ dưới 9,0–9,6 hoặc theo luận điểm; mục tiêu 12,8 / 14,7 |
+| 13 | PHR (tiền đền bù đất khu công nghiệp) | Theo dõi / Sự kiện | 4,5 | +10–13% | 2–3% | khoảng 1% | 7–8% | Tiền ròng thực khoảng 2.500 tỷ, không phải 4.800 tỷ; mục tiêu cũ phải chia 1,8. Mua 29,5–31 hoặc sau quý 3 (LNTT ≥ 400 tỷ, mua tối đa 34–35). Cắt lỗ dưới 26; mục tiêu 39,5–40,5 / 45–46 |
+| 14 | NTP (SCIC thoái vốn 37,1%) | Theo dõi | 6 | +9–12% | 3–5% | khoảng 1% | khoảng 7% | Chưa có lịch đấu giá; lãi kỷ lục quý 2 có thể là lãi tồn kho. Mua 47,5–48,5 sau quý 3; cắt lỗ dưới 40,8; mục tiêu 58,5 / 65,5 |
+| 15 | PVS (chuyển sàn HOSE) | **Bị bác bỏ** → Theo dõi | 3,5 | +8–14% | 3–6% | khoảng 1% | khoảng 12% | Mức +66% LNTT quý 2 đến từ 460 tỷ thu nhập khác một lần; lợi nhuận kinh doanh chính giảm 35%. Chỉ mua khi lợi nhuận lõi quý 3 tăng |
+| 16 | ACV (sân bay Long Thành 01/12) | Theo dõi | 6,5 | +3–7% | khoảng 3% | khoảng 1% | 10–13% | Lợi nhuận lõi đi ngang; tỷ lệ chia cổ phiếu chỉ khoảng 35%, không phải 58% như tin trước. Mua 33–36,5 sau quý 3; cắt lỗ dưới 30,5 |
+| 17 | MCH (đón FTSE 2027) | Theo dõi | 3,5 | +13–15% | 4–5% | khoảng 1% | 6–8% | Lợi thế "đón trước" gần bằng 0. Nếu mua: 1 lô ở 128–131, cắt lỗ dưới 120 |
+| 18 | PVT, PVP (vận tải dầu thời chiến) | Theo dõi | 6 | +4–6% | khoảng 4% | khoảng 1% | 13–15% | PVT đang **nợ ròng** khoảng 1.160 tỷ, không phải có tiền ròng. Chỉ mua 19,0–20,5 sau quý 3 (LNTT ≥ 750 tỷ) |
+| 19 | SOL | Theo dõi → Loại | 4 | +6–8% | 15–17% (giá chạm) | khoảng 2% | khoảng 10% | Tương quan 0,86 với BTC, không thêm đa dạng hóa |
+| 20 | NVL (chào bán quyền mua) | Theo dõi → Loại | 5,5 | +2–3% | 5–6% | khoảng 1% | 30–32% | Pha loãng 800 triệu cổ phiếu, rủi ro nằm sàn |
+| 21 | PNJ (bắt đáy khủng hoảng) | Nghiêng về **Loại** | 5,5 | −6% đến +8% | 5–11% | khoảng 1% | 28–38% | Pha loãng tới 107%, dự kiến lỗ 6.271 tỷ. Chỉ xem lại khi có giá chào bán riêng lẻ ≥ 15–18 cho nhà đầu tư tổ chức uy tín |
+| 22 | LINK, HYPE (altcoin) | **Loại** | 3,5 | +5–8% | khoảng 18% (giá chạm) | khoảng 1% | khoảng 42% | Không có kênh hợp pháp trong nước. HYPE chỉ giao dịch được trên sàn phi tập trung hoặc sàn nước ngoài, có thể bị phạt theo Nghị định 284/2026 |
+| 23 | Bạc vật chất | **Loại** | 6 | 0–2% | khoảng 6% | khoảng 1% | 33–35% | Giá trong nước cao hơn giá thế giới 12–15%, chênh mua–bán 3%; giá vẫn ở phân vị 93% của 10 năm, không rẻ |
+| 24 | Kỹ năng / kinh doanh nhỏ | Không phải tài sản danh mục | 3 | Tùy người | khoảng 20% | 2–3% | khoảng 60% | Có thể là khoản "x2" thật **nếu** gắn với kế hoạch nghề nghiệp cụ thể. Nên chi từ thu nhập hằng tháng, tối đa khoảng 8 triệu. Tránh nhượng quyền F&B và các khóa "kiếm tiền online" |
 
 ---
 
