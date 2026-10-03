@@ -1,0 +1,4 @@
+universe from vndirect: 1523
+prices: 1520 symbols in 50s
+liquid subset: 357
+fundamentals done in 157s
