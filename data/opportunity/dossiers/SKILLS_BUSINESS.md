@@ -1,0 +1,13 @@
+# SKILLS_BUSINESS (other) — dữ liệu đến 02/10/2026 (giá cổ phiếu: nghìn đồng)
+
+## Bằng chứng từ vòng trinh sát web (7 agent, 03/10/2026)
+### [scout: Cơ hội ngoài cổ phiếu cho 100 triệu đồng tại Việt Nam (cuối ] Đầu tư vào kỹ năng hoặc chứng chỉ nghề, và kinh doanh nhỏ dạng thử nghiệm có giới hạn lỗ (kênh duy nhất có thể đạt ROI trên 100%/năm mà không dùng đòn bẩy)
+- Công cụ: Chứng chỉ có cầu tuyển dụng rõ ràng: CFA hoặc ACCA (kế toán, kiểm toán), chứng chỉ điện toán đám mây AWS/Azure, phân tích dữ liệu, IELTS/HSK cho thương mại và logistics, Bán hàng online thử nghiệm 20-30 triệu (TikTok Shop/Shopee) trước khi mở cửa hàng hoặc mua nhượng quyền, Nhượng quyền F&B nhỏ: chỉ cân nhắc khi đã có số liệu doanh thu thực tế của các điểm khác cùng chuỗi
+- Chất xúc tác: Lịch thi chứng chỉ theo năm. Mùa mua sắm 11/11, 12/12 và Tết Nguyên đán 2027 (khoảng 06/02/2027) là giai đoạn thử nghiệm bán hàng online có nhu cầu cao nhất.
+- Thời điểm: Tháng 11/2026 đến tháng 02/2027 cho kinh doanh mùa vụ; lịch thi chứng chỉ do từng tổ chức công bố
+- Vì sao bị định giá thấp: Người hỏi về đầu tư thường chỉ so các tài sản tài chính với nhau. Nếu 30-50 triệu chi cho kỹ năng giúp thu nhập tăng thêm 3-5 triệu/tháng, khoản tăng 36-60 triệu/năm lặp lại hằng năm và không chịu rủi ro thị trường. Mức này vượt mọi kênh tài sản an toàn.
+- Kịch bản tốt: Kỹ năng: chi 30-50 triệu, nếu lương tăng 3-5 triệu/tháng thì ROI khoảng 70-200%/năm, cộng dồn qua nhiều năm (tùy người, tùy ngành). Kinh doanh online thử nghiệm: nếu có sản phẩm bán được, vốn có thể nhân 2-3 lần trong 1-2 năm. Phần lớn lợi nhuận thực chất là trả cho công sức bỏ ra.
+- Kịch bản xấu: Kỹ năng: mất 30-50 triệu và thời gian nếu không đổi được việc hoặc tăng lương. Mua nhượng quyền hoặc mở cửa hàng F&B với 100 triệu thực chất là tự tạo việc làm cho mình, không phải đầu tư thụ động; tỷ lệ đóng cửa trong 1-2 năm cao và có thể mất 50-100% vốn. Lỗ của phần thử nghiệm online chỉ giới hạn trong 20-30 triệu.
+- Xác suất: Xác suất thành công phụ thuộc chủ yếu vào năng lực và thời gian của khách hàng, không đo bằng số liệu thị trường được. Ước lượng chủ quan: chứng chỉ gắn với kế hoạch đổi việc cụ thể có khoảng 40-60% khả năng hoàn vốn trong 12-24 tháng; F&B nhượng quyền nhỏ có khoảng 30-40% khả năng hòa vốn trong 2 năm (chưa kiểm chứng).
+- Pháp lý: legal_public_info | tự tin scout 5/10
+- Bằng chứng: Không tìm được số liệu thống kê đã kiểm chứng (08-10/2026) về ROI hay tỷ lệ đóng cửa của nhượng quyền F&B tại Việt Nam, nên đây là ước tính, xem mục 'unverified' || Lạm phát CPI tháng 08/2026 là +4,89% so với cùng kỳ (data/snapshot/context_brief.md), nghĩa là lãi thực của tiền gửi 8% chỉ khoảng 3%/năm. Đây là mốc chuẩn để so sánh ROI của đầu tư kỹ năng
