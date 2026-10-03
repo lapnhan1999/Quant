@@ -55,19 +55,19 @@ def bootstrap(N, rng, block=20):
 TK = {
  'SSI': dict(sz=7, tiers=[dict(lo=20.4, hi=21.5, w=1.0, start=D0, pcond=0.70)], dl=120, stop=15.8, stop_rule='weekly',
              tp=[(26.0, 1/3), (30.0, 1/3)], trail=0.15, cost=0.0035),
- 'DBC': dict(sz=5, tiers=[dict(lo=13.4, hi=14.8, w=1.0, start=D0, pcond=0.70)], dl=185, stop=11.0, stop_rule='2close',
+ 'DBC': dict(sz=5, tiers=[dict(lo=13.4, hi=14.8, w=0.5, start=D0, pcond=0.70), dict(lo=16.3, hi=16.8, w=0.5, start=D0, pcond=0.35)], dl=185, stop=11.0, stop_rule='2close',
              tp=[(18.75, 1/3), (22.75, 1/3)], trail=0.15, cost=0.0035),
  'NLG': dict(sz=4, tiers=[dict(lo=18.7, hi=19.5, w=0.5, start=D0, pcond=0.80), dict(lo=16.9, hi=17.8, w=0.5, start=D0, pcond=0.80)],
              dl=185, stop=15.0, stop_rule='2close', tp=[(26.5, 1/3), (31.5, 1/3)], trail=0.15, cost=0.0035),
  'HHV': dict(sz=3, tiers=[dict(lo=9.75, hi=10.3, w=1.0, start=D0, pcond=0.55)], dl=120, stop=8.3, stop_rule='2close',
              tp=[(11.0, 1/2), (13.0, 1/2)], trail=0.12, cost=0.0035),
- 'VIX': dict(sz=3, tiers=[dict(lo=12.4, hi=13.5, w=0.5, start=D0, pcond=0.60), dict(lo=12.4, hi=13.5, w=0.5, start=80, pcond=0.40)],
+ 'VIX': dict(sz=3, tiers=[dict(lo=13.0, hi=13.5, w=0.5, start=D0, pcond=0.60), dict(lo=12.4, hi=13.5, w=0.5, start=80, pcond=0.40)],
              dl=185, stop=10.0, stop_rule='2close', tp=[(15.75, 1/3), (18.75, 1/3)], trail=0.20, cost=0.0035),
  'BTC': dict(sz=5, tiers=[dict(lo=0, hi=80000, w=0.4, start='lic', pcond=1.0), dict(lo=0, hi=70000, w=0.3, start='lic', pcond=1.0),
                           dict(lo=0, hi=62000, w=0.3, start='lic', pcond=1.0)], dl=185, stop=56000, stop_rule='weekly',
              tp=[(100000, 1/3), (123000, 1/3)], trail=0.20, cost=0.005),
- 'ETH': dict(sz=3, tiers=[dict(lo=0, hi=2600, w=1/3, start='lic', pcond=1.0), dict(lo=0, hi=2200, w=1/3, start='lic', pcond=1.0),
-                          dict(lo=0, hi=1850, w=1/3, start='lic', pcond=1.0)], dl=185, stop=1450, stop_rule='weekly',
+ 'ETH': dict(sz=3, tiers=[dict(lo=0, hi=2600, w=0.4, start='lic', pcond=1.0), dict(lo=0, hi=2200, w=0.3, start='lic', pcond=1.0),
+                          dict(lo=0, hi=1850, w=0.3, start='lic', pcond=1.0)], dl=185, stop=1450, stop_rule='weekly',
              tp=[(3500, 0.30), (4650, 0.40)], trail=0.25, cost=0.005),
 }
 
@@ -84,12 +84,13 @@ def ladder_variant(tk, variant):
         tk['trail_from'] = 0
     return tk
 
+LIC_WAIT = 15  # do not buy in the first 2-4 weeks after a licensed exchange opens
 YC = 0.07   # yield on cash released from tickets / waiting in bond fund
 def sim_ticket(path, tk, rng, lic_day):
     N = path.shape[0]; sz = tk['sz']; c2 = tk['cost'] / 2
     tiers = []
     for ti in tk['tiers']:
-        st = lic_day if ti['start'] == 'lic' else np.full(N, ti['start'])
+        st = lic_day + LIC_WAIT if ti['start'] == 'lic' else np.full(N, ti['start'])
         tiers.append(dict(ti, st=st, cond=rng.random(N) < ti['pcond'], filled=np.zeros(N, bool)))
     inv = np.zeros(N); carry = np.zeros(N); raw = np.zeros(N); sh_bought = np.zeros(N); sh = np.zeros(N); proceeds = np.zeros(N)
     opened = np.zeros(N, bool); closed = np.zeros(N, bool); anytp = np.zeros(N, bool)
@@ -194,9 +195,12 @@ def run(N=20000, seed=7, drift='neutral', mu_vn=0.08, mu_c=0.08, variant='L0', b
         risk += val
         m = np.where(inv > 0, np.where(cancelled[k], 0, r['raw']) / np.maximum(inv, 1e-9), np.nan)
         dep = inv > 0
-        out[k] = dict(dep=dep.mean(), mean_mult=np.nanmean(m), p_x2=np.nanmean(m >= 2) if dep.any() else 0,
-                      p_x15=np.nanmean(m >= 1.5) if dep.any() else 0, p_l30=np.nanmean(m < 0.7) if dep.any() else 0,
-                      p_loss=np.nanmean(m < 1) if dep.any() else 0, ticket_ev=np.mean(val) / sz)
+        md = m[dep]                                   # realized multiples of tickets actually bought
+        cond = lambda x: float(x.mean()) if md.size else float('nan')
+        out[k] = dict(dep=dep.mean(), mean_mult=cond(md),
+                      p_loss=cond(md < 1), p_l30=cond(md < 0.7), p_x15=cond(md >= 1.5), p_x2=cond(md >= 2),
+                      u_p_loss=float((md < 1).sum()) / N, u_p_x2=float((md >= 2).sum()) / N,
+                      ticket_ev=float(np.mean(val)) / sz if sz else float('nan'))
     tot = safe + risk
     bench = 100 * 1.09 * (1 + r2)
     q = np.percentile(tot, [5, 50, 95])
