@@ -2,6 +2,7 @@
 
 - **Báo cáo chính:** [`BAO_CAO_DAU_TU_2026-10.md`](BAO_CAO_DAU_TU_2026-10.md). Dữ liệu chốt phiên 02/10/2026.
 - **Bảng khuyến nghị (mở bằng Excel hoặc Google Sheets):** [`danh_muc_khuyen_nghi_2026-10.csv`](danh_muc_khuyen_nghi_2026-10.csv)
+- **Rà soát sâu cơ hội lợi nhuận cao, "đón tin trước", x5–x10 (03/10/2026):** [`BAO_CAO_CO_HOI_2026-10.md`](BAO_CAO_CO_HOI_2026-10.md). Bảng 24 cơ hội: [`co_hoi_2026-10.csv`](co_hoi_2026-10.csv). Dữ liệu gốc và kết quả agent: [`data/opportunity/`](data/opportunity/)
 
 ## Dữ liệu và cách cập nhật
 
